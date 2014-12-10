@@ -1,6 +1,18 @@
-## ---- Clean_Data ----
-clean_data <- function(file){
+#' An importer function for NFL seasonal data.
+#'
+#' This function cleans one of the seasonal data files (included as a csv file in this package) and imports it into R.
+#' @param a file name included in the data directory
+#' @keywords import; data
+#' @export
+#' @examples
+#' CleanSeasonalData()
 
+
+## ---- Clean_Data ----
+CleanSeasonalData <- function(year){
+  
+  file <- system.file("extdata", paste("BoxScores", year, ".csv", sep = ""), package="AnalyticsTools")
+  
   ## Read in the data. 
   raw <- read.csv(file, header = TRUE)
   

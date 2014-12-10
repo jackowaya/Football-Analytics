@@ -1,5 +1,14 @@
+#' A function to combine multiple NFL seasonal data.
+#'
+#' This function combines a vector of years corresponding to NFL seasonal data into a single R data frame.
+#' @param a vector of years for NFL seasonal data to be imported into R.
+#' @keywords combine; seasonal data
+#' @export
+#' @examples
+#' CombineYearlyData()
+
 ## ---- Combine_Yearly_Data ----
-combine_yearly_data <- function(years){
+CombineYearlyData <- function(years){
   
   final <- data.frame()
   
