@@ -1,0 +1,2254 @@
+Year,Week,Favorite,Underdog,Line,Favorite Home,Over Under,Favorite Money Line,Underdog Money Line
+2014,1,Seattle Seahawks,Green Bay Packers,-5.0,True,47.0,-240,200
+2014,1,New Orleans Saints,Atlanta Falcons,-3.0,False,51.5,-165,145
+2014,1,St. Louis Rams,Minnesota Vikings,-3.0,True,43.5,-150,130
+2014,1,Pittsburgh Steelers,Cleveland Browns,-6.0,True,41.5,-270,230
+2014,1,Philadelphia Eagles,Jacksonville Jaguars,-10.0,True,50.0,-625,450
+2014,1,New York Jets,Oakland Raiders,-6.5,True,41.5,-290,245
+2014,1,Baltimore Ravens,Cincinnati Bengals,-1.0,True,43.5,-115,-105
+2014,1,Chicago Bears,Buffalo Bills,-7.0,True,47.5,-320,260
+2014,1,Houston Texans,Washington Redskins,-3.0,True,44.0,-170,150
+2014,1,Kansas City Chiefs,Tennessee Titans,-3.0,True,45.0,-165,145
+2014,1,New England Patriots,Miami Dolphins,-4.0,False,47.5,-200,175
+2014,1,Tampa Bay Buccaneers,Carolina Panthers,-4.5,True,38.5,-230,195
+2014,1,San Francisco 49ers,Dallas Cowboys,-3.5,False,50.0,-175,155
+2014,1,Denver Broncos,Indianapolis Colts,-8.5,True,54.0,-410,330
+2014,1,Detroit Lions,New York Giants,-6.5,True,46.0,-270,230
+2014,1,Arizona Cardinals,San Diego Chargers,-3.0,True,46.0,-155,135
+2013,1,Denver Broncos,Baltimore Ravens,-7.5,True,48.5,-340,280
+2013,1,New England Patriots,Buffalo Bills,-10.0,False,51.0,-500,400
+2013,1,Pittsburgh Steelers,Tennessee Titans,-6.0,True,42.0,-265,225
+2013,1,New Orleans Saints,Atlanta Falcons,-3.5,True,55.0,-190,170
+2013,1,Tampa Bay Buccaneers,New York Jets,-4.0,False,39.5,-205,175
+2013,1,Kansas City Chiefs,Jacksonville Jaguars,-3.5,False,42.5,-195,170
+2013,1,Chicago Bears,Cincinnati Bengals,-3.0,True,41.5,-155,135
+2013,1,Cleveland Browns,Miami Dolphins,-2.5,True,41.0,-140,120
+2013,1,Seattle Seahawks,Carolina Panthers,-3.0,False,44.5,-165,145
+2013,1,Detroit Lions,Minnesota Vikings,-4.0,True,46.5,-210,180
+2013,1,Indianapolis Colts,Oakland Raiders,-11.0,True,45.5,-700,500
+2013,1,St. Louis Rams,Arizona Cardinals,-4.0,True,42.5,-200,170
+2013,1,San Francisco 49ers,Green Bay Packers,-5.5,True,47.5,-240,200
+2013,1,Dallas Cowboys,New York Giants,-3.5,True,50.0,-185,165
+2013,1,Washington Redskins,Philadelphia Eagles,-4.0,True,52.5,-190,165
+2013,1,Houston Texans,San Diego Chargers,-6.0,False,44.5,-250,210
+2012,1,New York Giants,Dallas Cowboys,-3.5,True,45.5,-195,170
+2012,1,Chicago Bears,Indianapolis Colts,-10.0,True,42.5,-525,400
+2012,1,Philadelphia Eagles,Cleveland Browns,-9.0,False,42.5,-450,370
+2012,1,New York Jets,Buffalo Bills,-3.0,True,39.0,-150,130
+2012,1,New Orleans Saints,Washington Redskins,-8.5,True,50.0,-405,335
+2012,1,New England Patriots,Tennessee Titans,-5.5,False,48.0,-250,210
+2012,1,Minnesota Vikings,Jacksonville Jaguars,-3.5,True,38.0,-195,170
+2012,1,Houston Texans,Miami Dolphins,-13.0,True,41.5,-900,600
+2012,1,Detroit Lions,St. Louis Rams,-8.5,True,46.5,-420,350
+2012,1,Atlanta Falcons,Kansas City Chiefs,-2.5,True,43.0,-135,115
+2012,1,Green Bay Packers,San Francisco 49ers,-5.0,True,46.5,-265,225
+2012,1,Carolina Panthers,Tampa Bay Buccaneers,-3.0,False,45.5,-155,135
+2012,1,Seattle Seahawks,Arizona Cardinals,-3.0,False,41.0,-145,125
+2012,1,Denver Broncos,Pittsburgh Steelers,-2.5,True,45.5,-140,120
+2012,1,Baltimore Ravens,Cincinnati Bengals,-7.0,True,43.0,-350,290
+2012,1,Oakland Raiders,San Diego Chargers,-1.0,True,47.5,-120,100
+2011,1,Green Bay Packers,New Orleans Saints,-5.0,True,47.5,-245,205
+2011,1,Baltimore Ravens,Pittsburgh Steelers,-1.0,True,37.0,-125,105
+2011,1,Tampa Bay Buccaneers,Detroit Lions,-1.5,True,43.5,-125,105
+2011,1,Atlanta Falcons,Chicago Bears,-2.0,True,40.5,-125,105
+2011,1,Kansas City Chiefs,Buffalo Bills,-4.0,True,39.5,-210,180
+2011,1,Houston Texans,Indianapolis Colts,-8.5,True,44.0,-440,330
+2011,1,Philadelphia Eagles,St. Louis Rams,-4.0,False,44.5,-210,180
+2011,1,Cleveland Browns,Cincinnati Bengals,-7.0,True,36.5,-320,260
+2011,1,Tennessee Titans,Jacksonville Jaguars,-1.0,False,38.0,-120,100
+2011,1,New York Giants,Washington Redskins,-1.0,False,40.0,-120,100
+2011,1,Arizona Cardinals,Carolina Panthers,-6.5,True,37.5,-320,260
+2011,1,San Francisco 49ers,Seattle Seahawks,-6.0,True,38.0,-250,210
+2011,1,San Diego Chargers,Minnesota Vikings,-9.0,True,44.0,-450,350
+2011,1,New York Jets,Dallas Cowboys,-6.5,True,41.0,-300,250
+2011,1,New England Patriots,Miami Dolphins,-7.0,False,46.5,-360,300
+2011,1,Denver Broncos,Oakland Raiders,-3.0,True,42.5,-175,155
+2010,1,New Orleans Saints,Minnesota Vikings,-5.0,True,49.0,-250,210
+2010,1,New York Giants,Carolina Panthers,-5.5,True,40.5,-260,220
+2010,1,Miami Dolphins,Buffalo Bills,-3.0,False,39.0,-170,150
+2010,1,Atlanta Falcons,Pittsburgh Steelers,-1.0,True,39.0,-120,100
+2010,1,Chicago Bears,Detroit Lions,-6.5,True,44.5,-300,250
+2010,1,New England Patriots,Cincinnati Bengals,-5.0,True,45.0,-235,195
+2010,1,Tampa Bay Buccaneers,Cleveland Browns,-3.0,True,37.0,-145,125
+2010,1,Jacksonville Jaguars,Denver Broncos,-3.0,True,41.5,-175,155
+2010,1,Indianapolis Colts,Houston Texans,-1.5,False,48.0,-125,105
+2010,1,Tennessee Titans,Oakland Raiders,-6.5,True,39.5,-275,235
+2010,1,Green Bay Packers,Philadelphia Eagles,-3.0,False,48.0,-145,125
+2010,1,San Francisco 49ers,Seattle Seahawks,-3.0,False,37.0,-175,155
+2010,1,Arizona Cardinals,St. Louis Rams,-3.0,False,39.0,-165,145
+2010,1,Dallas Cowboys,Washington Redskins,-3.5,False,40.0,-200,170
+2010,1,New York Jets,Baltimore Ravens,-1.0,True,36.0,-120,100
+2010,1,San Diego Chargers,Kansas City Chiefs,-4.0,False,45.5,-205,175
+2009,1,Pittsburgh Steelers,Tennessee Titans,-6.5,True,36.0,-300,250
+2009,1,Atlanta Falcons,Miami Dolphins,-4.0,True,44.0,-215,180
+2009,1,Baltimore Ravens,Kansas City Chiefs,-13.0,True,36.5,-900,625
+2009,1,Philadelphia Eagles,Carolina Panthers,-2.5,False,43.5,-145,125
+2009,1,Cincinnati Bengals,Denver Broncos,-4.5,True,41.0,-240,195
+2009,1,Minnesota Vikings,Cleveland Browns,-4.0,False,40.0,-220,190
+2009,1,Houston Texans,New York Jets,-4.5,True,44.5,-220,185
+2009,1,Indianapolis Colts,Jacksonville Jaguars,-6.5,True,45.5,-290,240
+2009,1,New Orleans Saints,Detroit Lions,-14.0,True,50.0,-1050,750
+2009,1,Dallas Cowboys,Tampa Bay Buccaneers,-5.5,False,40.0,-260,215
+2009,1,Arizona Cardinals,San Francisco 49ers,-5.0,True,46.0,-230,190
+2009,1,New York Giants,Washington Redskins,-6.5,True,37.0,-280,240
+2009,1,Seattle Seahawks,St. Louis Rams,-7.5,True,41.0,-370,300
+2009,1,Green Bay Packers,Chicago Bears,-4.5,True,47.0,-240,200
+2009,1,New England Patriots,Buffalo Bills,-13.0,True,47.5,-975,675
+2009,1,San Diego Chargers,Oakland Raiders,-10.5,False,43.0,-600,450
+2008,1,New York Giants,Washington Redskins,-4.5,True,41.0,-220,180
+2008,1,Cincinnati Bengals,Baltimore Ravens,-2.0,False,37.5,-130,110
+2008,1,New York Jets,Miami Dolphins,-3.0,False,37.0,-150,130
+2008,1,New England Patriots,Kansas City Chiefs,-16.0,True,43.5,-1700,1200
+2008,1,Pittsburgh Steelers,Houston Texans,-6.5,True,43.5,-300,250
+2008,1,Jacksonville Jaguars,Tennessee Titans,-3.0,False,37.0,-155,135
+2008,1,Detroit Lions,Atlanta Falcons,-3.0,False,41.0,-185,165
+2008,1,Buffalo Bills,Seattle Seahawks,-1.5,True,37.5,-130,110
+2008,1,New Orleans Saints,Tampa Bay Buccaneers,-3.0,True,42.5,-175,155
+2008,1,Philadelphia Eagles,St. Louis Rams,-9.0,True,43.5,-425,325
+2008,1,Dallas Cowboys,Cleveland Browns,-6.0,False,48.5,-280,235
+2008,1,San Diego Chargers,Carolina Panthers,-9.0,True,41.0,-450,350
+2008,1,Arizona Cardinals,San Francisco 49ers,-2.5,False,42.5,-135,115
+2008,1,Indianapolis Colts,Chicago Bears,-10.5,True,43.0,-600,425
+2008,1,Green Bay Packers,Minnesota Vikings,-2.5,True,37.5,-135,115
+2008,1,Denver Broncos,Oakland Raiders,-3.0,False,40.5,-150,130
+2007,1,Indianapolis Colts,New Orleans Saints,-5.5,True,53.5,-250,210
+2007,1,Houston Texans,Kansas City Chiefs,-3.0,True,37.5,-180,160
+2007,1,Denver Broncos,Buffalo Bills,-3.0,False,37.5,-170,150
+2007,1,Pittsburgh Steelers,Cleveland Browns,-5.5,False,36.0,-260,210
+2007,1,Jacksonville Jaguars,Tennessee Titans,-7.5,True,39.0,-390,310
+2007,1,St. Louis Rams,Carolina Panthers,-1.5,True,43.0,-125,105
+2007,1,Philadelphia Eagles,Green Bay Packers,-3.5,False,42.0,-180,160
+2007,1,Minnesota Vikings,Atlanta Falcons,-3.0,True,35.5,-160,140
+2007,1,Washington Redskins,Miami Dolphins,-3.0,True,34.5,-175,155
+2007,1,New England Patriots,New York Jets,-6.5,False,41.0,-300,240
+2007,1,Seattle Seahawks,Tampa Bay Buccaneers,-6.0,True,41.0,-300,230
+2007,1,San Diego Chargers,Chicago Bears,-7.0,True,42.5,-330,270
+2007,1,Oakland Raiders,Detroit Lions,-3.0,True,39.5,-155,135
+2007,1,Dallas Cowboys,New York Giants,-6.5,True,45.0,-300,250
+2007,1,Cincinnati Bengals,Baltimore Ravens,-3.0,True,40.5,-145,125
+2007,1,San Francisco 49ers,Arizona Cardinals,-3.5,True,47.0,-195,170
+2006,1,Pittsburgh Steelers,Miami Dolphins,-1.5,True,34.0,-125,105
+2006,1,Denver Broncos,St. Louis Rams,-3.5,False,45.5,-200,175
+2006,1,Tennessee Titans,New York Jets,-3.0,True,35.5,-160,140
+2006,1,New England Patriots,Buffalo Bills,-9.5,True,41.0,-575,425
+2006,1,Tampa Bay Buccaneers,Baltimore Ravens,-3.0,True,33.5,-160,145
+2006,1,Kansas City Chiefs,Cincinnati Bengals,-1.0,True,48.5,-130,110
+2006,1,Seattle Seahawks,Detroit Lions,-6.0,False,44.0,-300,250
+2006,1,Carolina Panthers,Atlanta Falcons,-4.5,True,38.5,-230,190
+2006,1,Philadelphia Eagles,Houston Texans,-6.0,False,38.0,-300,250
+2006,1,Cleveland Browns,New Orleans Saints,-3.0,True,36.5,-200,175
+2006,1,Dallas Cowboys,Jacksonville Jaguars,-2.0,False,36.5,-130,110
+2006,1,Chicago Bears,Green Bay Packers,-3.5,False,34.5,-210,180
+2006,1,Arizona Cardinals,San Francisco 49ers,-9.5,True,43.5,-550,400
+2006,1,Indianapolis Colts,New York Giants,-3.0,False,48.0,-160,140
+2006,1,Washington Redskins,Minnesota Vikings,-4.0,True,36.0,-210,180
+2006,1,San Diego Chargers,Oakland Raiders,-3.0,False,42.0,-160,140
+2014,2,Baltimore Ravens,Pittsburgh Steelers,-2.5,True,44.5,-140,120
+2014,2,Carolina Panthers,Detroit Lions,-1.5,True,43.5,-120,100
+2014,2,Buffalo Bills,Miami Dolphins,-1.0,True,43.0,-120,100
+2014,2,Washington Redskins,Jacksonville Jaguars,-5.0,True,43.0,-240,200
+2014,2,Tennessee Titans,Dallas Cowboys,-3.5,True,49.5,-175,155
+2014,2,New York Giants,Arizona Cardinals,-2.0,True,41.5,-130,110
+2014,2,New England Patriots,Minnesota Vikings,-3.0,False,49.0,-180,160
+2014,2,New Orleans Saints,Cleveland Browns,-6.0,False,49.5,-265,225
+2014,2,Cincinnati Bengals,Atlanta Falcons,-5.5,True,49.0,-250,210
+2014,2,Tampa Bay Buccaneers,St. Louis Rams,-4.5,True,37.5,-220,185
+2014,2,Seattle Seahawks,San Diego Chargers,-5.0,False,45.0,-240,200
+2014,2,Houston Texans,Oakland Raiders,-3.0,False,41.0,-170,150
+2014,2,Green Bay Packers,New York Jets,-7.5,True,46.5,-360,300
+2014,2,Denver Broncos,Kansas City Chiefs,-13.0,True,49.0,-1050,675
+2014,2,San Francisco 49ers,Chicago Bears,-7.0,True,47.5,-345,285
+2014,2,Indianapolis Colts,Philadelphia Eagles,-3.0,True,54.0,-155,135
+2013,2,New England Patriots,New York Jets,-11.0,True,43.0,-600,450
+2013,2,Philadelphia Eagles,San Diego Chargers,-7.5,True,52.5,-330,270
+2013,2,Baltimore Ravens,Cleveland Browns,-6.5,True,43.5,-300,250
+2013,2,Houston Texans,Tennessee Titans,-7.5,True,42.0,-390,320
+2013,2,Indianapolis Colts,Miami Dolphins,-2.0,True,43.5,-130,110
+2013,2,Carolina Panthers,Buffalo Bills,-3.5,False,43.5,-175,155
+2013,2,Atlanta Falcons,St. Louis Rams,-5.0,True,47.0,-225,185
+2013,2,Green Bay Packers,Washington Redskins,-7.0,True,49.0,-370,310
+2013,2,Kansas City Chiefs,Dallas Cowboys,-3.0,True,45.5,-160,140
+2013,2,Chicago Bears,Minnesota Vikings,-6.0,True,41.0,-265,225
+2013,2,New Orleans Saints,Tampa Bay Buccaneers,-3.5,False,48.5,-170,150
+2013,2,Detroit Lions,Arizona Cardinals,-2.0,False,48.0,-130,110
+2013,2,Oakland Raiders,Jacksonville Jaguars,-4.0,True,41.0,-205,175
+2013,2,Denver Broncos,New York Giants,-3.5,False,54.0,-200,170
+2013,2,Seattle Seahawks,San Francisco 49ers,-3.0,True,44.5,-155,135
+2013,2,Cincinnati Bengals,Pittsburgh Steelers,-6.5,True,40.0,-310,260
+2012,2,Green Bay Packers,Chicago Bears,-5.0,True,50.5,-240,200
+2012,2,New York Giants,Tampa Bay Buccaneers,-7.5,True,43.5,-370,310
+2012,2,New England Patriots,Arizona Cardinals,-13.5,True,47.0,-850,650
+2012,2,Minnesota Vikings,Indianapolis Colts,-3.0,False,45.5,-145,125
+2012,2,New Orleans Saints,Carolina Panthers,-3.0,False,53.5,-150,130
+2012,2,Buffalo Bills,Kansas City Chiefs,-3.0,True,45.0,-165,145
+2012,2,Philadelphia Eagles,Baltimore Ravens,-3.0,True,47.0,-160,140
+2012,2,Oakland Raiders,Miami Dolphins,-1.5,False,41.0,-130,110
+2012,2,Cincinnati Bengals,Cleveland Browns,-7.0,True,39.5,-330,270
+2012,2,Houston Texans,Jacksonville Jaguars,-6.5,False,40.0,-320,260
+2012,2,Dallas Cowboys,Seattle Seahawks,-3.0,False,42.5,-170,150
+2012,2,Washington Redskins,St. Louis Rams,-3.5,False,42.5,-195,165
+2012,2,Pittsburgh Steelers,New York Jets,-4.5,True,43.0,-235,195
+2012,2,San Diego Chargers,Tennessee Titans,-6.5,True,43.5,-270,230
+2012,2,San Francisco 49ers,Detroit Lions,-7.0,True,46.0,-310,260
+2012,2,Atlanta Falcons,Denver Broncos,-3.0,True,50.5,-160,140
+2011,2,New Orleans Saints,Chicago Bears,-5.0,True,46.5,-235,195
+2011,2,Detroit Lions,Kansas City Chiefs,-8.0,True,45.0,-330,270
+2011,2,New York Jets,Jacksonville Jaguars,-9.0,True,38.0,-415,340
+2011,2,Buffalo Bills,Oakland Raiders,-3.5,True,41.0,-200,175
+2011,2,Washington Redskins,Arizona Cardinals,-4.5,True,45.0,-235,195
+2011,2,Baltimore Ravens,Tennessee Titans,-5.5,False,39.0,-260,220
+2011,2,Pittsburgh Steelers,Seattle Seahawks,-14.0,True,40.0,-1000,700
+2011,2,Green Bay Packers,Carolina Panthers,-10.5,False,45.0,-650,450
+2011,2,Minnesota Vikings,Tampa Bay Buccaneers,-1.0,True,41.0,-120,100
+2011,2,Cleveland Browns,Indianapolis Colts,-1.5,False,39.0,-125,105
+2011,2,Dallas Cowboys,San Francisco 49ers,-3.0,False,41.0,-170,150
+2011,2,Houston Texans,Miami Dolphins,-3.0,False,47.0,-155,135
+2011,2,New England Patriots,San Diego Chargers,-6.5,True,53.5,-300,250
+2011,2,Denver Broncos,Cincinnati Bengals,-3.0,True,40.5,-175,155
+2011,2,Philadelphia Eagles,Atlanta Falcons,-2.5,False,49.5,-140,120
+2011,2,New York Giants,St. Louis Rams,-7.0,True,43.5,-330,270
+2010,2,Cleveland Browns,Kansas City Chiefs,-3.0,True,38.0,-175,155
+2010,2,Green Bay Packers,Buffalo Bills,-12.5,True,43.0,-750,525
+2010,2,Baltimore Ravens,Cincinnati Bengals,-3.0,False,39.5,-150,130
+2010,2,Tennessee Titans,Pittsburgh Steelers,-6.0,True,37.0,-270,220
+2010,2,Philadelphia Eagles,Detroit Lions,-6.5,False,41.0,-290,240
+2010,2,Dallas Cowboys,Chicago Bears,-7.0,True,41.5,-330,270
+2010,2,Carolina Panthers,Tampa Bay Buccaneers,-4.0,True,38.0,-210,180
+2010,2,Atlanta Falcons,Arizona Cardinals,-7.0,True,43.0,-300,250
+2010,2,Minnesota Vikings,Miami Dolphins,-5.5,True,41.0,-245,205
+2010,2,Oakland Raiders,St. Louis Rams,-3.5,True,37.5,-175,155
+2010,2,Denver Broncos,Seattle Seahawks,-3.0,True,41.0,-180,160
+2010,2,Houston Texans,Washington Redskins,-2.5,False,43.0,-145,125
+2010,2,San Diego Chargers,Jacksonville Jaguars,-7.0,True,45.0,-330,260
+2010,2,New England Patriots,New York Jets,-3.0,False,39.5,-155,135
+2010,2,Indianapolis Colts,New York Giants,-4.5,True,48.0,-220,185
+2010,2,New Orleans Saints,San Francisco 49ers,-4.5,False,44.0,-230,190
+2009,2,Kansas City Chiefs,Oakland Raiders,-2.5,True,39.5,-135,115
+2009,2,Tennessee Titans,Houston Texans,-7.0,True,41.0,-315,250
+2009,2,New England Patriots,New York Jets,-3.5,False,45.0,-175,155
+2009,2,Green Bay Packers,Cincinnati Bengals,-7.5,True,42.0,-390,310
+2009,2,Minnesota Vikings,Detroit Lions,-10.0,False,45.5,-500,400
+2009,2,New Orleans Saints,Philadelphia Eagles,-3.0,False,46.0,-150,130
+2009,2,Atlanta Falcons,Carolina Panthers,-6.0,True,43.0,-250,200
+2009,2,Washington Redskins,St. Louis Rams,-9.5,True,37.0,-550,400
+2009,2,Jacksonville Jaguars,Arizona Cardinals,-3.0,True,44.0,-165,145
+2009,2,San Francisco 49ers,Seattle Seahawks,-1.0,True,39.5,-120,100
+2009,2,Buffalo Bills,Tampa Bay Buccaneers,-4.0,True,42.0,-200,170
+2009,2,Denver Broncos,Cleveland Browns,-3.0,True,38.5,-180,160
+2009,2,San Diego Chargers,Baltimore Ravens,-1.0,True,41.0,-120,100
+2009,2,Pittsburgh Steelers,Chicago Bears,-3.0,False,38.5,-145,125
+2009,2,Dallas Cowboys,New York Giants,-3.0,True,45.0,-145,125
+2009,2,Indianapolis Colts,Miami Dolphins,-3.0,False,41.5,-165,145
+2008,2,Kansas City Chiefs,Oakland Raiders,-3.5,True,36.0,-180,160
+2008,2,Cincinnati Bengals,Tennessee Titans,0,True,37.0,-120,100
+2008,2,Indianapolis Colts,Minnesota Vikings,-1.5,False,43.5,-125,105
+2008,2,Washington Redskins,New Orleans Saints,-1.0,True,43.0,-120,100
+2008,2,Green Bay Packers,Detroit Lions,-3.0,False,46.5,-160,140
+2008,2,Carolina Panthers,Chicago Bears,-3.0,True,37.0,-175,155
+2008,2,New York Giants,St. Louis Rams,-8.5,False,43.5,-450,350
+2008,2,Jacksonville Jaguars,Buffalo Bills,-4.5,True,37.0,-200,170
+2008,2,Tampa Bay Buccaneers,Atlanta Falcons,-7.0,True,37.5,-310,250
+2008,2,Seattle Seahawks,San Francisco 49ers,-6.5,True,38.0,-285,240
+2008,2,Arizona Cardinals,Miami Dolphins,-6.5,True,40.5,-280,240
+2008,2,New England Patriots,New York Jets,-1.0,False,37.5,-120,100
+2008,2,Denver Broncos,San Diego Chargers,-1.0,True,46.0,-120,100
+2008,2,Pittsburgh Steelers,Cleveland Browns,-6.5,False,43.5,-290,245
+2008,2,Dallas Cowboys,Philadelphia Eagles,-6.5,True,46.5,-280,240
+2008,2,Houston Texans,Baltimore Ravens,-4.5,True,37.5,-210,180
+2007,2,Pittsburgh Steelers,Buffalo Bills,-10.0,True,39.0,-575,425
+2007,2,Cincinnati Bengals,Cleveland Browns,-7.5,False,41.5,-360,290
+2007,2,Indianapolis Colts,Tennessee Titans,-7.0,False,46.0,-330,260
+2007,2,Carolina Panthers,Houston Texans,-6.5,True,38.0,-310,260
+2007,2,St. Louis Rams,San Francisco 49ers,-3.0,True,44.5,-160,140
+2007,2,New York Giants,Green Bay Packers,-3.0,True,39.5,-160,140
+2007,2,Jacksonville Jaguars,Atlanta Falcons,-10.5,True,34.5,-625,450
+2007,2,New Orleans Saints,Tampa Bay Buccaneers,-5.0,False,42.0,-260,210
+2007,2,Detroit Lions,Minnesota Vikings,-3.0,True,43.0,-175,155
+2007,2,Dallas Cowboys,Miami Dolphins,-3.5,False,40.0,-200,170
+2007,2,Seattle Seahawks,Arizona Cardinals,-3.0,False,42.5,-145,125
+2007,2,Baltimore Ravens,New York Jets,-9.5,True,33.0,-600,400
+2007,2,Denver Broncos,Oakland Raiders,-9.5,True,37.0,-550,425
+2007,2,Chicago Bears,Kansas City Chiefs,-12.0,True,34.5,-800,550
+2007,2,New England Patriots,San Diego Chargers,-3.5,True,46.5,-190,165
+2007,2,Philadelphia Eagles,Washington Redskins,-7.0,True,39.0,-310,250
+2006,2,Baltimore Ravens,Oakland Raiders,-13.0,True,34.0,-1050,700
+2006,2,Indianapolis Colts,Houston Texans,-12.5,True,47.5,-1100,750
+2006,2,Cincinnati Bengals,Cleveland Browns,-10.0,True,40.5,-600,450
+2006,2,Miami Dolphins,Buffalo Bills,-6.5,True,37.0,-320,260
+2006,2,Chicago Bears,Detroit Lions,-7.5,True,32.0,-390,330
+2006,2,Minnesota Vikings,Carolina Panthers,-2.0,True,37.0,-135,115
+2006,2,Philadelphia Eagles,New York Giants,-2.5,True,42.0,-145,125
+2006,2,Atlanta Falcons,Tampa Bay Buccaneers,-4.5,True,35.0,-225,185
+2006,2,New Orleans Saints,Green Bay Packers,-1.5,False,39.5,-130,110
+2006,2,St. Louis Rams,San Francisco 49ers,-3.0,False,43.5,-165,145
+2006,2,Seattle Seahawks,Arizona Cardinals,-7.0,True,47.0,-330,260
+2006,2,New England Patriots,New York Jets,-6.0,False,37.5,-280,220
+2006,2,San Diego Chargers,Tennessee Titans,-11.5,True,38.0,-700,500
+2006,2,Denver Broncos,Kansas City Chiefs,-10.5,True,38.5,-575,450
+2006,2,Dallas Cowboys,Washington Redskins,-7.0,True,37.0,-300,250
+2006,2,Pittsburgh Steelers,Jacksonville Jaguars,-2.5,False,36.5,-140,120
+2014,3,Atlanta Falcons,Tampa Bay Buccaneers,-6.5,True,47.0,-295,245
+2014,3,Buffalo Bills,San Diego Chargers,-2.5,True,45.5,-140,120
+2014,3,Dallas Cowboys,St. Louis Rams,-2.0,False,45.0,-130,110
+2014,3,Philadelphia Eagles,Washington Redskins,-4.0,True,50.0,-210,180
+2014,3,New York Giants,Houston Texans,-1.0,True,41.5,-120,100
+2014,3,New Orleans Saints,Minnesota Vikings,-10.0,True,49.5,-625,450
+2014,3,Cincinnati Bengals,Tennessee Titans,-6.5,True,44.5,-300,250
+2014,3,Baltimore Ravens,Cleveland Browns,-1.5,False,43.0,-125,105
+2014,3,Detroit Lions,Green Bay Packers,-1.5,True,52.0,-120,100
+2014,3,Indianapolis Colts,Jacksonville Jaguars,-6.5,False,45.0,-290,240
+2014,3,New England Patriots,Oakland Raiders,-14.0,True,47.0,-1300,800
+2014,3,San Francisco 49ers,Arizona Cardinals,-3.0,False,41.0,-155,135
+2014,3,Seattle Seahawks,Denver Broncos,-4.5,True,48.0,-225,190
+2014,3,Miami Dolphins,Kansas City Chiefs,-5.5,True,42.5,-255,215
+2014,3,Carolina Panthers,Pittsburgh Steelers,-3.0,True,42.5,-180,160
+2014,3,New York Jets,Chicago Bears,-1.5,True,45.0,-125,105
+2013,3,Philadelphia Eagles,Kansas City Chiefs,-3.5,True,50.5,-180,160
+2013,3,Tennessee Titans,San Diego Chargers,-3.0,True,43.0,-155,135
+2013,3,Minnesota Vikings,Cleveland Browns,-7.0,True,40.5,-320,260
+2013,3,New England Patriots,Tampa Bay Buccaneers,-7.0,True,44.5,-345,285
+2013,3,Baltimore Ravens,Houston Texans,-1.0,True,44.5,-120,100
+2013,3,Dallas Cowboys,St. Louis Rams,-3.0,True,47.5,-170,150
+2013,3,New Orleans Saints,Arizona Cardinals,-7.5,True,48.5,-350,290
+2013,3,Detroit Lions,Washington Redskins,-1.0,False,49.0,-120,100
+2013,3,Green Bay Packers,Cincinnati Bengals,-3.0,False,50.0,-150,130
+2013,3,New York Giants,Carolina Panthers,-2.5,False,47.5,-140,120
+2013,3,Miami Dolphins,Atlanta Falcons,-2.5,True,45.5,-145,125
+2013,3,San Francisco 49ers,Indianapolis Colts,-10.5,True,46.0,-500,400
+2013,3,Seattle Seahawks,Jacksonville Jaguars,-19.5,True,39.5,-6500,2000
+2013,3,New York Jets,Buffalo Bills,-2.5,True,41.0,-140,120
+2013,3,Chicago Bears,Pittsburgh Steelers,-2.5,False,40.5,-140,120
+2013,3,Denver Broncos,Oakland Raiders,-16.5,True,49.5,-2200,1100
+2012,3,Carolina Panthers,New York Giants,-2.5,True,48.5,-150,130
+2012,3,Chicago Bears,St. Louis Rams,-7.0,True,42.0,-320,260
+2012,3,Dallas Cowboys,Tampa Bay Buccaneers,-7.5,True,45.5,-370,310
+2012,3,San Francisco 49ers,Minnesota Vikings,-7.0,False,42.5,-325,265
+2012,3,Detroit Lions,Tennessee Titans,-4.0,False,47.0,-200,175
+2012,3,Washington Redskins,Cincinnati Bengals,-3.0,True,49.5,-170,150
+2012,3,New York Jets,Miami Dolphins,-2.5,False,40.5,-150,130
+2012,3,New Orleans Saints,Kansas City Chiefs,-8.5,True,51.5,-390,320
+2012,3,Buffalo Bills,Cleveland Browns,-3.0,False,45.0,-140,120
+2012,3,Indianapolis Colts,Jacksonville Jaguars,-3.0,True,43.0,-175,155
+2012,3,Philadelphia Eagles,Arizona Cardinals,-3.0,False,42.0,-175,155
+2012,3,San Diego Chargers,Atlanta Falcons,-3.0,True,47.0,-165,145
+2012,3,Houston Texans,Denver Broncos,-1.5,False,43.5,-125,105
+2012,3,Pittsburgh Steelers,Oakland Raiders,-3.5,False,45.0,-200,170
+2012,3,Baltimore Ravens,New England Patriots,-3.0,True,48.5,-150,140
+2012,3,Green Bay Packers,Seattle Seahawks,-3.0,False,45.5,-175,155
+2011,3,Cincinnati Bengals,San Francisco 49ers,-1.0,True,38.5,-120,100
+2011,3,New England Patriots,Buffalo Bills,-7.0,False,54.0,-340,280
+2011,3,New Orleans Saints,Houston Texans,-3.5,True,51.0,-180,160
+2011,3,Philadelphia Eagles,New York Giants,-8.0,True,46.5,-395,325
+2011,3,Miami Dolphins,Cleveland Browns,-1.5,False,42.5,-130,110
+2011,3,Tennessee Titans,Denver Broncos,-7.0,True,44.0,-310,260
+2011,3,Detroit Lions,Minnesota Vikings,-3.0,False,44.5,-165,145
+2011,3,Carolina Panthers,Jacksonville Jaguars,-3.5,True,43.0,-175,155
+2011,3,San Diego Chargers,Kansas City Chiefs,-14.0,True,44.5,-900,650
+2011,3,New York Jets,Oakland Raiders,-2.5,False,40.0,-140,120
+2011,3,Baltimore Ravens,St. Louis Rams,-5.5,False,42.0,-255,215
+2011,3,Tampa Bay Buccaneers,Atlanta Falcons,-1.0,True,45.0,-120,100
+2011,3,Arizona Cardinals,Seattle Seahawks,-3.0,False,43.0,-160,140
+2011,3,Green Bay Packers,Chicago Bears,-4.5,False,45.5,-220,185
+2011,3,Pittsburgh Steelers,Indianapolis Colts,-11.0,False,40.0,-650,475
+2011,3,Dallas Cowboys,Washington Redskins,-3.5,True,45.0,-185,165
+2010,3,New York Giants,Tennessee Titans,-3.0,True,43.5,-160,140
+2010,3,New England Patriots,Buffalo Bills,-14.5,True,43.0,-1050,725
+2010,3,Baltimore Ravens,Cleveland Browns,-12.5,True,36.5,-750,550
+2010,3,Pittsburgh Steelers,Tampa Bay Buccaneers,-2.5,False,33.0,-145,125
+2010,3,Cincinnati Bengals,Carolina Panthers,-3.5,False,37.0,-185,165
+2010,3,New Orleans Saints,Atlanta Falcons,-3.0,True,49.0,-170,150
+2010,3,San Francisco 49ers,Kansas City Chiefs,-3.0,False,38.0,-145,125
+2010,3,Minnesota Vikings,Detroit Lions,-13.0,True,43.0,-775,575
+2010,3,Houston Texans,Dallas Cowboys,-2.5,True,47.5,-135,115
+2010,3,Washington Redskins,St. Louis Rams,-5.0,False,39.0,-235,195
+2010,3,Philadelphia Eagles,Jacksonville Jaguars,-2.5,False,45.0,-140,120
+2010,3,Indianapolis Colts,Denver Broncos,-6.0,False,47.0,-260,220
+2010,3,San Diego Chargers,Seattle Seahawks,-3.5,False,44.0,-190,170
+2010,3,Arizona Cardinals,Oakland Raiders,-5.5,True,39.0,-245,205
+2010,3,Miami Dolphins,New York Jets,-2.5,True,36.0,-140,120
+2010,3,Green Bay Packers,Chicago Bears,-3.0,False,45.5,-155,135
+2009,3,New York Jets,Tennessee Titans,-1.0,True,36.0,-120,100
+2009,3,Houston Texans,Jacksonville Jaguars,-4.0,True,47.0,-210,180
+2009,3,Philadelphia Eagles,Kansas City Chiefs,-7.5,True,38.5,-330,270
+2009,3,Baltimore Ravens,Cleveland Browns,-13.5,True,39.0,-825,600
+2009,3,New York Giants,Tampa Bay Buccaneers,-6.5,False,46.0,-270,230
+2009,3,Washington Redskins,Detroit Lions,-6.0,False,39.0,-260,220
+2009,3,Green Bay Packers,St. Louis Rams,-6.5,False,42.5,-280,240
+2009,3,Minnesota Vikings,San Francisco 49ers,-6.5,True,39.0,-280,240
+2009,3,New England Patriots,Atlanta Falcons,-4.5,True,45.5,-240,200
+2009,3,Chicago Bears,Seattle Seahawks,-3.0,False,37.5,-155,135
+2009,3,New Orleans Saints,Buffalo Bills,-6.0,False,51.0,-265,225
+2009,3,San Diego Chargers,Miami Dolphins,-5.0,True,45.0,-260,220
+2009,3,Pittsburgh Steelers,Cincinnati Bengals,-3.5,False,36.5,-180,160
+2009,3,Denver Broncos,Oakland Raiders,-2.5,False,38.0,-135,115
+2009,3,Arizona Cardinals,Indianapolis Colts,-3.0,True,49.5,-160,140
+2009,3,Dallas Cowboys,Carolina Panthers,-8.5,True,48.5,-400,330
+2008,3,Atlanta Falcons,Kansas City Chiefs,-6.5,True,37.0,-280,230
+2008,3,Buffalo Bills,Oakland Raiders,-10.0,True,36.5,-525,425
+2008,3,Tennessee Titans,Houston Texans,-5.0,True,40.0,-230,190
+2008,3,New York Giants,Cincinnati Bengals,-13.0,True,42.0,-800,600
+2008,3,Washington Redskins,Arizona Cardinals,-3.0,True,43.5,-170,150
+2008,3,New England Patriots,Miami Dolphins,-12.5,True,37.0,-750,550
+2008,3,Chicago Bears,Tampa Bay Buccaneers,-3.0,True,35.0,-165,145
+2008,3,Minnesota Vikings,Carolina Panthers,-3.0,True,37.5,-170,150
+2008,3,Seattle Seahawks,St. Louis Rams,-8.5,True,44.0,-380,320
+2008,3,San Francisco 49ers,Detroit Lions,-5.0,True,47.0,-230,190
+2008,3,Denver Broncos,New Orleans Saints,-5.5,True,51.5,-240,200
+2008,3,Philadelphia Eagles,Pittsburgh Steelers,-3.5,True,44.5,-190,170
+2008,3,Indianapolis Colts,Jacksonville Jaguars,-4.5,True,42.0,-215,180
+2008,3,Baltimore Ravens,Cleveland Browns,-2.5,True,37.0,-145,125
+2008,3,Dallas Cowboys,Green Bay Packers,-3.0,False,50.5,-160,140
+2008,3,San Diego Chargers,New York Jets,-8.0,True,46.5,-400,330
+2007,3,Indianapolis Colts,Houston Texans,-6.5,False,46.5,-330,270
+2007,3,San Diego Chargers,Green Bay Packers,-6.0,False,42.5,-290,230
+2007,3,Kansas City Chiefs,Minnesota Vikings,-3.0,True,33.5,-16,140
+2007,3,Philadelphia Eagles,Detroit Lions,-4.5,True,44.5,-230,190
+2007,3,New England Patriots,Buffalo Bills,-16.5,True,41.0,-1800,1200
+2007,3,New York Jets,Miami Dolphins,-3.0,True,36.5,-180,160
+2007,3,Pittsburgh Steelers,San Francisco 49ers,-10.0,True,37.5,-600,450
+2007,3,Baltimore Ravens,Arizona Cardinals,-7.0,True,35.5,-350,275
+2007,3,Tampa Bay Buccaneers,St. Louis Rams,-3.5,True,38.5,-200,170
+2007,3,Denver Broncos,Jacksonville Jaguars,-3.5,True,36.0,-200,170
+2007,3,Seattle Seahawks,Cincinnati Bengals,-3.0,True,50.0,-180,160
+2007,3,Oakland Raiders,Cleveland Browns,-3.0,True,41.5,-165,145
+2007,3,Carolina Panthers,Atlanta Falcons,-4.5,False,38.0,-210,180
+2007,3,Washington Redskins,New York Giants,-3.5,True,42.0,-210,175
+2007,3,Chicago Bears,Dallas Cowboys,-3.0,True,41.5,-150,130
+2007,3,New Orleans Saints,Tennessee Titans,-4.5,True,46.5,-230,190
+2006,3,Buffalo Bills,New York Jets,-6.0,True,33.5,-275,220
+2006,3,Pittsburgh Steelers,Cincinnati Bengals,-2.0,True,42.0,-130,110
+2006,3,Indianapolis Colts,Jacksonville Jaguars,-6.5,True,42.5,-315,250
+2006,3,Miami Dolphins,Tennessee Titans,-10.5,True,35.5,-725,525
+2006,3,Washington Redskins,Houston Texans,-4.0,False,37.5,-200,175
+2006,3,Chicago Bears,Minnesota Vikings,-4.0,False,35.0,-210,175
+2006,3,Carolina Panthers,Tampa Bay Buccaneers,-3.5,False,33.5,-195,170
+2006,3,Detroit Lions,Green Bay Packers,-6.5,True,40.0,-310,250
+2006,3,Baltimore Ravens,Cleveland Browns,-7.0,False,33.0,-360,290
+2006,3,Arizona Cardinals,St. Louis Rams,-4.5,True,44.0,-220,185
+2006,3,Seattle Seahawks,New York Giants,-3.5,True,42.5,-185,165
+2006,3,Philadelphia Eagles,San Francisco 49ers,-6.5,False,42.0,-300,240
+2006,3,New England Patriots,Denver Broncos,-6.5,True,38.5,-300,240
+2006,3,Atlanta Falcons,New Orleans Saints,-4.0,True,45.0,-215,185
+2014,4,Washington Redskins,New York Giants,-3.0,True,44.5,-175,155
+2014,4,Miami Dolphins,Oakland Raiders,-4.0,False,41.0,-190,170
+2014,4,Green Bay Packers,Chicago Bears,-2.0,False,51.0,-130,110
+2014,4,Houston Texans,Buffalo Bills,-3.0,True,44.0,-150,130
+2014,4,Indianapolis Colts,Tennessee Titans,-7.5,True,46.0,-375,315
+2014,4,Baltimore Ravens,Carolina Panthers,-3.0,True,42.0,-165,145
+2014,4,New York Jets,Detroit Lions,-1.5,True,44.0,-125,105
+2014,4,Pittsburgh Steelers,Tampa Bay Buccaneers,-7.5,True,45.0,-365,305
+2014,4,San Diego Chargers,Jacksonville Jaguars,-12.0,True,44.5,-775,550
+2014,4,San Francisco 49ers,Philadelphia Eagles,-4.0,True,49.5,-200,170
+2014,4,Atlanta Falcons,Minnesota Vikings,-6.0,True,47.5,-250,210
+2014,4,New Orleans Saints,Dallas Cowboys,-3.0,False,54.0,-150,130
+2014,4,New England Patriots,Kansas City Chiefs,-3.0,False,45.5,-145,125
+2013,4,San Francisco 49ers,St. Louis Rams,-3.5,False,43.0,-180,160
+2013,4,Pittsburgh Steelers,,-3.0,False,41.5,-150,130
+2013,4,Baltimore Ravens,Buffalo Bills,-3.5,False,45.0,-165,145
+2013,4,Cincinnati Bengals,Cleveland Browns,-3.5,False,42.5,-185,165
+2013,4,Indianapolis Colts,Jacksonville Jaguars,-9.0,False,42.5,-420,350
+2013,4,Seattle Seahawks,Houston Texans,-1.5,False,41.5,-125,105
+2013,4,Tampa Bay Buccaneers,Arizona Cardinals,-2.5,True,40.5,-140,120
+2013,4,Detroit Lions,Chicago Bears,-3.0,True,48.5,-155,135
+2013,4,Kansas City Chiefs,New York Giants,-3.5,True,44.0,-180,160
+2013,4,Tennessee Titans,New York Jets,-3.5,True,40.5,-180,160
+2013,4,Dallas Cowboys,San Diego Chargers,-1.5,False,47.0,-120,100
+2013,4,Washington Redskins,Oakland Raiders,-3.5,False,45.5,-185,165
+2013,4,Denver Broncos,Philadelphia Eagles,-10.5,True,58.5,-600,450
+2013,4,Atlanta Falcons,New England Patriots,-3.0,True,49.5,-160,140
+2013,4,New Orleans Saints,Miami Dolphins,-7.0,True,49.0,-360,300
+2012,4,Baltimore Ravens,Cleveland Browns,-11.5,True,43.5,-675,475
+2012,4,New England Patriots,Buffalo Bills,-4.0,False,48.5,-210,175
+2012,4,Detroit Lions,Minnesota Vikings,-3.5,True,48.5,-195,170
+2012,4,Atlanta Falcons,Carolina Panthers,-7.0,True,48.0,-325,265
+2012,4,San Francisco 49ers,New York Jets,-4.0,False,41.0,-215,180
+2012,4,San Diego Chargers,Kansas City Chiefs,-2.5,False,43.5,-135,115
+2012,4,Houston Texans,Tennessee Titans,-13.0,True,44.5,-750,550
+2012,4,Seattle Seahawks,St. Louis Rams,-2.5,False,39.0,-140,120
+2012,4,Arizona Cardinals,Miami Dolphins,-4.5,True,39.5,-220,190
+2012,4,Denver Broncos,Oakland Raiders,-6.5,True,47.0,-300,250
+2012,4,Jacksonville Jaguars,Cincinnati Bengals,-1.5,True,45.5,-125,105
+2012,4,Green Bay Packers,New Orleans Saints,-7.5,True,54.0,-350,290
+2012,4,Tampa Bay Buccaneers,Washington Redskins,-2.0,True,44.5,-135,115
+2012,4,Philadelphia Eagles,New York Giants,-2.0,True,46.5,-130,110
+2012,4,Dallas Cowboys,Chicago Bears,-3.0,True,41.0,-165,145
+2011,4,Dallas Cowboys,Detroit Lions,-2.5,True,46.5,-140,120
+2011,4,New Orleans Saints,Jacksonville Jaguars,-8.5,False,45.0,-400,330
+2011,4,Philadelphia Eagles,San Francisco 49ers,-10.0,True,43.5,-500,400
+2011,4,Washington Redskins,St. Louis Rams,-3.0,False,44.0,-155,135
+2011,4,Cleveland Browns,Tennessee Titans,-1.5,True,37.5,-125,105
+2011,4,Buffalo Bills,Cincinnati Bengals,-3.0,False,43.0,-155,135
+2011,4,Minnesota Vikings,Kansas City Chiefs,-3.0,False,40.0,-160,140
+2011,4,Chicago Bears,Carolina Panthers,-7.0,True,42.0,-310,260
+2011,4,Houston Texans,Pittsburgh Steelers,-4.0,True,46.5,-205,175
+2011,4,Atlanta Falcons,Seattle Seahawks,-6.0,True,39.5,-265,225
+2011,4,New York Giants,Arizona Cardinals,-1.5,False,45.5,-120,100
+2011,4,San Diego Chargers,Miami Dolphins,-6.5,True,45.0,-300,250
+2011,4,Green Bay Packers,Denver Broncos,-12.0,True,46.5,-725,525
+2011,4,New England Patriots,Oakland Raiders,-6.5,False,55.5,-275,235
+2011,4,Baltimore Ravens,New York Jets,-5.0,True,43.0,-240,200
+2011,4,Tampa Bay Buccaneers,Indianapolis Colts,-10.0,True,40.5,-550,425
+2010,4,Tennessee Titans,Denver Broncos,-6.5,True,43.5,-290,240
+2010,4,Pittsburgh Steelers,Baltimore Ravens,-2.5,True,34.5,-140,120
+2010,4,Cincinnati Bengals,Cleveland Browns,-2.0,False,36.5,-135,115
+2010,4,Green Bay Packers,Detroit Lions,-14.5,True,46.0,-1200,850
+2010,4,New Orleans Saints,Carolina Panthers,-12.5,True,43.5,-775,550
+2010,4,Atlanta Falcons,San Francisco 49ers,-7.0,True,42.5,-315,260
+2010,4,Seattle Seahawks,St. Louis Rams,-2.0,False,40.0,-135,115
+2010,4,New York Jets,Buffalo Bills,-5.5,False,36.5,-250,210
+2010,4,Indianapolis Colts,Jacksonville Jaguars,-7.0,False,45.5,-350,290
+2010,4,Houston Texans,Oakland Raiders,-3.0,False,43.5,-175,155
+2010,4,San Diego Chargers,Arizona Cardinals,-10.0,True,47.0,-600,425
+2010,4,Philadelphia Eagles,Washington Redskins,-5.0,True,44.0,-240,200
+2010,4,New York Giants,Chicago Bears,-3.5,True,44.5,-195,170
+2010,4,Miami Dolphins,New England Patriots,0,True,48.5,-110,-110
+2009,4,Houston Texans,Oakland Raiders,-8.5,True,42.5,-410,340
+2009,4,Tennessee Titans,Jacksonville Jaguars,-3.0,False,42.0,-180,160
+2009,4,New England Patriots,Baltimore Ravens,-2.0,True,45.5,-135,115
+2009,4,Cincinnati Bengals,Cleveland Browns,-6.5,False,37.5,-290,240
+2009,4,New York Giants,Kansas City Chiefs,-9.0,False,43.0,-425,330
+2009,4,Chicago Bears,Detroit Lions,-10.0,True,43.0,-500,375
+2009,4,Washington Redskins,Tampa Bay Buccaneers,-9.0,True,36.0,-400,330
+2009,4,Indianapolis Colts,Seattle Seahawks,-10.0,True,43.5,-550,400
+2009,4,New Orleans Saints,New York Jets,-7.5,True,47.0,-360,300
+2009,4,Miami Dolphins,Buffalo Bills,-1.0,True,37.0,-120,100
+2009,4,San Francisco 49ers,St. Louis Rams,-9.5,True,37.0,-475,350
+2009,4,Dallas Cowboys,Denver Broncos,-2.5,False,43.5,-140,120
+2009,4,Pittsburgh Steelers,San Diego Chargers,-5.5,True,43.5,-240,200
+2009,4,Minnesota Vikings,Green Bay Packers,-4.5,True,46.5,-230,190
+2008,4,Denver Broncos,Kansas City Chiefs,-9.0,False,47.0,-420,320
+2008,4,Cincinnati Bengals,Cleveland Browns,-1.0,True,42.0,-120,100
+2008,4,Jacksonville Jaguars,Houston Texans,-6.5,True,43.0,-280,240
+2008,4,New York Jets,Arizona Cardinals,-1.0,True,43.5,-115,105
+2008,4,New Orleans Saints,San Francisco 49ers,-4.5,True,48.5,-205,175
+2008,4,Carolina Panthers,Atlanta Falcons,-7.0,True,39.0,-300,250
+2008,4,Tennessee Titans,Minnesota Vikings,-3.0,True,35.5,-170,150
+2008,4,Tampa Bay Buccaneers,Green Bay Packers,-2.0,True,43.0,-130,110
+2008,4,Buffalo Bills,St. Louis Rams,-8.5,False,43.5,-350,290
+2008,4,San Diego Chargers,Oakland Raiders,-8.0,False,45.5,-360,300
+2008,4,Dallas Cowboys,Washington Redskins,-10.5,True,46.5,-500,400
+2008,4,Philadelphia Eagles,Chicago Bears,-3.0,False,39.0,-165,145
+2008,4,Pittsburgh Steelers,Baltimore Ravens,-6.0,True,34.5,-270,230
+2007,4,Miami Dolphins,Oakland Raiders,-3.5,True,39.5,-200,170
+2007,4,Houston Texans,Atlanta Falcons,-3.0,False,39.5,-145,125
+2007,4,Baltimore Ravens,Cleveland Browns,-4.0,False,40.0,-210,175
+2007,4,Chicago Bears,Detroit Lions,-2.5,False,46.0,-140,120
+2007,4,Green Bay Packers,Minnesota Vikings,-1.0,False,38.0,-120,100
+2007,4,Dallas Cowboys,St. Louis Rams,-13.5,True,47.0,-975,675
+2007,4,New York Jets,Buffalo Bills,-3.5,False,37.5,-190,165
+2007,4,Carolina Panthers,Tampa Bay Buccaneers,-3.0,True,39.0,-150,130
+2007,4,Seattle Seahawks,San Francisco 49ers,-2.0,False,41.0,-130,110
+2007,4,Pittsburgh Steelers,Arizona Cardinals,-5.5,False,42.5,-250,210
+2007,4,San Diego Chargers,Kansas City Chiefs,-12.5,True,39.0,-850,600
+2007,4,Indianapolis Colts,Denver Broncos,-10.0,True,46.5,-625,450
+2007,4,Philadelphia Eagles,New York Giants,-2.5,False,47.5,-135,115
+2007,4,New England Patriots,Cincinnati Bengals,-8.5,False,54.5,-375,290
+2006,4,Indianapolis Colts,New York Jets,-7.5,False,46.5,-410,325
+2006,4,Baltimore Ravens,San Diego Chargers,-1.0,True,33.5,-120,100
+2006,4,Buffalo Bills,Minnesota Vikings,-2.0,True,34.5,-130,110
+2006,4,Dallas Cowboys,Tennessee Titans,-9.5,False,37.5,-500,375
+2006,4,Kansas City Chiefs,San Francisco 49ers,-7.0,True,39.5,-320,260
+2006,4,Carolina Panthers,New Orleans Saints,-7.0,True,41.0,-330,270
+2006,4,Atlanta Falcons,Arizona Cardinals,-7.5,True,40.5,-350,275
+2006,4,Miami Dolphins,Houston Texans,-3.5,False,40.5,-185,165
+2006,4,St. Louis Rams,Detroit Lions,-5.0,True,42.5,-230,190
+2006,4,Cincinnati Bengals,New England Patriots,-5.5,True,46.0,-250,200
+2006,4,Jacksonville Jaguars,Washington Redskins,-2.0,False,34.0,-140,120
+2006,4,Cleveland Browns,Oakland Raiders,-1.0,False,33.5,-120,100
+2006,4,Chicago Bears,Seattle Seahawks,-3.5,True,36.5,-195,175
+2006,4,Philadelphia Eagles,Green Bay Packers,-11.5,True,49.5,-775,550
+2014,5,Green Bay Packers,Minnesota Vikings,-9.5,True,46.5,-470,370
+2014,5,Carolina Panthers,Chicago Bears,-1.5,True,47.0,-125,105
+2014,5,Cleveland Browns,Tennessee Titans,-1.0,False,44.0,-120,100
+2014,5,Philadelphia Eagles,St. Louis Rams,-4.0,True,48.0,-210,180
+2014,5,New York Giants,Atlanta Falcons,-4.0,True,50.5,-210,180
+2014,5,New Orleans Saints,Tampa Bay Buccaneers,-11.0,True,48.0,-675,475
+2014,5,Dallas Cowboys,Houston Texans,-5.5,True,48.0,-250,210
+2014,5,Detroit Lions,Buffalo Bills,-5.0,True,43.5,-235,195
+2014,5,Indianapolis Colts,Baltimore Ravens,-3.0,True,49.5,-145,125
+2014,5,Pittsburgh Steelers,Jacksonville Jaguars,-6.0,False,47.5,-260,220
+2014,5,Denver Broncos,Arizona Cardinals,-8.5,True,47.5,-400,330
+2014,5,San Francisco 49ers,Kansas City Chiefs,-5.0,True,43.5,-230,190
+2014,5,San Diego Chargers,New York Jets,-7.0,True,44.5,-305,255
+2014,5,Cincinnati Bengals,New England Patriots,-2.5,False,46.5,-140,120
+2014,5,Seattle Seahawks,Washington Redskins,-7.0,False,46.0,-340,280
+2013,5,Cleveland Browns,Buffalo Bills,-3.5,True,40.5,-200,170
+2013,5,Kansas City Chiefs,Tennessee Titans,-2.5,False,38.0,-140,120
+2013,5,Miami Dolphins,Baltimore Ravens,-2.5,True,43.0,-140,120
+2013,5,St. Louis Rams,Jacksonville Jaguars,-11.0,True,41.0,-625,450
+2013,5,New England Patriots,Cincinnati Bengals,-1.5,False,45.5,-125,105
+2013,5,Seattle Seahawks,Indianapolis Colts,-3.0,False,43.5,-145,125
+2013,5,Green Bay Packers,Detroit Lions,-10.0,True,53.5,-475,375
+2013,5,New Orleans Saints,Chicago Bears,-1.0,False,50.5,-120,100
+2013,5,Philadelphia Eagles,New York Giants,-1.0,False,54.0,-125,105
+2013,5,Carolina Panthers,Arizona Cardinals,-3.0,False,41.5,-155,135
+2013,5,San Diego Chargers,Oakland Raiders,-5.5,False,47.0,-240,200
+2013,5,Denver Broncos,Dallas Cowboys,-8.0,False,57.0,-370,310
+2013,5,San Francisco 49ers,Houston Texans,-4.5,True,43.5,-215,185
+2013,5,Atlanta Falcons,New York Jets,-10.0,True,45.0,-550,400
+2012,5,Arizona Cardinals,St. Louis Rams,-1.5,False,38.0,-125,105
+2012,5,Atlanta Falcons,Washington Redskins,-3.0,True,51.0,-160,140
+2012,5,Pittsburgh Steelers,Philadelphia Eagles,-4.0,True,44.0,-205,175
+2012,5,Green Bay Packers,Indianapolis Colts,-6.5,False,49.0,-290,245
+2012,5,New York Giants,Cleveland Browns,-8.0,True,43.5,-400,330
+2012,5,Minnesota Vikings,Tennessee Titans,-6.0,True,44.0,-260,220
+2012,5,Cincinnati Bengals,Miami Dolphins,-3.0,True,45.0,-165,145
+2012,5,Baltimore Ravens,Kansas City Chiefs,-6.0,False,46.5,-270,230
+2012,5,Carolina Panthers,Seattle Seahawks,-2.0,True,42.5,-125,105
+2012,5,Chicago Bears,Jacksonville Jaguars,-6.5,False,39.0,-270,230
+2012,5,New England Patriots,Denver Broncos,-6.0,True,51.0,-265,225
+2012,5,San Francisco 49ers,Buffalo Bills,-10.0,True,45.5,-500,400
+2012,5,New Orleans Saints,San Diego Chargers,-3.5,True,53.5,-185,165
+2012,5,Houston Texans,New York Jets,-9.5,False,40.5,-475,375
+2011,5,Indianapolis Colts,Kansas City Chiefs,-1.5,True,38.0,-125,105
+2011,5,Minnesota Vikings,Arizona Cardinals,-3.5,True,45.0,-195,170
+2011,5,Philadelphia Eagles,Buffalo Bills,-3.0,False,53.0,-170,150
+2011,5,Houston Texans,Oakland Raiders,-5.0,True,48.5,-225,195
+2011,5,New Orleans Saints,Carolina Panthers,-6.5,False,51.5,-300,250
+2011,5,Cincinnati Bengals,Jacksonville Jaguars,-2.5,False,36.5,-145,125
+2011,5,Pittsburgh Steelers,Tennessee Titans,-3.0,True,40.0,-190,170
+2011,5,New York Giants,Seattle Seahawks,-10.0,True,43.5,-550,425
+2011,5,San Francisco 49ers,Tampa Bay Buccaneers,-3.0,True,41.0,-150,130
+2011,5,New England Patriots,New York Jets,-7.5,True,50.5,-360,300
+2011,5,San Diego Chargers,Denver Broncos,-3.5,False,47.0,-195,170
+2011,5,Green Bay Packers,Atlanta Falcons,-6.0,False,54.0,-270,230
+2011,5,Detroit Lions,Chicago Bears,-6.5,True,47.5,-300,250
+2010,5,Baltimore Ravens,Denver Broncos,-8.0,True,39.5,-400,330
+2010,5,Buffalo Bills,Jacksonville Jaguars,-2.5,True,41.5,-140,120
+2010,5,Indianapolis Colts,Kansas City Chiefs,-7.5,True,46.0,-380,320
+2010,5,Detroit Lions,St. Louis Rams,-3.0,True,43.5,-155,135
+2010,5,Atlanta Falcons,Cleveland Browns,-3.0,True,41.5,-165,145
+2010,5,Cincinnati Bengals,Tampa Bay Buccaneers,-6.5,True,38.0,-310,260
+2010,5,Carolina Panthers,Chicago Bears,-3.0,True,33.0,-150,130
+2010,5,Green Bay Packers,Washington Redskins,-3.0,False,45.0,-145,125
+2010,5,Houston Texans,New York Giants,-3.0,True,48.5,-175,155
+2010,5,New Orleans Saints,Arizona Cardinals,-7.0,False,45.5,-310,260
+2010,5,San Diego Chargers,Oakland Raiders,-7.0,False,44.5,-315,255
+2010,5,Dallas Cowboys,Tennessee Titans,-7.0,True,43.5,-300,250
+2010,5,San Francisco 49ers,Philadelphia Eagles,-3.5,True,39.5,-180,160
+2009,5,Minnesota Vikings,St. Louis Rams,-10.5,False,41.0,-625,450
+2009,5,Dallas Cowboys,Kansas City Chiefs,-7.0,False,43.5,-350,290
+2009,5,Carolina Panthers,Washington Redskins,-5.0,True,38.0,-260,220
+2009,5,Philadelphia Eagles,Tampa Bay Buccaneers,-15.5,True,42.0,-1300,900
+2009,5,New York Giants,Oakland Raiders,-15.5,True,38.0,-1300,900
+2009,5,Buffalo Bills,Cleveland Browns,-5.5,True,42.0,-250,210
+2009,5,Baltimore Ravens,Cincinnati Bengals,-9.0,True,42.5,-450,350
+2009,5,Pittsburgh Steelers,Detroit Lions,-11.0,False,44.0,-700,500
+2009,5,San Francisco 49ers,Atlanta Falcons,-1.0,True,39.5,-115,-105
+2009,5,New England Patriots,Denver Broncos,-3.0,False,41.5,-165,145
+2009,5,Arizona Cardinals,Houston Texans,-6.0,True,50.5,-250,210
+2009,5,Seattle Seahawks,Jacksonville Jaguars,-1.5,True,44.0,-125,105
+2009,5,Indianapolis Colts,Tennessee Titans,-4.0,False,44.5,-200,175
+2009,5,New York Jets,Miami Dolphins,-3.0,False,36.5,-165,145
+2008,5,Indianapolis Colts,Houston Texans,-4.0,False,48.5,-210,180
+2008,5,Tennessee Titans,Baltimore Ravens,-1.0,False,33.5,-120,100
+2008,5,San Diego Chargers,Miami Dolphins,-6.0,False,44.5,-245,200
+2008,5,Carolina Panthers,Kansas City Chiefs,-9.5,True,38.0,-450,350
+2008,5,Philadelphia Eagles,Washington Redskins,-6.5,True,42.0,-290,245
+2008,5,Chicago Bears,Detroit Lions,-3.5,False,45.5,-175,155
+2008,5,Green Bay Packers,Atlanta Falcons,-5.5,True,42.0,-230,190
+2008,5,New York Giants,Seattle Seahawks,-6.5,True,43.5,-285,240
+2008,5,Denver Broncos,Tampa Bay Buccaneers,-3.5,True,47.0,-200,175
+2008,5,New England Patriots,San Francisco 49ers,-3.0,False,41.0,-170,150
+2008,5,Arizona Cardinals,Buffalo Bills,-2.5,True,44.5,-145,125
+2008,5,Dallas Cowboys,Cincinnati Bengals,-16.0,True,46.5,-1100,800
+2008,5,Jacksonville Jaguars,Pittsburgh Steelers,-5.5,True,38.0,-250,210
+2008,5,New Orleans Saints,Minnesota Vikings,-3.0,True,47.0,-160,140
+2007,5,New Orleans Saints,Carolina Panthers,-4.0,True,43.0,-200,170
+2007,5,Jacksonville Jaguars,Kansas City Chiefs,-2.5,False,36.0,-135,115
+2007,5,Washington Redskins,Detroit Lions,-3.5,True,45.0,-200,170
+2007,5,Tennessee Titans,Atlanta Falcons,-7.5,True,41.0,-380,300
+2007,5,Houston Texans,Miami Dolphins,-5.0,True,43.0,-250,200
+2007,5,Pittsburgh Steelers,Seattle Seahawks,-5.0,True,41.5,-250,200
+2007,5,New England Patriots,Cleveland Browns,-16.0,True,48.0,-1850,1200
+2007,5,Arizona Cardinals,St. Louis Rams,-4.0,False,40.5,-210,175
+2007,5,New York Giants,New York Jets,-4.0,True,41.0,-210,175
+2007,5,Indianapolis Colts,Tampa Bay Buccaneers,-8.5,True,45.0,-500,375
+2007,5,San Diego Chargers,Denver Broncos,-1.0,False,43.0,-115,-105
+2007,5,Baltimore Ravens,San Francisco 49ers,-4.0,False,35.0,-210,175
+2007,5,Green Bay Packers,Chicago Bears,-3.5,True,41.0,-185,165
+2007,5,Dallas Cowboys,Buffalo Bills,-11.0,False,45.5,-700,500
+2006,5,Indianapolis Colts,Tennessee Titans,-17.5,True,48.0,-2700,1750
+2006,5,New York Giants,Washington Redskins,-5.5,True,46.0,-260,210
+2006,5,Minnesota Vikings,Detroit Lions,-6.5,True,41.0,-310,250
+2006,5,New Orleans Saints,Tampa Bay Buccaneers,-7.0,True,35.0,-310,260
+2006,5,St. Louis Rams,Green Bay Packers,-2.5,False,46.5,-135,115
+2006,5,New England Patriots,Miami Dolphins,-9.5,True,36.5,-600,450
+2006,5,Chicago Bears,Buffalo Bills,-9.5,True,34.5,-600,450
+2006,5,Carolina Panthers,Cleveland Browns,-8.0,True,38.0,-390,310
+2006,5,Jacksonville Jaguars,New York Jets,-7.0,True,38.5,-330,260
+2006,5,Kansas City Chiefs,Arizona Cardinals,-3.5,False,40.0,-210,175
+2006,5,San Francisco 49ers,Oakland Raiders,-3.5,True,39.5,-180,160
+2006,5,Philadelphia Eagles,Dallas Cowboys,-1.0,True,43.0,-115,-105
+2006,5,San Diego Chargers,Pittsburgh Steelers,-3.5,True,37.0,-180,160
+2006,5,Denver Broncos,Baltimore Ravens,-5.0,True,33.0,-250,210
+2014,6,Indianapolis Colts,Houston Texans,-2.5,False,46.0,-140,120
+2014,6,Denver Broncos,New York Jets,-10.0,False,47.5,-490,390
+2014,6,Cleveland Browns,Pittsburgh Steelers,-2.0,True,46.5,-130,110
+2014,6,Tennessee Titans,Jacksonville Jaguars,-4.0,True,42.5,-205,175
+2014,6,Atlanta Falcons,Chicago Bears,-3.5,True,56.0,-175,155
+2014,6,Green Bay Packers,Miami Dolphins,-2.0,False,47.0,-130,110
+2014,6,Minnesota Vikings,Detroit Lions,-1.5,True,43.0,-125,105
+2014,6,Cincinnati Bengals,Carolina Panthers,-7.0,True,44.0,-310,260
+2014,6,Buffalo Bills,New England Patriots,0,True,44.5,-110,-110
+2014,6,Baltimore Ravens,Tampa Bay Buccaneers,-3.5,False,44.5,-185,165
+2014,6,San Diego Chargers,Oakland Raiders,-7.5,False,44.0,-360,300
+2014,6,Seattle Seahawks,Dallas Cowboys,-9.5,True,47.0,-480,380
+2014,6,Arizona Cardinals,Washington Redskins,-5.5,True,46.5,-245,205
+2014,6,Philadelphia Eagles,New York Giants,-1.5,True,51.0,-125,105
+2014,6,San Francisco 49ers,St. Louis Rams,-3.5,False,44.5,-205,175
+2013,6,Chicago Bears,New York Giants,-9.0,True,47.5,-400,330
+2013,6,Kansas City Chiefs,Oakland Raiders,-8.0,True,41.0,-375,315
+2013,6,Philadelphia Eagles,Tampa Bay Buccaneers,-3.0,False,45.0,-150,130
+2013,6,Green Bay Packers,Baltimore Ravens,-2.0,False,49.0,-130,110
+2013,6,Detroit Lions,Cleveland Browns,-2.0,False,43.5,-130,110
+2013,6,Minnesota Vikings,Carolina Panthers,-2.5,True,45.0,-140,120
+2013,6,Houston Texans,St. Louis Rams,-9.0,True,43.0,-440,360
+2013,6,Pittsburgh Steelers,New York Jets,-1.5,False,41.0,-125,105
+2013,6,Cincinnati Bengals,Buffalo Bills,-6.0,False,41.5,-270,230
+2013,6,Seattle Seahawks,Tennessee Titans,-12.5,True,42.0,-750,550
+2013,6,Denver Broncos,Jacksonville Jaguars,-27.0,True,53.0,-9000,3000
+2013,6,San Francisco 49ers,Arizona Cardinals,-10.0,True,40.5,-550,400
+2013,6,New England Patriots,New Orleans Saints,-2.0,True,51.0,-125,105
+2013,6,Dallas Cowboys,Washington Redskins,-5.5,True,53.0,-250,210
+2013,6,Indianapolis Colts,San Diego Chargers,-1.5,False,51.0,-125,105
+2012,6,Pittsburgh Steelers,Tennessee Titans,-6.0,False,43.0,-260,220
+2012,6,Cincinnati Bengals,Cleveland Browns,-1.5,False,42.0,-130,110
+2012,6,New York Jets,Indianapolis Colts,-3.5,True,44.0,-185,165
+2012,6,Tampa Bay Buccaneers,Kansas City Chiefs,-5.0,True,39.5,-240,200
+2012,6,Atlanta Falcons,Oakland Raiders,-10.0,True,49.0,-500,400
+2012,6,Baltimore Ravens,Dallas Cowboys,-3.0,True,45.5,-175,155
+2012,6,Philadelphia Eagles,Detroit Lions,-3.5,True,47.5,-185,165
+2012,6,Miami Dolphins,St. Louis Rams,-5.5,True,38.5,-250,210
+2012,6,New England Patriots,Seattle Seahawks,-4.0,False,42.5,-220,185
+2012,6,Arizona Cardinals,Buffalo Bills,-5.0,True,44.5,-240,200
+2012,6,Minnesota Vikings,Washington Redskins,-2.0,False,44.0,-135,115
+2012,6,San Francisco 49ers,New York Giants,-7.0,True,47.0,-320,265
+2012,6,Houston Texans,Green Bay Packers,-4.0,True,47.0,-195,170
+2012,6,San Diego Chargers,Denver Broncos,0,True,48.0,-110,-110
+2011,6,Green Bay Packers,St. Louis Rams,-14.0,True,47.0,-1050,725
+2011,6,Pittsburgh Steelers,Jacksonville Jaguars,-12.5,True,40.0,-700,500
+2011,6,Philadelphia Eagles,Washington Redskins,-3.0,False,46.5,-150,130
+2011,6,Detroit Lions,San Francisco 49ers,-5.0,True,45.0,-235,195
+2011,6,Atlanta Falcons,Carolina Panthers,-3.5,True,49.5,-180,160
+2011,6,Cincinnati Bengals,Indianapolis Colts,-5.0,True,40.5,-240,200
+2011,6,New York Giants,Buffalo Bills,-3.5,True,49.0,-185,165
+2011,6,Baltimore Ravens,Houston Texans,-7.0,True,44.0,-320,260
+2011,6,Oakland Raiders,Cleveland Browns,-7.0,True,45.0,-310,260
+2011,6,New England Patriots,Dallas Cowboys,-6.5,True,55.0,-305,255
+2011,6,New Orleans Saints,Tampa Bay Buccaneers,-6.5,False,50.0,-290,240
+2011,6,Chicago Bears,Minnesota Vikings,-2.0,True,41.5,-130,110
+2011,6,New York Jets,Miami Dolphins,-7.0,True,41.5,-370,310
+2010,6,San Diego Chargers,St. Louis Rams,-8.5,False,44.5,-400,330
+2010,6,Houston Texans,Kansas City Chiefs,-4.5,True,46.0,-220,180
+2010,6,New England Patriots,Baltimore Ravens,-3.0,True,44.5,-145,125
+2010,6,New Orleans Saints,Tampa Bay Buccaneers,-5.0,False,43.5,-245,205
+2010,6,Philadelphia Eagles,Atlanta Falcons,-2.0,True,43.0,-130,110
+2010,6,New York Giants,Detroit Lions,-10.0,True,45.5,-550,425
+2010,6,Chicago Bears,Seattle Seahawks,-6.0,True,37.5,-265,225
+2010,6,Green Bay Packers,Miami Dolphins,-3.0,True,44.0,-160,140
+2010,6,Pittsburgh Steelers,Cleveland Browns,-14.0,True,37.5,-1100,750
+2010,6,New York Jets,Denver Broncos,-3.5,False,43.0,-200,170
+2010,6,San Francisco 49ers,Oakland Raiders,-7.5,True,41.0,-355,295
+2010,6,Minnesota Vikings,Dallas Cowboys,-1.5,True,43.5,-125,105
+2010,6,Indianapolis Colts,Washington Redskins,-3.0,False,44.5,-170,150
+2010,6,Tennessee Titans,Jacksonville Jaguars,-3.0,False,43.5,-150,130
+2009,6,Washington Redskins,Kansas City Chiefs,-6.0,True,36.5,-270,230
+2009,6,Cincinnati Bengals,Houston Texans,-4.0,True,46.0,-200,170
+2009,6,Pittsburgh Steelers,Cleveland Browns,-14.0,True,38.0,-1150,800
+2009,6,Minnesota Vikings,Baltimore Ravens,-3.0,True,45.5,-145,125
+2009,6,Jacksonville Jaguars,St. Louis Rams,-9.5,True,42.5,-500,350
+2009,6,New Orleans Saints,New York Giants,-3.0,True,47.5,-175,155
+2009,6,Carolina Panthers,Tampa Bay Buccaneers,-3.0,False,40.5,-170,150
+2009,6,Green Bay Packers,Detroit Lions,-14.0,True,48.0,-1000,700
+2009,6,Philadelphia Eagles,Oakland Raiders,-14.5,False,40.5,-1000,700
+2009,6,Seattle Seahawks,Arizona Cardinals,-3.0,True,45.5,-150,130
+2009,6,New York Jets,Buffalo Bills,-9.5,True,35.5,-500,375
+2009,6,New England Patriots,Tennessee Titans,-9.0,True,38.5,-475,375
+2009,6,Atlanta Falcons,Chicago Bears,-4.0,True,46.5,-210,180
+2009,6,San Diego Chargers,Denver Broncos,-3.5,True,45.0,-175,155
+2008,6,New Orleans Saints,Oakland Raiders,-7.0,True,47.0,-300,250
+2008,6,Indianapolis Colts,Baltimore Ravens,-4.0,True,39.0,-210,175
+2008,6,New York Jets,Cincinnati Bengals,-9.5,True,43.0,-450,375
+2008,6,Tampa Bay Buccaneers,Carolina Panthers,-2.0,True,37.0,-135,115
+2008,6,Minnesota Vikings,Detroit Lions,-13.0,True,44.5,-650,500
+2008,6,Chicago Bears,Atlanta Falcons,-3.0,False,43.0,-145,125
+2008,6,Houston Texans,Miami Dolphins,-3.0,True,45.0,-160,140
+2008,6,Washington Redskins,St. Louis Rams,-11.5,True,44.0,-550,425
+2008,6,Denver Broncos,Jacksonville Jaguars,-3.0,True,48.5,-170,150
+2008,6,Philadelphia Eagles,San Francisco 49ers,-5.0,False,41.5,-240,200
+2008,6,Dallas Cowboys,Arizona Cardinals,-5.0,False,53.5,-220,185
+2008,6,Seattle Seahawks,Green Bay Packers,-1.0,True,44.5,-120,100
+2008,6,San Diego Chargers,New England Patriots,-6.0,True,44.5,-260,220
+2008,6,New York Giants,Cleveland Browns,-7.5,False,43.0,-340,270
+2007,6,Cincinnati Bengals,Kansas City Chiefs,-2.5,False,43.5,-135,115
+2007,6,Jacksonville Jaguars,Houston Texans,-6.5,True,37.0,-315,250
+2007,6,Cleveland Browns,Miami Dolphins,-4.0,True,45.5,-200,175
+2007,6,Chicago Bears,Minnesota Vikings,-4.5,True,36.0,-235,190
+2007,6,Philadelphia Eagles,New York Jets,-4.0,False,43.0,-240,200
+2007,6,Baltimore Ravens,St. Louis Rams,-9.0,True,37.0,-550,400
+2007,6,Tampa Bay Buccaneers,Tennessee Titans,-2.0,True,37.0,-130,110
+2007,6,Green Bay Packers,Washington Redskins,-3.0,True,40.0,-160,140
+2007,6,Arizona Cardinals,Carolina Panthers,-6.5,True,39.0,-300,240
+2007,6,New England Patriots,Dallas Cowboys,-5.5,False,52.5,-250,210
+2007,6,San Diego Chargers,Oakland Raiders,-9.5,True,44.5,-575,400
+2007,6,Seattle Seahawks,New Orleans Saints,-6.0,True,43.0,-260,210
+2007,6,New York Giants,Atlanta Falcons,-5.5,False,43.5,-260,210
+2006,6,Cincinnati Bengals,Tampa Bay Buccaneers,-4.5,False,44.5,-230,190
+2006,6,Washington Redskins,Tennessee Titans,-12.0,True,39.5,-700,525
+2006,6,Dallas Cowboys,Houston Texans,-13.0,True,43.5,-750,550
+2006,6,Buffalo Bills,Detroit Lions,-1.5,False,40.5,-125,105
+2006,6,Seattle Seahawks,St. Louis Rams,-3.0,False,45.0,-155,135
+2006,6,Atlanta Falcons,New York Giants,-3.0,True,41.0,-155,135
+2006,6,Philadelphia Eagles,New Orleans Saints,-3.0,False,47.0,-165,145
+2006,6,Baltimore Ravens,Carolina Panthers,-3.0,True,33.5,-170,150
+2006,6,New York Jets,Miami Dolphins,-2.5,True,36.0,-140,120
+2006,6,San Diego Chargers,San Francisco 49ers,-10.0,False,42.0,-600,450
+2006,6,Pittsburgh Steelers,Kansas City Chiefs,-6.5,True,37.0,-320,250
+2006,6,Denver Broncos,Oakland Raiders,-15.5,True,37.5,-1500,1100
+2006,6,Chicago Bears,Arizona Cardinals,-12.5,False,40.5,-850,650
+2014,7,New England Patriots,New York Jets,-9.5,True,44.5,-525,400
+2014,7,Indianapolis Colts,Cincinnati Bengals,-3.5,True,50.5,-185,165
+2014,7,Washington Redskins,Tennessee Titans,-6.0,True,46.5,-250,210
+2014,7,Chicago Bears,Miami Dolphins,-3.0,True,48.0,-170,150
+2014,7,Cleveland Browns,Jacksonville Jaguars,-4.5,False,45.0,-220,180
+2014,7,Seattle Seahawks,St. Louis Rams,-6.5,False,43.5,-310,260
+2014,7,Green Bay Packers,Carolina Panthers,-6.5,True,49.5,-300,250
+2014,7,Baltimore Ravens,Atlanta Falcons,-7.0,True,50.0,-310,255
+2014,7,Buffalo Bills,Minnesota Vikings,-6.5,True,43.0,-270,230
+2014,7,Detroit Lions,New Orleans Saints,-1.5,True,46.5,-125,105
+2014,7,San Diego Chargers,Kansas City Chiefs,-3.0,True,46.0,-175,155
+2014,7,Dallas Cowboys,New York Giants,-5.5,True,47.0,-240,200
+2014,7,Arizona Cardinals,Oakland Raiders,-3.5,False,46.5,-175,155
+2014,7,Denver Broncos,San Francisco 49ers,-6.5,True,48.5,-300,250
+2014,7,Pittsburgh Steelers,Houston Texans,-3.0,True,44.5,-150,130
+2013,7,Seattle Seahawks,Arizona Cardinals,-5.5,False,41.0,-245,205
+2013,7,New England Patriots,New York Jets,-3.5,False,43.0,-180,160
+2013,7,San Diego Chargers,Jacksonville Jaguars,-7.0,False,45.0,-350,290
+2013,7,Kansas City Chiefs,Houston Texans,-7.0,True,39.0,-290,240
+2013,7,Detroit Lions,Cincinnati Bengals,-3.0,True,46.5,-150,130
+2013,7,Miami Dolphins,Buffalo Bills,-6.0,True,44.0,-260,220
+2013,7,Chicago Bears,Washington Redskins,-1.0,False,48.5,-120,100
+2013,7,Philadelphia Eagles,Dallas Cowboys,-3.0,True,55.5,-160,140
+2013,7,Carolina Panthers,St. Louis Rams,-7.0,True,42.5,-320,260
+2013,7,Atlanta Falcons,Tampa Bay Buccaneers,-6.5,True,43.0,-290,240
+2013,7,San Francisco 49ers,Tennessee Titans,-3.5,False,41.0,-180,160
+2013,7,Green Bay Packers,Cleveland Browns,-8.5,True,45.5,-440,340
+2013,7,Pittsburgh Steelers,Baltimore Ravens,-2.0,True,41.0,-135,115
+2013,7,Denver Broncos,Indianapolis Colts,-6.5,False,56.0,-280,240
+2013,7,New York Giants,Minnesota Vikings,-4.0,True,48.0,-210,180
+2012,7,San Francisco 49ers,Seattle Seahawks,-8.0,True,37.5,-380,310
+2012,7,Buffalo Bills,Tennessee Titans,-4.5,True,46.5,-215,185
+2012,7,Minnesota Vikings,Arizona Cardinals,-7.0,True,39.0,-320,260
+2012,7,Indianapolis Colts,Cleveland Browns,-1.0,True,46.5,-120,100
+2012,7,Houston Texans,Baltimore Ravens,-6.5,True,47.5,-290,245
+2012,7,Green Bay Packers,St. Louis Rams,-5.0,False,45.5,-240,200
+2012,7,Dallas Cowboys,Carolina Panthers,-2.5,False,45.0,-145,125
+2012,7,New York Giants,Washington Redskins,-6.0,True,51.5,-270,230
+2012,7,New Orleans Saints,Tampa Bay Buccaneers,-1.5,False,49.5,-125,105
+2012,7,New England Patriots,New York Jets,-11.0,True,47.5,-675,475
+2012,7,Oakland Raiders,Jacksonville Jaguars,-6.0,True,44.5,-270,230
+2012,7,Pittsburgh Steelers,Cincinnati Bengals,-1.5,False,47.0,-125,105
+2012,7,Chicago Bears,Detroit Lions,-6.5,True,45.5,-270,230
+2011,7,Chicago Bears,Tampa Bay Buccaneers,-1.5,False,44.0,-125,105
+2011,7,Carolina Panthers,Washington Redskins,-2.5,True,44.5,-140,120
+2011,7,San Diego Chargers,New York Jets,-1.0,False,43.5,-120,100
+2011,7,Cleveland Browns,Seattle Seahawks,-3.0,True,41.0,-185,165
+2011,7,Tennessee Titans,Houston Texans,-2.5,True,44.0,-145,125
+2011,7,Denver Broncos,Miami Dolphins,-1.0,False,41.5,-120,100
+2011,7,Detroit Lions,Atlanta Falcons,-4.5,True,46.5,-230,195
+2011,7,Oakland Raiders,Kansas City Chiefs,-3.5,True,41.5,-180,160
+2011,7,Pittsburgh Steelers,Arizona Cardinals,-4.0,False,46.0,-220,185
+2011,7,Dallas Cowboys,St. Louis Rams,-14.0,True,43.0,-1100,750
+2011,7,Green Bay Packers,Minnesota Vikings,-10.5,False,47.0,-650,475
+2011,7,New Orleans Saints,Indianapolis Colts,-13.5,True,49.0,-1050,700
+2011,7,Baltimore Ravens,Jacksonville Jaguars,-10.5,False,39.0,-600,450
+2010,7,Pittsburgh Steelers,Miami Dolphins,-3.0,False,40.5,-150,130
+2010,7,Atlanta Falcons,Cincinnati Bengals,-3.5,True,43.0,-200,175
+2010,7,Kansas City Chiefs,Jacksonville Jaguars,-9.0,True,38.5,-430,340
+2010,7,Tennessee Titans,Philadelphia Eagles,-3.0,True,41.5,-145,125
+2010,7,Chicago Bears,Washington Redskins,-3.0,True,40.0,-160,140
+2010,7,New Orleans Saints,Cleveland Browns,-12.5,True,44.0,-725,525
+2010,7,Baltimore Ravens,Buffalo Bills,-12.5,True,39.5,-700,500
+2010,7,San Francisco 49ers,Carolina Panthers,-2.0,False,35.5,-130,110
+2010,7,Tampa Bay Buccaneers,St. Louis Rams,-3.0,True,39.0,-165,145
+2010,7,Seattle Seahawks,Arizona Cardinals,-6.5,True,40.5,-300,250
+2010,7,San Diego Chargers,New England Patriots,-2.5,True,49.0,-135,115
+2010,7,Denver Broncos,Oakland Raiders,-7.0,True,42.5,-330,270
+2010,7,Green Bay Packers,Minnesota Vikings,-2.5,True,44.0,-140,120
+2010,7,Dallas Cowboys,New York Giants,-3.5,True,45.0,-185,165
+2009,7,San Diego Chargers,Kansas City Chiefs,-5.5,False,44.0,-245,205
+2009,7,Indianapolis Colts,St. Louis Rams,-14.0,False,45.0,-1100,800
+2009,7,Chicago Bears,Cincinnati Bengals,-1.5,False,42.5,-125,105
+2009,7,Green Bay Packers,Cleveland Browns,-9.0,False,41.5,-425,325
+2009,7,Pittsburgh Steelers,Minnesota Vikings,-6.0,True,46.5,-270,225
+2009,7,New England Patriots,,-15.5,False,44.5,-1300,900
+2009,7,Houston Texans,San Francisco 49ers,-3.0,True,44.5,-185,160
+2009,7,New York Jets,Oakland Raiders,-6.0,False,34.0,-280,240
+2009,7,Carolina Panthers,Buffalo Bills,-7.0,True,37.0,-320,260
+2009,7,New Orleans Saints,Miami Dolphins,-6.5,False,48.0,-285,220
+2009,7,Dallas Cowboys,Atlanta Falcons,-5.0,True,48.0,-235,195
+2009,7,New York Giants,Arizona Cardinals,-8.0,True,47.0,-350,290
+2009,7,Philadelphia Eagles,Washington Redskins,-8.5,False,38.0,-410,325
+2008,7,Tennessee Titans,Kansas City Chiefs,-8.5,False,35.0,-360,300
+2008,7,Buffalo Bills,San Diego Chargers,0,True,44.5,-115,-110
+2008,7,Pittsburgh Steelers,Cincinnati Bengals,-8.0,False,36.0,-380,315
+2008,7,Miami Dolphins,Baltimore Ravens,-3.0,True,36.0,-160,140
+2008,7,Dallas Cowboys,St. Louis Rams,-8.0,False,45.0,-350,280
+2008,7,Chicago Bears,Minnesota Vikings,-3.0,True,38.0,-175,155
+2008,7,Carolina Panthers,New Orleans Saints,-3.0,True,44.5,-150,130
+2008,7,New York Giants,San Francisco 49ers,-10.5,True,46.5,-475,375
+2008,7,Houston Texans,Detroit Lions,-11.0,True,47.5,-600,400
+2008,7,New York Jets,Oakland Raiders,-3.0,False,41.5,-175,150
+2008,7,Washington Redskins,Cleveland Browns,-7.0,True,42.0,-300,250
+2008,7,Indianapolis Colts,Green Bay Packers,-2.5,False,47.0,-145,125
+2008,7,Tampa Bay Buccaneers,Seattle Seahawks,-11.5,True,40.0,-600,450
+2008,7,New England Patriots,Denver Broncos,-3.0,True,48.0,-145,125
+2007,7,Washington Redskins,Arizona Cardinals,-8.0,True,35.5,-370,300
+2007,7,New Orleans Saints,Atlanta Falcons,-7.5,True,43.0,-370,300
+2007,7,Baltimore Ravens,Buffalo Bills,-3.0,False,34.0,-150,130
+2007,7,Dallas Cowboys,Minnesota Vikings,-9.5,True,46.0,-485,375
+2007,7,New England Patriots,Miami Dolphins,-16.0,False,50.0,-1500,1000
+2007,7,New York Giants,San Francisco 49ers,-9.5,True,39.0,-475,375
+2007,7,Detroit Lions,Tampa Bay Buccaneers,-2.0,True,44.5,-135,115
+2007,7,Houston Texans,Tennessee Titans,-2.0,True,38.0,-135,115
+2007,7,Oakland Raiders,Kansas City Chiefs,-2.5,True,37.5,-135,115
+2007,7,Cincinnati Bengals,New York Jets,-6.0,True,48.0,-280,230
+2007,7,Philadelphia Eagles,Chicago Bears,-5.0,True,42.5,-250,200
+2007,7,Seattle Seahawks,St. Louis Rams,-8.0,True,39.5,-400,300
+2007,7,Pittsburgh Steelers,Denver Broncos,-4.5,False,38.0,-225,185
+2007,7,Indianapolis Colts,Jacksonville Jaguars,-3.0,False,45.0,-170,150
+2006,7,San Diego Chargers,Kansas City Chiefs,-6.0,False,38.5,-250,200
+2006,7,Jacksonville Jaguars,Houston Texans,-7.5,False,39.5,-380,310
+2006,7,New England Patriots,Buffalo Bills,-5.5,False,36.5,-250,200
+2006,7,Pittsburgh Steelers,Atlanta Falcons,-3.0,False,39.0,-165,145
+2006,7,Miami Dolphins,Green Bay Packers,-6.0,True,40.5,-270,225
+2006,7,Philadelphia Eagles,Tampa Bay Buccaneers,-6.5,False,42.5,-280,230
+2006,7,New York Jets,Detroit Lions,-4.0,True,43.5,-200,175
+2006,7,Cincinnati Bengals,Carolina Panthers,-3.0,True,44.0,-150,130
+2006,7,Denver Broncos,Cleveland Browns,-4.5,False,31.5,-230,190
+2006,7,Indianapolis Colts,Washington Redskins,-8.0,True,47.5,-410,320
+2006,7,Seattle Seahawks,Minnesota Vikings,-6.5,True,40.5,-315,245
+2006,7,Arizona Cardinals,Oakland Raiders,-3.0,False,39.5,-160,140
+2006,7,Dallas Cowboys,New York Giants,-3.0,True,43.5,-170,150
+2014,8,Denver Broncos,San Diego Chargers,-9.0,True,51.0,-450,350
+2014,8,Detroit Lions,Atlanta Falcons,-3.5,False,45.5,-180,160
+2014,8,Tampa Bay Buccaneers,Minnesota Vikings,-1.5,True,43.0,-125,105
+2014,8,New England Patriots,Chicago Bears,-6.0,True,52.0,-260,220
+2014,8,Kansas City Chiefs,St. Louis Rams,-7.0,True,44.0,-355,295
+2014,8,Seattle Seahawks,Carolina Panthers,-6.0,False,45.0,-265,225
+2014,8,New York Jets,Buffalo Bills,-3.0,True,40.5,-155,135
+2014,8,Miami Dolphins,Jacksonville Jaguars,-6.5,False,42.0,-330,270
+2014,8,Houston Texans,Tennessee Titans,-3.5,False,43.0,-185,165
+2014,8,Baltimore Ravens,Cincinnati Bengals,-3.0,False,44.5,-155,135
+2014,8,Philadelphia Eagles,Arizona Cardinals,-1.0,False,48.5,-115,-105
+2014,8,Indianapolis Colts,Pittsburgh Steelers,-4.5,False,48.5,-235,195
+2014,8,Cleveland Browns,Oakland Raiders,-6.5,True,44.5,-300,250
+2014,8,New Orleans Saints,Green Bay Packers,-2.0,True,55.5,-130,110
+2014,8,Dallas Cowboys,Washington Redskins,-9.5,True,49.0,-480,380
+2013,8,Carolina Panthers,Tampa Bay Buccaneers,-7.0,False,39.5,-300,250
+2013,8,San Francisco 49ers,Jacksonville Jaguars,-16.0,False,40.0,-1800,1000
+2013,8,Detroit Lions,Dallas Cowboys,-3.0,True,52.0,-160,140
+2013,8,Philadelphia Eagles,New York Giants,-5.5,True,50.0,-240,200
+2013,8,Kansas City Chiefs,Cleveland Browns,-7.0,True,39.0,-350,290
+2013,8,New Orleans Saints,Buffalo Bills,-10.5,True,48.5,-600,450
+2013,8,New England Patriots,Miami Dolphins,-6.5,True,46.0,-280,240
+2013,8,Cincinnati Bengals,New York Jets,-6.0,True,41.0,-255,215
+2013,8,Pittsburgh Steelers,Oakland Raiders,-3.0,False,40.0,-145,125
+2013,8,Denver Broncos,Washington Redskins,-11.0,True,59.0,-600,50
+2013,8,Arizona Cardinals,Atlanta Falcons,-2.5,True,45.0,-140,120
+2013,8,Green Bay Packers,Minnesota Vikings,-7.5,False,47.5,-350,290
+2013,8,Seattle Seahawks,St. Louis Rams,-14.0,False,43.5,-925,625
+2012,8,Minnesota Vikings,Tampa Bay Buccaneers,-5.5,True,43.0,-240,200
+2012,8,New England Patriots,St. Louis Rams,-7.0,False,46.0,-330,270
+2012,8,Tennessee Titans,Indianapolis Colts,-3.5,True,46.5,-170,150
+2012,8,Green Bay Packers,Jacksonville Jaguars,-15.5,True,45.5,-1100,800
+2012,8,San Diego Chargers,Cleveland Browns,-3.0,False,41.0,-150,130
+2012,8,Philadelphia Eagles,Atlanta Falcons,-3.0,True,43.0,-145,125
+2012,8,Detroit Lions,Seattle Seahawks,-2.5,True,43.0,-145,125
+2012,8,New York Jets,Miami Dolphins,-1.0,True,38.5,-120,100
+2012,8,Chicago Bears,Carolina Panthers,-7.0,True,41.5,-350,290
+2012,8,Pittsburgh Steelers,Washington Redskins,-4.5,True,44.5,-210,180
+2012,8,Kansas City Chiefs,Oakland Raiders,-1.0,True,41.5,-120,100
+2012,8,New York Giants,Dallas Cowboys,-3.0,False,48.0,-150,130
+2012,8,Denver Broncos,New Orleans Saints,-6.0,True,55.5,-260,220
+2012,8,San Francisco 49ers,Arizona Cardinals,-7.0,False,38.0,-340,280
+2011,8,Tennessee Titans,Indianapolis Colts,-7.5,True,43.5,-380,320
+2011,8,Houston Texans,Jacksonville Jaguars,-10.0,True,41.0,-480,380
+2011,8,Carolina Panthers,Minnesota Vikings,-3.0,True,47.0,-175,155
+2011,8,New Orleans Saints,St. Louis Rams,-13.5,False,48.5,-950,700
+2011,8,Baltimore Ravens,Arizona Cardinals,-11.5,True,43.0,-800,600
+2011,8,New York Giants,Miami Dolphins,-9.5,True,43.0,-550,425
+2011,8,Buffalo Bills,Washington Redskins,-4.0,True,46.5,-210,180
+2011,8,Detroit Lions,Denver Broncos,-3.0,False,43.5,-180,160
+2011,8,New England Patriots,Pittsburgh Steelers,-3.0,False,52.0,-170,150
+2011,8,San Francisco 49ers,Cleveland Browns,-9.0,True,38.5,-450,350
+2011,8,Cincinnati Bengals,Seattle Seahawks,-1.5,False,37.5,-125,105
+2011,8,Philadelphia Eagles,Dallas Cowboys,-3.0,True,49.0,-170,150
+2011,8,San Diego Chargers,Kansas City Chiefs,-3.0,False,44.5,-160,140
+2010,8,Dallas Cowboys,Jacksonville Jaguars,-6.5,True,43.5,-300,250
+2010,8,Detroit Lions,Washington Redskins,-2.5,True,45.0,-145,125
+2010,8,New York Jets,Green Bay Packers,-6.5,True,41.5,-285,245
+2010,8,St. Louis Rams,Carolina Panthers,-2.5,True,37.5,-140,120
+2010,8,Cincinnati Bengals,Miami Dolphins,0,True,44.5,-110,-110
+2010,8,Kansas City Chiefs,Buffalo Bills,-7.0,True,45.5,-325,265
+2010,8,San Diego Chargers,Tennessee Titans,-5.5,True,44.5,-245,205
+2010,8,Arizona Cardinals,Tampa Bay Buccaneers,-3.0,True,38.0,-170,150
+2010,8,Oakland Raiders,Seattle Seahawks,-2.0,True,40.0,-130,110
+2010,8,New England Patriots,Minnesota Vikings,-5.0,True,44.5,-235,195
+2010,8,New Orleans Saints,Pittsburgh Steelers,-1.5,True,45.0,-125,105
+2010,8,Indianapolis Colts,Houston Texans,-5.5,True,50.5,-250,210
+2009,8,Baltimore Ravens,Denver Broncos,-4.5,True,42.5,-230,185
+2009,8,Chicago Bears,Cleveland Browns,-12.0,True,40.0,-600,450
+2009,8,Houston Texans,Buffalo Bills,-3.5,False,41.5,-190,165
+2009,8,Green Bay Packers,Minnesota Vikings,-3.5,True,47.5,-200,175
+2009,8,Indianapolis Colts,San Francisco 49ers,-13.0,True,45.0,-800,550
+2009,8,New York Jets,Miami Dolphins,-3.5,True,40.5,-185,165
+2009,8,Detroit Lions,St. Louis Rams,-3.0,True,43.5,-170,150
+2009,8,Dallas Cowboys,Seattle Seahawks,-10.0,True,46.0,-525,400
+2009,8,San Diego Chargers,Oakland Raiders,-16.0,True,41.5,-1600,1000
+2009,8,Tennessee Titans,Jacksonville Jaguars,-3.0,True,44.5,-160,140
+2009,8,Arizona Cardinals,Carolina Panthers,-10.0,True,43.5,-500,400
+2009,8,New York Giants,Philadelphia Eagles,-2.5,False,44.0,-150,130
+2009,8,New Orleans Saints,Atlanta Falcons,-11.0,True,56.0,-550,400
+2008,8,Baltimore Ravens,Oakland Raiders,-8.0,True,35.0,-375,310
+2008,8,San Diego Chargers,,-3.0,False,46.0,-165,145
+2008,8,New York Jets,Kansas City Chiefs,-14.0,True,41.0,-750,550
+2008,8,Miami Dolphins,Buffalo Bills,0,True,42.0,-110,-110
+2008,8,Dallas Cowboys,Tampa Bay Buccaneers,-1.5,True,40.5,-125,105
+2008,8,Philadelphia Eagles,Atlanta Falcons,-9.0,True,45.0,-400,330
+2008,8,New England Patriots,St. Louis Rams,-8.5,True,41.0,-370,310
+2008,8,Carolina Panthers,Arizona Cardinals,-5.0,True,43.0,-230,190
+2008,8,Washington Redskins,Detroit Lions,-7.5,False,42.0,-330,260
+2008,8,Jacksonville Jaguars,Cleveland Browns,-7.0,True,42.0,-330,270
+2008,8,Pittsburgh Steelers,New York Giants,-3.0,True,41.0,-145,125
+2008,8,San Francisco 49ers,Seattle Seahawks,-5.5,True,41.5,-245,200
+2008,8,Houston Texans,Cincinnati Bengals,-9.0,True,45.0,-425,325
+2008,8,Tennessee Titans,Indianapolis Colts,-4.0,True,41.0,-190,165
+2007,8,Cleveland Browns,St. Louis Rams,-3.0,False,46.5,-150,130
+2007,8,Chicago Bears,Detroit Lions,-6.0,True,45.5,-280,220
+2007,8,Indianapolis Colts,Carolina Panthers,-7.0,False,44.0,-330,250
+2007,8,New York Giants,,-10.0,False,47.5,-550,400
+2007,8,Tennessee Titans,Oakland Raiders,-7.0,True,39.5,-350,280
+2007,8,Philadelphia Eagles,Minnesota Vikings,-1.0,False,37.5,-120,100
+2007,8,Pittsburgh Steelers,Cincinnati Bengals,-4.0,False,48.5,-220,180
+2007,8,New York Jets,Buffalo Bills,-3.0,True,38.0,-150,130
+2007,8,San Diego Chargers,Houston Texans,-10.0,True,46.0,-525,400
+2007,8,Tampa Bay Buccaneers,Jacksonville Jaguars,-3.5,True,32.5,-200,175
+2007,8,New Orleans Saints,San Francisco 49ers,-2.5,False,40.5,-140,120
+2007,8,New England Patriots,Washington Redskins,-15.0,True,47.0,-1300,875
+2007,8,Denver Broncos,Green Bay Packers,-3.0,True,43.5,-150,130
+2006,8,Tennessee Titans,Houston Texans,-3.0,True,41.5,-155,135
+2006,8,Philadelphia Eagles,Jacksonville Jaguars,-8.0,True,38.5,-380,300
+2006,8,Cincinnati Bengals,Atlanta Falcons,-4.0,True,45.5,-200,175
+2006,8,New York Giants,Tampa Bay Buccaneers,-9.0,True,36.0,-475,350
+2006,8,Chicago Bears,San Francisco 49ers,-16.5,True,42.0,-1650,1150
+2006,8,Green Bay Packers,Arizona Cardinals,-4.0,True,45.0,-210,175
+2006,8,Kansas City Chiefs,Seattle Seahawks,-5.5,True,37.0,-250,200
+2006,8,New Orleans Saints,Baltimore Ravens,-2.0,True,37.0,-140,120
+2006,8,San Diego Chargers,St. Louis Rams,-9.5,True,46.0,-475,350
+2006,8,Pittsburgh Steelers,Oakland Raiders,-9.0,False,38.5,-450,350
+2006,8,Cleveland Browns,New York Jets,-2.0,True,37.0,-135,115
+2006,8,Denver Broncos,Indianapolis Colts,-3.0,True,40.0,-150,130
+2006,8,Carolina Panthers,Dallas Cowboys,-4.5,True,41.0,-220,185
+2006,8,New England Patriots,Minnesota Vikings,-2.0,False,40.0,-130,110
+2014,9,New Orleans Saints,Carolina Panthers,-3.0,False,49.0,-175,155
+2014,9,Miami Dolphins,San Diego Chargers,-2.5,True,45.0,-145,125
+2014,9,Cincinnati Bengals,Jacksonville Jaguars,-10.0,True,43.5,-575,425
+2014,9,Cleveland Browns,Tampa Bay Buccaneers,-7.0,True,44.0,-320,260
+2014,9,Minnesota Vikings,Washington Redskins,0,True,44.0,-115,-105
+2014,9,Philadelphia Eagles,Houston Texans,-2.0,False,48.5,-135,115
+2014,9,Kansas City Chiefs,New York Jets,-8.5,True,41.5,-440,350
+2014,9,Dallas Cowboys,Arizona Cardinals,-1.5,True,45.0,-125,105
+2014,9,San Francisco 49ers,St. Louis Rams,-10.5,True,44.0,-600,450
+2014,9,Denver Broncos,New England Patriots,-3.0,False,53.0,-155,135
+2014,9,Seattle Seahawks,Oakland Raiders,-13.5,True,44.0,-1000,650
+2014,9,Pittsburgh Steelers,Baltimore Ravens,-2.0,True,48.0,-135,115
+2014,9,Indianapolis Colts,New York Giants,-3.0,False,51.5,-170,150
+2013,9,Cincinnati Bengals,Miami Dolphins,-3.0,False,42.5,-155,135
+2013,9,Carolina Panthers,Atlanta Falcons,-8.5,True,47.0,-440,360
+2013,9,Dallas Cowboys,Minnesota Vikings,-9.0,True,51.5,-525,400
+2013,9,New Orleans Saints,New York Jets,-6.0,False,46.0,-275,235
+2013,9,Tennessee Titans,St. Louis Rams,-3.0,False,41.0,-160,140
+2013,9,Kansas City Chiefs,Buffalo Bills,-5.0,False,41.0,-235,195
+2013,9,Washington Redskins,San Diego Chargers,-1.5,True,49.5,-125,105
+2013,9,Oakland Raiders,Philadelphia Eagles,-1.0,True,45.5,-120,100
+2013,9,Seattle Seahawks,Tampa Bay Buccaneers,-16.0,True,40.5,-1900,975
+2013,9,Baltimore Ravens,Cleveland Browns,-1.5,False,42.0,-130,110
+2013,9,New England Patriots,Pittsburgh Steelers,-6.0,True,42.5,-280,240
+2013,9,Indianapolis Colts,Houston Texans,-1.5,False,43.0,-125,105
+2013,9,Green Bay Packers,Chicago Bears,-10.0,True,51.0,-550,400
+2012,9,San Diego Chargers,Kansas City Chiefs,-7.0,True,41.0,-340,280
+2012,9,Denver Broncos,Cincinnati Bengals,-5.0,False,47.5,-225,185
+2012,9,Green Bay Packers,Arizona Cardinals,-10.5,True,43.0,-550,425
+2012,9,Miami Dolphins,Indianapolis Colts,-2.0,False,43.5,-130,110
+2012,9,Baltimore Ravens,Cleveland Browns,-3.5,False,44.0,-195,170
+2012,9,Houston Texans,Buffalo Bills,-11.0,True,48.0,-600,450
+2012,9,Washington Redskins,Carolina Panthers,-3.0,True,48.0,-165,145
+2012,9,Detroit Lions,Jacksonville Jaguars,-6.0,False,44.0,-260,220
+2012,9,Chicago Bears,Tennessee Titans,-5.0,False,43.5,-235,195
+2012,9,Seattle Seahawks,Minnesota Vikings,-4.5,True,38.5,-225,185
+2012,9,Oakland Raiders,Tampa Bay Buccaneers,-1.5,True,47.0,-125,105
+2012,9,New York Giants,Pittsburgh Steelers,-3.5,True,48.0,-200,170
+2012,9,Atlanta Falcons,Dallas Cowboys,-4.0,True,47.5,-205,175
+2012,9,New Orleans Saints,Philadelphia Eagles,-3.0,True,52.5,-140,120
+2011,9,Atlanta Falcons,Indianapolis Colts,-6.5,True,44.5,-310,260
+2011,9,New Orleans Saints,Tampa Bay Buccaneers,-8.5,True,51.0,-425,350
+2011,9,Houston Texans,Cleveland Browns,-10.5,True,42.5,-625,475
+2011,9,Buffalo Bills,New York Jets,-2.5,True,45.0,-135,115
+2011,9,Kansas City Chiefs,Miami Dolphins,-5.5,True,40.5,-245,205
+2011,9,San Francisco 49ers,Washington Redskins,-5.0,False,38.0,-240,200
+2011,9,Dallas Cowboys,Seattle Seahawks,-10.5,True,46.0,-600,450
+2011,9,Oakland Raiders,Denver Broncos,-7.0,True,41.5,-350,290
+2011,9,Tennessee Titans,Cincinnati Bengals,-2.5,True,41.5,-145,125
+2011,9,Arizona Cardinals,St. Louis Rams,-1.0,True,42.0,-120,100
+2011,9,New England Patriots,New York Giants,-9.5,True,51.5,-575,425
+2011,9,Green Bay Packers,San Diego Chargers,-5.5,False,50.5,-250,210
+2011,9,Pittsburgh Steelers,Baltimore Ravens,-3.5,True,41.5,-200,170
+2011,9,Philadelphia Eagles,Chicago Bears,-8.0,True,47.5,-380,310
+2010,9,Chicago Bears,,-3.0,False,41.5,-150,130
+2010,9,San Diego Chargers,Houston Texans,-3.0,False,50.0,-150,130
+2010,9,New Orleans Saints,Carolina Panthers,-6.0,False,40.5,-265,235
+2010,9,Minnesota Vikings,Arizona Cardinals,-7.5,True,42.5,-340,280
+2010,9,Atlanta Falcons,Tampa Bay Buccaneers,-10.0,True,45.0,-500,400
+2010,9,New York Jets,Detroit Lions,-5.5,False,42.0,-250,210
+2010,9,Baltimore Ravens,Miami Dolphins,-5.5,True,41.0,-235,195
+2010,9,New England Patriots,Cleveland Browns,-4.0,False,44.0,-210,180
+2010,9,New York Giants,Seattle Seahawks,-7.0,False,40.5,-340,280
+2010,9,Kansas City Chiefs,Oakland Raiders,-1.0,False,41.0,-120,100
+2010,9,Philadelphia Eagles,Indianapolis Colts,-3.0,True,46.5,-170,150
+2010,9,Green Bay Packers,Dallas Cowboys,-7.5,True,46.0,-340,280
+2010,9,Pittsburgh Steelers,Cincinnati Bengals,-5.0,False,41.0,-245,205
+2009,9,Jacksonville Jaguars,Kansas City Chiefs,-7.0,True,41.5,-325,250
+2009,9,Baltimore Ravens,Cincinnati Bengals,-3.0,False,45.0,-145,125
+2009,9,Indianapolis Colts,Houston Texans,-7.5,True,50.5,-350,290
+2009,9,Atlanta Falcons,Washington Redskins,-8.5,True,41.0,-450,350
+2009,9,Green Bay Packers,Tampa Bay Buccaneers,-10.0,False,43.0,-500,400
+2009,9,Chicago Bears,Arizona Cardinals,-2.0,True,45.0,-135,115
+2009,9,New England Patriots,Miami Dolphins,-11.0,True,47.0,-625,450
+2009,9,New Orleans Saints,Carolina Panthers,-11.5,True,51.0,-625,450
+2009,9,Seattle Seahawks,Detroit Lions,-11.0,True,42.0,-600,450
+2009,9,San Francisco 49ers,Tennessee Titans,-4.5,True,40.5,-220,180
+2009,9,New York Giants,San Diego Chargers,-5.0,True,48.5,-240,200
+2009,9,Philadelphia Eagles,Dallas Cowboys,-3.0,True,49.5,-145,125
+2009,9,Pittsburgh Steelers,Denver Broncos,-3.0,False,41.5,-155,135
+2008,9,Minnesota Vikings,Houston Texans,-5.5,True,46.5,-250,205
+2008,9,Jacksonville Jaguars,Cincinnati Bengals,-7.0,False,40.0,-330,275
+2008,9,Tampa Bay Buccaneers,Kansas City Chiefs,-9.5,False,36.5,-440,350
+2008,9,Cleveland Browns,Baltimore Ravens,-3.0,True,36.5,-150,130
+2008,9,Buffalo Bills,New York Jets,-5.0,True,43.5,-230,190
+2008,9,Arizona Cardinals,St. Louis Rams,-3.0,False,49.5,-170,150
+2008,9,Chicago Bears,Detroit Lions,-12.5,True,43.5,-675,500
+2008,9,Tennessee Titans,Green Bay Packers,-3.5,True,41.0,-180,160
+2008,9,Denver Broncos,Miami Dolphins,-4.0,True,50.0,-215,185
+2008,9,Atlanta Falcons,Oakland Raiders,-3.0,True,41.5,-145,125
+2008,9,New York Giants,Dallas Cowboys,-8.5,True,42.0,-400,330
+2008,9,Philadelphia Eagles,Seattle Seahawks,-7.0,False,43.5,-330,250
+2008,9,Indianapolis Colts,New England Patriots,-6.5,True,44.5,-300,250
+2008,9,Washington Redskins,Pittsburgh Steelers,-2.5,True,37.5,-145,125
+2007,9,Washington Redskins,New York Jets,-3.5,False,35.5,-210,175
+2007,9,Kansas City Chiefs,Green Bay Packers,-2.5,True,38.0,-145,125
+2007,9,Tampa Bay Buccaneers,Arizona Cardinals,-3.5,True,39.0,-195,170
+2007,9,Tennessee Titans,Carolina Panthers,-5.5,True,35.5,-255,210
+2007,9,Atlanta Falcons,San Francisco 49ers,-3.5,True,37.0,-200,175
+2007,9,New Orleans Saints,Jacksonville Jaguars,-3.5,True,40.0,-190,170
+2007,9,Detroit Lions,Denver Broncos,-3.0,True,46.5,-150,130
+2007,9,Buffalo Bills,Cincinnati Bengals,0,True,43.5,-115,-105
+2007,9,San Diego Chargers,Minnesota Vikings,-7.0,False,42.0,-340,280
+2007,9,Cleveland Browns,Seattle Seahawks,-1.0,True,47.0,-115,-105
+2007,9,New England Patriots,Indianapolis Colts,-5.5,False,57.0,-225,185
+2007,9,Oakland Raiders,Houston Texans,-3.0,True,41.5,-150,130
+2007,9,Dallas Cowboys,Philadelphia Eagles,-3.5,False,46.5,-185,165
+2007,9,Pittsburgh Steelers,Baltimore Ravens,-9.0,True,36.0,-430,330
+2006,9,St. Louis Rams,Kansas City Chiefs,-3.0,True,48.5,-150,130
+2006,9,Baltimore Ravens,Cincinnati Bengals,-3.0,True,41.5,-165,145
+2006,9,New York Giants,Houston Texans,-13.0,True,43.0,-900,650
+2006,9,Jacksonville Jaguars,Tennessee Titans,-9.5,True,37.5,-500,375
+2006,9,Dallas Cowboys,Washington Redskins,-3.0,False,41.0,-180,160
+2006,9,Buffalo Bills,Green Bay Packers,-3.5,True,41.5,-180,160
+2006,9,Tampa Bay Buccaneers,New Orleans Saints,-1.0,True,37.5,-125,105
+2006,9,Atlanta Falcons,Detroit Lions,-5.5,True,47.5,-250,200
+2006,9,Chicago Bears,Miami Dolphins,-13.0,True,37.5,-1000,700
+2006,9,Minnesota Vikings,San Francisco 49ers,-4.0,False,43.0,-220,180
+2006,9,San Diego Chargers,Cleveland Browns,-13.0,True,41.5,-900,625
+2006,9,Pittsburgh Steelers,Denver Broncos,-3.0,True,36.5,-150,130
+2006,9,New England Patriots,Indianapolis Colts,-3.0,True,48.5,-170,150
+2006,9,Seattle Seahawks,Oakland Raiders,-7.0,True,34.0,-315,255
+2014,10,Cincinnati Bengals,Cleveland Browns,-6.5,True,46.0,-280,240
+2014,10,Dallas Cowboys,Jacksonville Jaguars,-7.5,False,45.0,-345,280
+2014,10,Detroit Lions,Miami Dolphins,-3.0,True,43.0,-155,135
+2014,10,Buffalo Bills,Kansas City Chiefs,-1.5,True,42.0,-125,105
+2014,10,New Orleans Saints,San Francisco 49ers,-5.5,True,49.5,-250,210
+2014,10,Baltimore Ravens,Tennessee Titans,-10.5,True,44.0,-600,450
+2014,10,Pittsburgh Steelers,New York Jets,-4.5,False,47.0,-210,180
+2014,10,Atlanta Falcons,Tampa Bay Buccaneers,-3.0,True,47.0,-175,155
+2014,10,Denver Broncos,Oakland Raiders,-12.5,False,51.0,-850,575
+2014,10,Arizona Cardinals,St. Louis Rams,-7.0,True,43.5,-330,270
+2014,10,Seattle Seahawks,New York Giants,-9.5,True,45.0,-525,400
+2014,10,Green Bay Packers,Chicago Bears,-9.5,True,54.0,-460,360
+2014,10,Philadelphia Eagles,Carolina Panthers,-7.0,True,48.5,-335,275
+2013,10,Washington Redskins,Minnesota Vikings,-1.5,False,48.5,-125,105
+2013,10,Tennessee Titans,Jacksonville Jaguars,-11.5,True,42.0,-700,500
+2013,10,Philadelphia Eagles,Green Bay Packers,-1.0,False,47.0,-120,100
+2013,10,Pittsburgh Steelers,Buffalo Bills,-3.0,True,43.0,-150,130
+2013,10,New York Giants,Oakland Raiders,-7.0,True,41.5,-330,270
+2013,10,Indianapolis Colts,St. Louis Rams,-7.5,True,43.5,-400,330
+2013,10,Seattle Seahawks,Atlanta Falcons,-3.5,False,46.5,-185,165
+2013,10,Baltimore Ravens,Cincinnati Bengals,-1.0,True,44.0,-120,100
+2013,10,Detroit Lions,Chicago Bears,-1.0,False,52.5,-120,100
+2013,10,San Francisco 49ers,Carolina Panthers,-6.0,True,43.5,-260,220
+2013,10,Arizona Cardinals,Houston Texans,-4.0,True,42.0,-200,170
+2013,10,Denver Broncos,San Diego Chargers,-7.0,False,57.5,-320,260
+2013,10,New Orleans Saints,Dallas Cowboys,-6.5,True,55.0,-270,230
+2013,10,Miami Dolphins,Tampa Bay Buccaneers,-2.5,False,40.0,-140,120
+2012,10,Indianapolis Colts,Jacksonville Jaguars,-3.0,False,43.0,-185,165
+2012,10,New England Patriots,Buffalo Bills,-13.5,True,54.0,-800,600
+2012,10,New York Giants,Cincinnati Bengals,-4.0,False,47.0,-200,170
+2012,10,Tampa Bay Buccaneers,San Diego Chargers,-3.0,True,46.5,-165,145
+2012,10,Denver Broncos,Carolina Panthers,-3.5,False,46.5,-190,165
+2012,10,Miami Dolphins,Tennessee Titans,-6.5,True,44.0,-300,250
+2012,10,Baltimore Ravens,Oakland Raiders,-7.5,True,48.0,-360,300
+2012,10,Atlanta Falcons,New Orleans Saints,-2.0,True,53.5,-130,110
+2012,10,Detroit Lions,Minnesota Vikings,-3.0,False,46.0,-175,155
+2012,10,Seattle Seahawks,New York Jets,-5.5,True,38.5,-245,205
+2012,10,Dallas Cowboys,Philadelphia Eagles,-2.5,False,44.0,-140,120
+2012,10,San Francisco 49ers,St. Louis Rams,-13.5,True,38.0,-800,600
+2012,10,Chicago Bears,Houston Texans,-1.0,True,37.5,-120,100
+2012,10,Pittsburgh Steelers,Kansas City Chiefs,-13.0,True,39.5,-750,550
+2011,10,San Diego Chargers,Oakland Raiders,-7.0,True,48.0,-350,290
+2011,10,Pittsburgh Steelers,Cincinnati Bengals,-3.5,False,40.0,-205,175
+2011,10,Kansas City Chiefs,Denver Broncos,-3.0,True,42.0,-185,165
+2011,10,Jacksonville Jaguars,Indianapolis Colts,-3.0,False,37.5,-150,130
+2011,10,Dallas Cowboys,Buffalo Bills,-4.5,True,48.5,-215,185
+2011,10,Houston Texans,Tampa Bay Buccaneers,-3.5,False,45.5,-200,170
+2011,10,Carolina Panthers,Tennessee Titans,-3.5,True,47.5,-195,170
+2011,10,Miami Dolphins,Washington Redskins,-4.0,True,38.0,-220,185
+2011,10,Atlanta Falcons,New Orleans Saints,-1.0,True,50.0,-120,100
+2011,10,Chicago Bears,Detroit Lions,-2.5,True,42.5,-150,130
+2011,10,Cleveland Browns,St. Louis Rams,-2.5,True,36.5,-145,125
+2011,10,Philadelphia Eagles,Arizona Cardinals,-13.0,True,47.0,-750,550
+2011,10,Baltimore Ravens,Seattle Seahawks,-7.0,False,38.5,-320,260
+2011,10,San Francisco 49ers,New York Giants,-4.0,True,43.0,-230,190
+2011,10,New York Jets,New England Patriots,-2.5,True,47.0,-145,125
+2011,10,Green Bay Packers,Minnesota Vikings,-13.0,True,50.0,-800,600
+2010,10,Atlanta Falcons,Baltimore Ravens,-1.0,True,44.0,-120,100
+2010,10,Indianapolis Colts,Cincinnati Bengals,-7.0,True,47.0,-330,260
+2010,10,Jacksonville Jaguars,Houston Texans,-1.0,True,48.5,-120,100
+2010,10,Miami Dolphins,Tennessee Titans,-1.0,True,43.0,-120,100
+2010,10,Minnesota Vikings,Chicago Bears,-1.0,False,40.5,-120,100
+2010,10,Buffalo Bills,Detroit Lions,-1.5,True,45.0,-125,105
+2010,10,New York Jets,Cleveland Browns,-3.0,False,37.0,-185,165
+2010,10,Tampa Bay Buccaneers,Carolina Panthers,-7.0,True,37.0,-320,250
+2010,10,Kansas City Chiefs,Denver Broncos,-1.0,False,44.5,-120,100
+2010,10,San Francisco 49ers,St. Louis Rams,-5.0,True,38.5,-210,180
+2010,10,Arizona Cardinals,Seattle Seahawks,-3.5,True,41.0,-205,175
+2010,10,New York Giants,Dallas Cowboys,-12.0,True,46.0,-575,425
+2010,10,Pittsburgh Steelers,New England Patriots,-4.5,True,45.0,-200,175
+2010,10,Philadelphia Eagles,Washington Redskins,-3.0,False,44.0,-175,155
+2009,10,San Francisco 49ers,Chicago Bears,-3.0,True,43.0,-175,155
+2009,10,New York Jets,Jacksonville Jaguars,-6.5,True,41.0,-290,240
+2009,10,Denver Broncos,Washington Redskins,-3.5,False,36.5,-185,165
+2009,10,Pittsburgh Steelers,Cincinnati Bengals,-7.0,True,41.5,-310,260
+2009,10,Tennessee Titans,Buffalo Bills,-7.5,True,41.0,-360,300
+2009,10,Minnesota Vikings,Detroit Lions,-17.0,True,47.5,-1700,1100
+2009,10,New Orleans Saints,St. Louis Rams,-14.0,False,50.5,-900,650
+2009,10,Atlanta Falcons,Carolina Panthers,-1.5,True,44.0,-125,105
+2009,10,Miami Dolphins,Tampa Bay Buccaneers,-10.0,True,42.5,-500,375
+2009,10,Oakland Raiders,Kansas City Chiefs,-2.5,True,36.5,-140,120
+2009,10,Arizona Cardinals,Seattle Seahawks,-8.5,True,46.5,-360,290
+2009,10,San Diego Chargers,Philadelphia Eagles,-1.0,True,47.0,-120,100
+2009,10,Dallas Cowboys,Green Bay Packers,-3.0,False,48.0,-155,135
+2009,10,Indianapolis Colts,New England Patriots,-2.0,True,49.0,-130,110
+2009,10,Baltimore Ravens,Cleveland Browns,-11.0,False,39.5,-600,450
+2008,10,Cleveland Browns,Denver Broncos,-3.0,True,47.0,-165,145
+2008,10,Jacksonville Jaguars,Detroit Lions,-6.0,False,43.0,-275,235
+2008,10,Tennessee Titans,Chicago Bears,-3.0,False,37.0,-140,120
+2008,10,New England Patriots,Buffalo Bills,-3.5,True,41.5,-185,165
+2008,10,Atlanta Falcons,New Orleans Saints,-1.5,True,51.0,-125,105
+2008,10,New York Jets,St. Louis Rams,-9.5,True,43.5,-400,330
+2008,10,Miami Dolphins,Seattle Seahawks,-8.0,True,41.5,-340,280
+2008,10,Minnesota Vikings,Green Bay Packers,-2.5,True,44.5,-135,115
+2008,10,Carolina Panthers,Oakland Raiders,-10.0,False,37.5,-475,375
+2008,10,San Diego Chargers,Kansas City Chiefs,-14.5,True,47.5,-900,600
+2008,10,Pittsburgh Steelers,Indianapolis Colts,-3.0,True,39.0,-175,155
+2008,10,Philadelphia Eagles,New York Giants,-3.0,True,43.0,-155,135
+2008,10,Houston Texans,Baltimore Ravens,-2.0,True,43.5,-135,115
+2008,10,Arizona Cardinals,San Francisco 49ers,-10.0,True,47.5,-440,340
+2007,10,Tennessee Titans,Jacksonville Jaguars,-4.5,True,35.5,-225,190
+2007,10,Kansas City Chiefs,Denver Broncos,-3.0,True,37.5,-165,145
+2007,10,Buffalo Bills,Miami Dolphins,-3.0,False,41.0,-150,130
+2007,10,Pittsburgh Steelers,Cleveland Browns,-10.0,True,47.0,-550,400
+2007,10,New Orleans Saints,St. Louis Rams,-10.5,True,47.0,-600,425
+2007,10,Carolina Panthers,Atlanta Falcons,-3.5,True,35.5,-175,155
+2007,10,Washington Redskins,Philadelphia Eagles,-2.5,True,38.0,-145,125
+2007,10,Green Bay Packers,Minnesota Vikings,-5.5,True,41.0,-250,200
+2007,10,Baltimore Ravens,Cincinnati Bengals,-3.0,True,44.0,-170,150
+2007,10,Chicago Bears,Oakland Raiders,-3.5,False,38.5,-195,170
+2007,10,Dallas Cowboys,New York Giants,-2.0,False,48.5,-140,120
+2007,10,Arizona Cardinals,Detroit Lions,-2.0,True,45.0,-140,120
+2007,10,Indianapolis Colts,San Diego Chargers,-3.5,False,48.0,-195,170
+2007,10,Seattle Seahawks,San Francisco 49ers,-9.0,True,37.5,-420,320
+2006,10,Miami Dolphins,Kansas City Chiefs,-1.5,True,40.0,-135,115
+2006,10,Jacksonville Jaguars,Houston Texans,-10.0,True,37.0,-550,400
+2006,10,San Diego Chargers,Cincinnati Bengals,-1.0,False,48.0,-115,-105
+2006,10,Atlanta Falcons,Cleveland Browns,-8.0,True,42.0,-360,290
+2006,10,Baltimore Ravens,Tennessee Titans,-6.5,False,38.0,-320,250
+2006,10,Indianapolis Colts,Buffalo Bills,-12.5,True,44.5,-725,525
+2006,10,Pittsburgh Steelers,New Orleans Saints,-6.5,True,46.0,-300,250
+2006,10,Philadelphia Eagles,Washington Redskins,-8.0,True,41.5,-380,300
+2006,10,New York Giants,Chicago Bears,-1.0,True,37.0,-120,100
+2006,10,Minnesota Vikings,Green Bay Packers,-5.0,True,39.5,-235,195
+2006,10,New England Patriots,New York Jets,-10.0,True,38.0,-575,425
+2006,10,Detroit Lions,San Francisco 49ers,-6.5,True,46.0,-275,220
+2006,10,Denver Broncos,Oakland Raiders,-9.0,False,33.5,-480,350
+2006,10,Seattle Seahawks,St. Louis Rams,-3.0,True,43.5,-160,140
+2006,10,Dallas Cowboys,Arizona Cardinals,-6.5,False,43.0,-300,240
+2006,10,Carolina Panthers,Tampa Bay Buccaneers,-10.0,True,37.0,-575,425
+2014,11,Miami Dolphins,Buffalo Bills,-4.0,True,41.0,-205,175
+2014,11,Cleveland Browns,Houston Texans,-4.0,True,42.0,-220,180
+2014,11,Chicago Bears,Minnesota Vikings,-2.5,True,46.5,-140,120
+2014,11,Green Bay Packers,Philadelphia Eagles,-5.5,True,55.5,-235,195
+2014,11,Seattle Seahawks,Kansas City Chiefs,-1.0,False,43.5,-115,-105
+2014,11,Atlanta Falcons,Carolina Panthers,-2.5,True,47.0,-145,125
+2014,11,New Orleans Saints,Cincinnati Bengals,-8.0,True,51.5,-380,310
+2014,11,Washington Redskins,Tampa Bay Buccaneers,-7.0,True,46.0,-330,270
+2014,11,Denver Broncos,St. Louis Rams,-9.0,False,50.0,-460,360
+2014,11,San Francisco 49ers,New York Giants,-4.0,False,45.0,-205,175
+2014,11,San Diego Chargers,Oakland Raiders,-10.0,True,45.5,-700,500
+2014,11,Detroit Lions,Arizona Cardinals,-1.5,False,41.5,-120,100
+2014,11,Indianapolis Colts,New England Patriots,-3.0,True,59.0,-155,135
+2014,11,Pittsburgh Steelers,Tennessee Titans,-7.0,False,46.0,-340,280
+2013,11,Indianapolis Colts,Tennessee Titans,-3.0,False,42.5,-150,130
+2013,11,Tampa Bay Buccaneers,Atlanta Falcons,-2.0,True,43.5,-135,115
+2013,11,New York Jets,Buffalo Bills,-2.0,False,39.0,-130,110
+2013,11,Detroit Lions,Pittsburgh Steelers,-3.0,False,45.5,-160,140
+2013,11,Philadelphia Eagles,Washington Redskins,-4.5,True,55.0,-220,180
+2013,11,San Diego Chargers,Miami Dolphins,-2.5,False,45.0,-145,125
+2013,11,Chicago Bears,Baltimore Ravens,-3.0,True,40.0,-175,155
+2013,11,Cincinnati Bengals,Cleveland Browns,-5.0,True,40.0,-230,190
+2013,11,Houston Texans,Oakland Raiders,-10.5,True,41.0,-550,425
+2013,11,Arizona Cardinals,Jacksonville Jaguars,-9.0,False,40.5,-440,360
+2013,11,Denver Broncos,Kansas City Chiefs,-7.5,True,49.0,-350,290
+2013,11,Seattle Seahawks,Minnesota Vikings,-13.0,True,45.5,-850,575
+2013,11,New Orleans Saints,San Francisco 49ers,-3.0,True,50.0,-175,155
+2013,11,New York Giants,Green Bay Packers,-3.5,True,41.5,-180,160
+2013,11,Carolina Panthers,New England Patriots,-3.0,True,46.5,-155,135
+2012,11,Buffalo Bills,Miami Dolphins,-2.5,True,46.0,-140,120
+2012,11,Washington Redskins,Philadelphia Eagles,-3.5,True,45.5,-190,170
+2012,11,Green Bay Packers,Detroit Lions,-3.0,False,53.5,-170,150
+2012,11,Atlanta Falcons,Arizona Cardinals,-9.5,True,43.5,-470,370
+2012,11,Tampa Bay Buccaneers,Carolina Panthers,-1.0,False,47.0,-120,100
+2012,11,Dallas Cowboys,Cleveland Browns,-7.0,True,43.5,-340,280
+2012,11,St. Louis Rams,New York Jets,-3.5,True,38.5,-190,165
+2012,11,New England Patriots,Indianapolis Colts,-10.0,True,54.5,-500,400
+2012,11,Houston Texans,Jacksonville Jaguars,-15.5,True,40.5,-1450,950
+2012,11,Cincinnati Bengals,Kansas City Chiefs,-3.0,False,42.0,-170,150
+2012,11,New Orleans Saints,Oakland Raiders,-6.0,False,55.5,-265,225
+2012,11,Denver Broncos,San Diego Chargers,-7.5,True,48.0,-380,320
+2012,11,Baltimore Ravens,Pittsburgh Steelers,-3.0,False,41.0,-160,140
+2012,11,San Francisco 49ers,Chicago Bears,-3.5,True,34.5,-200,170
+2011,11,New York Jets,Denver Broncos,-6.0,False,39.0,-300,250
+2011,11,Atlanta Falcons,Tennessee Titans,-6.0,True,44.0,-265,225
+2011,11,Miami Dolphins,Buffalo Bills,-2.5,True,44.0,-150,130
+2011,11,Baltimore Ravens,Cincinnati Bengals,-7.0,True,40.5,-310,260
+2011,11,Cleveland Browns,Jacksonville Jaguars,-1.5,True,34.5,-125,105
+2011,11,Minnesota Vikings,Oakland Raiders,-2.0,True,46.0,-135,115
+2011,11,Detroit Lions,Carolina Panthers,-7.0,True,47.5,-320,260
+2011,11,Green Bay Packers,Tampa Bay Buccaneers,-14.0,True,48.5,-900,600
+2011,11,Dallas Cowboys,Washington Redskins,-7.0,False,42.5,-355,295
+2011,11,San Francisco 49ers,Arizona Cardinals,-10.0,True,40.5,-600,450
+2011,11,St. Louis Rams,Seattle Seahawks,-3.0,True,40.5,-150,130
+2011,11,Chicago Bears,San Diego Chargers,-4.5,True,45.0,-225,190
+2011,11,New York Giants,Philadelphia Eagles,-6.0,True,45.0,-250,210
+2011,11,New England Patriots,Kansas City Chiefs,-17.0,True,46.5,-1600,1050
+2010,11,Miami Dolphins,Chicago Bears,-2.5,True,40.0,-140,120
+2010,11,Pittsburgh Steelers,Oakland Raiders,-7.0,True,41.0,-320,260
+2010,11,New York Jets,Houston Texans,-6.5,True,46.0,-290,240
+2010,11,Baltimore Ravens,Carolina Panthers,-13.0,False,37.0,-900,650
+2010,11,Tennessee Titans,Washington Redskins,-7.0,True,44.0,-325,260
+2010,11,Dallas Cowboys,Detroit Lions,-5.5,True,47.5,-250,210
+2010,11,Green Bay Packers,Minnesota Vikings,-3.0,False,44.5,-160,140
+2010,11,Cincinnati Bengals,Buffalo Bills,-4.5,True,41.0,-225,185
+2010,11,Jacksonville Jaguars,Cleveland Browns,-2.5,True,43.0,-140,120
+2010,11,Kansas City Chiefs,Arizona Cardinals,-7.0,True,45.0,-340,280
+2010,11,New Orleans Saints,Seattle Seahawks,-11.0,True,44.5,-575,425
+2010,11,Atlanta Falcons,St. Louis Rams,-3.5,True,43.0,-185,165
+2010,11,San Francisco 49ers,Tampa Bay Buccaneers,-3.5,True,41.5,-190,170
+2010,11,New England Patriots,Indianapolis Colts,-4.5,True,49.5,-210,180
+2010,11,Philadelphia Eagles,New York Giants,-3.5,True,47.5,-195,170
+2010,11,San Diego Chargers,Denver Broncos,-9.0,True,50.0,-420,330
+2009,11,Carolina Panthers,Miami Dolphins,-3.5,True,42.0,-200,170
+2009,11,Detroit Lions,Cleveland Browns,-3.0,True,37.5,-175,155
+2009,11,Jacksonville Jaguars,Buffalo Bills,-8.5,True,41.0,-375,310
+2009,11,Pittsburgh Steelers,Kansas City Chiefs,-11.5,False,39.5,-675,475
+2009,11,Indianapolis Colts,Baltimore Ravens,-1.5,False,44.5,-125,105
+2009,11,New York Giants,Atlanta Falcons,-7.0,True,46.5,-350,290
+2009,11,Green Bay Packers,San Francisco 49ers,-6.0,True,41.5,-265,220
+2009,11,Minnesota Vikings,Seattle Seahawks,-10.5,True,47.0,-550,425
+2009,11,Dallas Cowboys,Washington Redskins,-10.5,True,41.5,-600,425
+2009,11,New Orleans Saints,Tampa Bay Buccaneers,-10.5,False,51.0,-550,400
+2009,11,Arizona Cardinals,St. Louis Rams,-9.0,False,47.0,-400,325
+2009,11,New England Patriots,New York Jets,-11.0,True,45.5,-650,475
+2009,11,Cincinnati Bengals,Oakland Raiders,-8.5,False,36.0,-450,325
+2009,11,San Diego Chargers,Denver Broncos,-6.0,False,41.5,-275,235
+2009,11,Philadelphia Eagles,Chicago Bears,-3.5,False,47.0,-195,170
+2009,11,Houston Texans,Tennessee Titans,-3.5,True,48.0,-200,170
+2008,11,New England Patriots,New York Jets,-3.0,True,40.5,-160,140
+2008,11,Atlanta Falcons,Denver Broncos,-6.5,True,51.5,-280,240
+2008,11,Miami Dolphins,Oakland Raiders,-10.0,True,38.0,-475,375
+2008,11,New York Giants,Baltimore Ravens,-7.0,True,40.5,-310,260
+2008,11,Indianapolis Colts,Houston Texans,-7.5,True,50.5,-340,280
+2008,11,Tennessee Titans,Jacksonville Jaguars,-3.0,False,40.0,-140,120
+2008,11,Green Bay Packers,Chicago Bears,-3.5,True,43.0,-180,160
+2008,11,Philadelphia Eagles,Cincinnati Bengals,-9.0,False,41.0,-400,330
+2008,11,New Orleans Saints,Kansas City Chiefs,-6.0,False,50.5,-260,220
+2008,11,Carolina Panthers,Detroit Lions,-14.0,True,40.0,-850,600
+2008,11,Tampa Bay Buccaneers,Minnesota Vikings,-5.0,True,39.0,-230,195
+2008,11,San Francisco 49ers,St. Louis Rams,-7.0,True,43.5,-300,250
+2008,11,Arizona Cardinals,Seattle Seahawks,-3.0,False,48.0,-150,130
+2008,11,Pittsburgh Steelers,San Diego Chargers,-4.5,True,40.5,-220,185
+2008,11,Dallas Cowboys,Washington Redskins,-2.0,False,43.0,-130,110
+2008,11,Buffalo Bills,Cleveland Browns,-5.0,True,40.5,-225,185
+2007,11,Jacksonville Jaguars,San Diego Chargers,-3.0,True,40.5,-165,145
+2007,11,Indianapolis Colts,Kansas City Chiefs,-14.5,True,41.5,-1400,975
+2007,11,Minnesota Vikings,Oakland Raiders,-4.5,True,35.5,-230,190
+2007,11,Cleveland Browns,Baltimore Ravens,-2.0,False,43.5,-130,110
+2007,11,Pittsburgh Steelers,New York Jets,-9.0,False,40.5,-500,375
+2007,11,Tampa Bay Buccaneers,Atlanta Falcons,-3.0,False,35.5,-180,160
+2007,11,Cincinnati Bengals,Arizona Cardinals,-3.0,True,48.5,-170,150
+2007,11,Philadelphia Eagles,Miami Dolphins,-9.5,True,40.5,-550,400
+2007,11,New England Patriots,Buffalo Bills,-16.5,False,47.0,-1350,900
+2007,11,Dallas Cowboys,Washington Redskins,-11.0,True,47.0,-650,475
+2007,11,Houston Texans,New Orleans Saints,-1.5,True,50.0,-130,110
+2007,11,Green Bay Packers,Carolina Panthers,-10.0,True,37.5,-525,385
+2007,11,New York Giants,Detroit Lions,-2.5,False,48.0,-145,125
+2007,11,St. Louis Rams,San Francisco 49ers,-3.0,False,39.5,-175,155
+2007,11,Seattle Seahawks,Chicago Bears,-6.0,True,38.0,-270,215
+2007,11,Denver Broncos,Tennessee Titans,-1.0,True,38.5,-120,100
+2006,11,Kansas City Chiefs,Oakland Raiders,-8.0,True,36.0,-400,330
+2006,11,Indianapolis Colts,Dallas Cowboys,-1.5,False,50.0,-120,100
+2006,11,New Orleans Saints,Cincinnati Bengals,-3.5,True,51.5,-170,150
+2006,11,Pittsburgh Steelers,Cleveland Browns,-4.5,False,37.0,-220,180
+2006,11,Philadelphia Eagles,Tennessee Titans,-13.0,True,44.0,-875,625
+2006,11,Baltimore Ravens,Atlanta Falcons,-3.5,True,41.0,-190,165
+2006,11,Carolina Panthers,St. Louis Rams,-6.5,True,44.0,-300,230
+2006,11,Houston Texans,Buffalo Bills,-3.0,True,36.5,-155,135
+2006,11,New England Patriots,Green Bay Packers,-6.0,False,45.5,-260,210
+2006,11,Tampa Bay Buccaneers,Washington Redskins,-3.0,True,33.5,-165,145
+2006,11,Chicago Bears,New York Jets,-6.0,False,39.5,-270,220
+2006,11,Miami Dolphins,Minnesota Vikings,-3.5,True,34.0,-180,160
+2006,11,Arizona Cardinals,Detroit Lions,-2.0,True,46.0,-135,115
+2006,11,Seattle Seahawks,San Francisco 49ers,-3.0,False,43.5,-170,150
+2006,11,Denver Broncos,San Diego Chargers,-3.0,True,42.5,-150,130
+2006,11,Jacksonville Jaguars,New York Giants,-3.5,True,38.5,-200,170
+2014,12,Kansas City Chiefs,Oakland Raiders,-7.5,False,42.0,-365,305
+2014,12,Atlanta Falcons,Cleveland Browns,-2.5,True,48.5,-145,125
+2014,12,Philadelphia Eagles,Tennessee Titans,-11.5,True,49.0,-750,550
+2014,12,New England Patriots,Detroit Lions,-7.0,True,47.5,-340,280
+2014,12,Green Bay Packers,Minnesota Vikings,-8.0,False,49.5,-390,320
+2014,12,Indianapolis Colts,Jacksonville Jaguars,-13.5,True,49.5,-950,650
+2014,12,Houston Texans,Cincinnati Bengals,-2.5,True,44.5,-145,125
+2014,12,Chicago Bears,Tampa Bay Buccaneers,-4.5,True,46.5,-210,180
+2014,12,Seattle Seahawks,Arizona Cardinals,-7.5,True,41.5,-350,290
+2014,12,San Diego Chargers,St. Louis Rams,-5.0,True,43.5,-230,190
+2014,12,Denver Broncos,Miami Dolphins,-6.5,True,47.5,-310,260
+2014,12,San Francisco 49ers,Washington Redskins,-9.5,True,44.0,-575,425
+2014,12,Dallas Cowboys,New York Giants,-4.5,False,49.0,-220,180
+2014,12,New Orleans Saints,Baltimore Ravens,-3.0,True,50.5,-145,125
+2014,12,Buffalo Bills,New York Jets,-2.5,True,42.5,-140,120
+2013,12,New Orleans Saints,Atlanta Falcons,-8.0,False,53.0,-400,330
+2013,12,Detroit Lions,Tampa Bay Buccaneers,-7.0,True,49.0,-350,290
+2013,12,Houston Texans,Jacksonville Jaguars,-10.5,True,43.5,-550,425
+2013,12,Green Bay Packers,Minnesota Vikings,-6.0,True,44.0,-260,220
+2013,12,Kansas City Chiefs,San Diego Chargers,-3.5,True,43.5,-185,165
+2013,12,Carolina Panthers,Miami Dolphins,-5.0,False,40.5,-220,190
+2013,12,Cleveland Browns,Pittsburgh Steelers,-2.5,True,40.0,-140,120
+2013,12,St. Louis Rams,Chicago Bears,-2.0,True,46.0,-130,110
+2013,12,Baltimore Ravens,New York Jets,-4.0,True,38.5,-210,175
+2013,12,Tennessee Titans,Oakland Raiders,-2.5,False,42.0,-140,120
+2013,12,Arizona Cardinals,Indianapolis Colts,-3.0,True,45.0,-165,145
+2013,12,New York Giants,Dallas Cowboys,-2.5,True,45.0,-145,125
+2013,12,Denver Broncos,New England Patriots,-1.0,False,54.0,-120,100
+2013,12,San Francisco 49ers,Washington Redskins,-5.5,False,45.5,-250,210
+2012,12,Houston Texans,Detroit Lions,-3.5,False,48.5,-190,170
+2012,12,Dallas Cowboys,Washington Redskins,-3.5,True,47.5,-185,165
+2012,12,New England Patriots,New York Jets,-7.0,False,48.0,-330,270
+2012,12,Cincinnati Bengals,Oakland Raiders,-7.5,True,50.0,-390,320
+2012,12,Pittsburgh Steelers,Cleveland Browns,-1.0,False,33.5,-120,100
+2012,12,Indianapolis Colts,Buffalo Bills,-2.0,True,51.0,-135,115
+2012,12,Denver Broncos,Kansas City Chiefs,-10.5,False,42.0,-650,475
+2012,12,Tennessee Titans,Jacksonville Jaguars,-3.5,False,45.0,-175,155
+2012,12,Chicago Bears,Minnesota Vikings,-6.5,True,38.5,-275,235
+2012,12,Atlanta Falcons,Tampa Bay Buccaneers,-1.0,True,51.0,-120,100
+2012,12,Seattle Seahawks,Miami Dolphins,-3.0,False,37.5,-170,150
+2012,12,Baltimore Ravens,San Diego Chargers,-1.0,False,47.0,-120,100
+2012,12,San Francisco 49ers,New Orleans Saints,-2.5,False,50.5,-140,120
+2012,12,Arizona Cardinals,St. Louis Rams,-1.5,True,36.0,-125,105
+2012,12,New York Giants,Green Bay Packers,-3.0,True,51.0,-145,125
+2012,12,Carolina Panthers,Philadelphia Eagles,-3.0,False,41.5,-170,150
+2011,12,Green Bay Packers,Detroit Lions,-4.5,False,55.0,-200,175
+2011,12,Dallas Cowboys,Miami Dolphins,-7.0,True,45.5,-325,265
+2011,12,Baltimore Ravens,San Francisco 49ers,-3.5,True,40.5,-175,155
+2011,12,St. Louis Rams,Arizona Cardinals,-2.5,True,40.0,-135,115
+2011,12,New York Jets,Buffalo Bills,-9.5,True,42.5,-500,400
+2011,12,Cincinnati Bengals,Cleveland Browns,-6.5,True,38.5,-300,250
+2011,12,Houston Texans,Jacksonville Jaguars,-6.5,False,37.0,-300,250
+2011,12,Carolina Panthers,Indianapolis Colts,-3.5,False,46.5,-200,170
+2011,12,Tennessee Titans,Tampa Bay Buccaneers,-3.0,True,43.5,-155,135
+2011,12,Atlanta Falcons,Minnesota Vikings,-10.0,True,44.0,-500,400
+2011,12,Oakland Raiders,Chicago Bears,-3.0,True,41.0,-150,130
+2011,12,Seattle Seahawks,Washington Redskins,-3.0,True,37.0,-155,135
+2011,12,New England Patriots,Philadelphia Eagles,-3.0,False,50.5,-160,140
+2011,12,San Diego Chargers,Denver Broncos,-4.5,True,42.0,-230,190
+2011,12,Pittsburgh Steelers,Kansas City Chiefs,-11.0,False,42.0,-700,500
+2011,12,New Orleans Saints,New York Giants,-7.0,True,51.0,-340,280
+2010,12,New England Patriots,Detroit Lions,-6.0,False,50.5,-285,235
+2010,12,New Orleans Saints,Dallas Cowboys,-4.5,False,48.5,-225,185
+2010,12,New York Jets,Cincinnati Bengals,-10.0,True,43.5,-500,400
+2010,12,Minnesota Vikings,Washington Redskins,-2.0,False,43.5,-135,115
+2010,12,Pittsburgh Steelers,Buffalo Bills,-6.5,False,43.5,-300,250
+2010,12,Houston Texans,Tennessee Titans,-5.0,True,46.5,-230,190
+2010,12,New York Giants,Jacksonville Jaguars,-7.5,True,43.5,-345,285
+2010,12,Cleveland Browns,Carolina Panthers,-8.0,True,37.5,-370,310
+2010,12,Baltimore Ravens,Tampa Bay Buccaneers,-7.5,True,41.5,-340,280
+2010,12,Philadelphia Eagles,Chicago Bears,-3.0,False,42.0,-165,145
+2010,12,Atlanta Falcons,Green Bay Packers,-2.0,True,47.5,-135,115
+2010,12,Oakland Raiders,Miami Dolphins,-3.0,True,38.0,-145,125
+2010,12,Kansas City Chiefs,Seattle Seahawks,-1.5,False,45.0,-125,105
+2010,12,Denver Broncos,St. Louis Rams,-3.0,True,46.5,-180,160
+2010,12,Indianapolis Colts,San Diego Chargers,-2.0,True,50.5,-135,115
+2010,12,San Francisco 49ers,Arizona Cardinals,-2.0,False,41.5,-130,110
+2009,12,Green Bay Packers,Detroit Lions,-11.5,False,48.5,-675,475
+2009,12,Dallas Cowboys,Oakland Raiders,-13.5,True,40.5,-800,600
+2009,12,New York Giants,Denver Broncos,-4.5,False,43.5,-215,180
+2009,12,Indianapolis Colts,Houston Texans,-3.0,False,48.0,-155,135
+2009,12,Cincinnati Bengals,Cleveland Browns,-12.5,True,39.5,-725,525
+2009,12,Minnesota Vikings,Chicago Bears,-10.5,True,47.0,-600,425
+2009,12,Philadelphia Eagles,Washington Redskins,-10.0,True,40.5,-525,400
+2009,12,Miami Dolphins,Buffalo Bills,-3.5,False,38.5,-190,170
+2009,12,Tennessee Titans,Arizona Cardinals,-3.5,True,44.5,-190,165
+2009,12,Seattle Seahawks,St. Louis Rams,-3.5,False,42.5,-200,170
+2009,12,Atlanta Falcons,Tampa Bay Buccaneers,-12.5,True,46.0,-650,475
+2009,12,New York Jets,Carolina Panthers,-3.5,True,41.5,-180,160
+2009,12,San Francisco 49ers,Jacksonville Jaguars,-3.0,True,42.0,-175,155
+2009,12,San Diego Chargers,Kansas City Chiefs,-13.5,True,45.0,-775,550
+2009,12,Baltimore Ravens,Pittsburgh Steelers,-7.5,True,35.0,-360,280
+2009,12,New Orleans Saints,New England Patriots,-2.0,True,57.5,-130,110
+2008,12,Pittsburgh Steelers,Cincinnati Bengals,-11.5,True,34.5,-800,600
+2008,12,Cleveland Browns,Houston Texans,-3.0,True,50.0,-150,130
+2008,12,Buffalo Bills,Kansas City Chiefs,-3.0,False,43.0,-160,140
+2008,12,Tennessee Titans,New York Jets,-5.5,True,41.0,-240,200
+2008,12,New England Patriots,Miami Dolphins,-2.0,False,42.5,-135,115
+2008,12,Dallas Cowboys,San Francisco 49ers,-9.5,True,46.0,-450,350
+2008,12,Tampa Bay Buccaneers,Detroit Lions,-8.0,False,42.0,-350,290
+2008,12,Baltimore Ravens,Philadelphia Eagles,-2.0,True,39.5,-135,115
+2008,12,Chicago Bears,St. Louis Rams,-7.5,False,44.5,-330,270
+2008,12,Jacksonville Jaguars,Minnesota Vikings,-2.0,True,41.0,-135,115
+2008,12,Atlanta Falcons,Carolina Panthers,0,True,41.5,-110,-110
+2008,12,Denver Broncos,Oakland Raiders,-8.5,True,43.5,-360,290
+2008,12,Washington Redskins,Seattle Seahawks,-3.0,False,40.5,-155,135
+2008,12,New York Giants,Arizona Cardinals,-3.0,False,48.5,-160,140
+2008,12,San Diego Chargers,Indianapolis Colts,-3.0,True,49.5,-150,130
+2008,12,New Orleans Saints,Green Bay Packers,0,True,52.0,-110,-110
+2007,12,Green Bay Packers,Detroit Lions,-3.0,False,47.5,-175,155
+2007,12,Dallas Cowboys,New York Jets,-14.5,True,48.0,-1100,750
+2007,12,Indianapolis Colts,Atlanta Falcons,-13.5,False,42.0,-750,550
+2007,12,Chicago Bears,Denver Broncos,-1.0,True,42.0,-120,100
+2007,12,Cincinnati Bengals,Tennessee Titans,0,True,47.0,-115,-105
+2007,12,Jacksonville Jaguars,Buffalo Bills,-8.5,True,37.0,-430,325
+2007,12,Kansas City Chiefs,Oakland Raiders,-4.0,True,34.5,-210,175
+2007,12,Cleveland Browns,Houston Texans,-3.0,True,52.0,-180,160
+2007,12,Seattle Seahawks,St. Louis Rams,-3.0,False,45.5,-170,150
+2007,12,New York Giants,Minnesota Vikings,-7.0,True,40.5,-360,280
+2007,12,New Orleans Saints,Carolina Panthers,-3.0,False,41.5,-160,140
+2007,12,Tampa Bay Buccaneers,Washington Redskins,-3.0,True,38.0,-185,165
+2007,12,Arizona Cardinals,San Francisco 49ers,-10.5,True,37.5,-625,450
+2007,12,San Diego Chargers,Baltimore Ravens,-9.0,True,38.5,-475,350
+2007,12,New England Patriots,Philadelphia Eagles,-24.5,True,51.5,-2400,1750
+2007,12,Pittsburgh Steelers,Miami Dolphins,-15.5,True,37.5,-1100,775
+2006,12,Miami Dolphins,Detroit Lions,-2.5,False,40.0,-150,130
+2006,12,Dallas Cowboys,Tampa Bay Buccaneers,-12.5,True,38.5,-700,500
+2006,12,Kansas City Chiefs,Denver Broncos,-2.0,True,39.0,-135,115
+2006,12,Jacksonville Jaguars,Buffalo Bills,-3.0,False,35.0,-160,140
+2006,12,New York Jets,Houston Texans,-5.0,True,40.0,-220,180
+2006,12,Baltimore Ravens,Pittsburgh Steelers,-3.0,True,40.0,-145,125
+2006,12,Cincinnati Bengals,Cleveland Browns,-3.5,False,44.0,-180,160
+2006,12,Minnesota Vikings,Arizona Cardinals,-7.0,True,39.0,-310,240
+2006,12,St. Louis Rams,San Francisco 49ers,-4.5,True,44.5,-220,180
+2006,12,Atlanta Falcons,New Orleans Saints,-3.0,True,48.0,-175,155
+2006,12,Carolina Panthers,Washington Redskins,-5.5,False,36.0,-260,215
+2006,12,New England Patriots,Chicago Bears,-4.5,True,38.0,-225,190
+2006,12,Indianapolis Colts,Philadelphia Eagles,-10.5,True,44.5,-525,375
+2006,12,New York Giants,Tennessee Titans,-3.5,False,45.0,-190,170
+2006,12,San Diego Chargers,Oakland Raiders,-13.5,True,43.0,-975,675
+2006,12,Seattle Seahawks,Green Bay Packers,-10.0,True,42.0,-575,415
+2014,13,Detroit Lions,Chicago Bears,-7.0,True,46.0,-340,280
+2014,13,Dallas Cowboys,,-3.5,True,57.0,-175,155
+2014,13,San Francisco 49ers,Seattle Seahawks,-1.5,True,40.5,-125,105
+2014,13,Indianapolis Colts,Washington Redskins,-8.0,True,49.0,-400,330
+2014,13,Houston Texans,Tennessee Titans,-7.0,True,42.5,-300,250
+2014,13,Buffalo Bills,Cleveland Browns,-3.0,True,42.0,-170,150
+2014,13,Baltimore Ravens,San Diego Chargers,-6.5,True,46.0,-295,245
+2014,13,New York Giants,Jacksonville Jaguars,-3.0,False,44.0,-155,135
+2014,13,Cincinnati Bengals,Tampa Bay Buccaneers,-6.0,False,43.5,-250,210
+2014,13,St. Louis Rams,Oakland Raiders,-6.0,True,43.0,-260,220
+2014,13,Pittsburgh Steelers,New Orleans Saints,-3.5,True,54.5,-180,160
+2014,13,Minnesota Vikings,Carolina Panthers,-2.5,True,41.5,-140,120
+2014,13,Arizona Cardinals,Atlanta Falcons,-1.5,False,45.0,-125,105
+2014,13,Green Bay Packers,New England Patriots,-3.0,True,58.0,-155,135
+2014,13,Kansas City Chiefs,Denver Broncos,0,True,49.5,-110,-110
+2014,13,Miami Dolphins,New York Jets,-7.0,False,41.5,-320,260
+2013,13,Detroit Lions,Green Bay Packers,-6.5,True,49.0,-280,240
+2013,13,Dallas Cowboys,Oakland Raiders,-9.0,True,49.5,-475,375
+2013,13,Baltimore Ravens,Pittsburgh Steelers,-3.0,True,40.5,-155,135
+2013,13,Indianapolis Colts,Tennessee Titans,-3.5,True,46.5,-195,170
+2013,13,Denver Broncos,Kansas City Chiefs,-5.5,False,50.0,-260,220
+2013,13,Cleveland Browns,Jacksonville Jaguars,-7.0,True,39.5,-320,260
+2013,13,Carolina Panthers,Tampa Bay Buccaneers,-7.0,True,41.0,-350,290
+2013,13,Minnesota Vikings,Chicago Bears,-1.0,True,50.0,-120,100
+2013,13,Philadelphia Eagles,Arizona Cardinals,-3.5,True,48.5,-180,160
+2013,13,New York Jets,Miami Dolphins,0,True,40.0,-110,-110
+2013,13,Buffalo Bills,Atlanta Falcons,-4.5,True,48.0,-210,180
+2013,13,San Francisco 49ers,St. Louis Rams,-7.5,True,40.5,-370,310
+2013,13,New England Patriots,Houston Texans,-7.0,False,49.0,-340,280
+2013,13,Cincinnati Bengals,San Diego Chargers,-1.5,False,48.5,-125,105
+2013,13,Washington Redskins,New York Giants,-1.0,True,45.0,-120,100
+2013,13,Seattle Seahawks,New Orleans Saints,-6.5,True,48.5,-275,235
+2012,13,Atlanta Falcons,New Orleans Saints,-3.5,True,54.5,-195,170
+2012,13,Chicago Bears,Seattle Seahawks,-3.0,True,37.0,-165,145
+2012,13,Green Bay Packers,Minnesota Vikings,-7.5,True,47.0,-370,310
+2012,13,San Francisco 49ers,St. Louis Rams,-7.5,False,41.0,-370,310
+2012,13,New York Jets,Arizona Cardinals,-6.5,True,37.0,-270,230
+2012,13,Carolina Panthers,Kansas City Chiefs,-5.5,False,41.5,-240,200
+2012,13,Detroit Lions,Indianapolis Colts,-7.0,True,51.5,-325,265
+2012,13,Buffalo Bills,Jacksonville Jaguars,-6.0,True,41.5,-265,225
+2012,13,New England Patriots,Miami Dolphins,-7.5,False,51.0,-350,290
+2012,13,Houston Texans,Tennessee Titans,-7.0,False,47.5,-310,260
+2012,13,Denver Broncos,Tampa Bay Buccaneers,-8.0,True,50.0,-400,330
+2012,13,Baltimore Ravens,Pittsburgh Steelers,-7.0,True,37.0,-330,270
+2012,13,Cleveland Browns,Oakland Raiders,-2.5,False,39.5,-140,120
+2012,13,San Diego Chargers,Cincinnati Bengals,0,True,46.0,-110,-110
+2012,13,Dallas Cowboys,Philadelphia Eagles,-10.5,True,44.5,-600,450
+2012,13,New York Giants,Washington Redskins,-3.0,False,50.5,-140,120
+2011,13,Philadelphia Eagles,Seattle Seahawks,-3.0,False,43.5,-160,140
+2011,13,Buffalo Bills,Tennessee Titans,-1.0,True,43.5,-120,100
+2011,13,Chicago Bears,Kansas City Chiefs,-8.5,True,35.5,-410,340
+2011,13,Miami Dolphins,Oakland Raiders,-3.0,True,43.0,-175,155
+2011,13,Pittsburgh Steelers,Cincinnati Bengals,-7.0,True,42.5,-310,260
+2011,13,Baltimore Ravens,Cleveland Browns,-7.0,False,38.5,-330,270
+2011,13,New York Jets,Washington Redskins,-3.0,False,38.5,-150,130
+2011,13,Atlanta Falcons,Houston Texans,-2.0,True,38.0,-130,110
+2011,13,Carolina Panthers,Tampa Bay Buccaneers,-2.0,False,46.5,-130,110
+2011,13,New Orleans Saints,Detroit Lions,-8.5,True,55.5,-410,340
+2011,13,Minnesota Vikings,Denver Broncos,-1.0,True,37.5,-120,100
+2011,13,San Francisco 49ers,St. Louis Rams,-14.0,True,38.5,-800,600
+2011,13,Dallas Cowboys,Arizona Cardinals,-4.5,False,47.0,-210,175
+2011,13,Green Bay Packers,New York Giants,-7.0,False,54.0,-300,250
+2011,13,New England Patriots,Indianapolis Colts,-20.5,True,48.5,-2700,1600
+2011,13,San Diego Chargers,Jacksonville Jaguars,-3.0,False,40.0,-165,145
+2010,13,Minnesota Vikings,Buffalo Bills,-5.5,True,43.5,-245,205
+2010,13,Miami Dolphins,Cleveland Browns,-5.5,True,43.5,-245,205
+2010,13,Tennessee Titans,Jacksonville Jaguars,-3.0,True,43.5,-180,160
+2010,13,Kansas City Chiefs,Denver Broncos,-8.0,True,48.0,-380,320
+2010,13,New York Giants,Washington Redskins,-7.5,True,43.0,-360,300
+2010,13,Chicago Bears,Detroit Lions,-5.5,False,43.5,-255,215
+2010,13,Green Bay Packers,San Francisco 49ers,-9.0,True,41.0,-450,350
+2010,13,New Orleans Saints,Cincinnati Bengals,-6.5,False,45.0,-280,240
+2010,13,Atlanta Falcons,Tampa Bay Buccaneers,-3.0,True,43.0,-150,130
+2010,13,San Diego Chargers,Oakland Raiders,-13.0,True,45.0,-700,500
+2010,13,Seattle Seahawks,Carolina Panthers,-5.0,True,40.5,-230,195
+2010,13,Indianapolis Colts,Dallas Cowboys,-6.0,True,48.0,-265,225
+2010,13,St. Louis Rams,Arizona Cardinals,-3.0,False,44.0,-180,160
+2010,13,Baltimore Ravens,Pittsburgh Steelers,-3.0,True,38.5,-180,160
+2010,13,New England Patriots,New York Jets,-4.0,True,44.5,-215,180
+2009,13,New York Jets,Buffalo Bills,-3.5,False,37.0,-190,170
+2009,13,Denver Broncos,Kansas City Chiefs,-6.0,False,39.0,-270,220
+2009,13,Pittsburgh Steelers,Oakland Raiders,-15.0,True,37.0,-1300,850
+2009,13,Houston Texans,Jacksonville Jaguars,-1.5,False,47.5,-125,105
+2009,13,Indianapolis Colts,Tennessee Titans,-6.0,True,47.0,-250,210
+2009,13,Philadelphia Eagles,Atlanta Falcons,-4.5,False,43.5,-225,185
+2009,13,Cincinnati Bengals,Detroit Lions,-13.5,True,42.0,-800,600
+2009,13,New Orleans Saints,Washington Redskins,-9.0,False,47.0,-460,360
+2009,13,Carolina Panthers,Tampa Bay Buccaneers,-4.0,True,40.0,-200,170
+2009,13,Chicago Bears,St. Louis Rams,-9.0,True,41.0,-460,360
+2009,13,San Diego Chargers,Cleveland Browns,-14.0,False,42.5,-850,600
+2009,13,San Francisco 49ers,Seattle Seahawks,-1.0,False,41.5,-120,100
+2009,13,Minnesota Vikings,Arizona Cardinals,-3.5,False,48.5,-180,160
+2009,13,Dallas Cowboys,New York Giants,-1.5,False,45.5,-125,105
+2009,13,New England Patriots,Miami Dolphins,-5.5,False,46.0,-240,200
+2009,13,Green Bay Packers,Baltimore Ravens,-3.5,True,43.0,-210,175
+2008,13,Tennessee Titans,Detroit Lions,-11.0,False,44.0,-700,500
+2008,13,Dallas Cowboys,Seattle Seahawks,-12.0,True,46.5,-800,600
+2008,13,Philadelphia Eagles,Arizona Cardinals,-3.0,True,49.0,-155,135
+2008,13,New York Jets,Denver Broncos,-7.5,True,48.0,-340,280
+2008,13,Buffalo Bills,San Francisco 49ers,-6.5,True,43.0,-290,245
+2008,13,Tampa Bay Buccaneers,New Orleans Saints,-4.0,True,44.0,-200,175
+2008,13,Green Bay Packers,Carolina Panthers,-3.0,True,41.5,-155,135
+2008,13,New York Giants,Washington Redskins,-3.5,False,41.0,-190,160
+2008,13,Miami Dolphins,St. Louis Rams,-7.0,False,44.0,-325,275
+2008,13,Baltimore Ravens,Cincinnati Bengals,-7.0,False,35.5,-315,260
+2008,13,Indianapolis Colts,Cleveland Browns,-4.5,False,43.5,-240,200
+2008,13,San Diego Chargers,Atlanta Falcons,-6.5,True,48.0,-290,240
+2008,13,New England Patriots,Pittsburgh Steelers,-2.0,True,40.0,-130,110
+2008,13,Oakland Raiders,Kansas City Chiefs,-3.0,True,41.5,-175,155
+2008,13,Minnesota Vikings,Chicago Bears,-5.0,True,42.0,-230,190
+2008,13,Houston Texans,Jacksonville Jaguars,-3.0,True,48.5,-165,145
+2007,13,Dallas Cowboys,Green Bay Packers,-7.0,True,51.5,-285,230
+2007,13,St. Louis Rams,Atlanta Falcons,-3.0,True,40.5,-170,150
+2007,13,Washington Redskins,Buffalo Bills,-6.5,True,37.0,-315,245
+2007,13,Minnesota Vikings,Detroit Lions,-5.5,True,44.5,-250,200
+2007,13,Tennessee Titans,Houston Texans,-3.5,True,40.0,-200,170
+2007,13,Indianapolis Colts,Jacksonville Jaguars,-6.5,True,45.0,-310,240
+2007,13,Miami Dolphins,New York Jets,-2.0,True,37.0,-135,115
+2007,13,San Diego Chargers,Kansas City Chiefs,-5.5,False,37.0,-250,210
+2007,13,Philadelphia Eagles,Seattle Seahawks,-3.0,True,41.0,-175,155
+2007,13,Carolina Panthers,San Francisco 49ers,-3.0,True,35.5,-165,145
+2007,13,New Orleans Saints,Tampa Bay Buccaneers,-5.5,True,41.5,-260,220
+2007,13,Arizona Cardinals,Cleveland Browns,-1.0,True,52.5,-115,-105
+2007,13,Denver Broncos,Oakland Raiders,-4.0,False,42.0,-210,175
+2007,13,New York Giants,Chicago Bears,-1.5,False,39.5,-120,100
+2007,13,Pittsburgh Steelers,Cincinnati Bengals,-7.0,True,40.5,-295,245
+2007,13,New England Patriots,Baltimore Ravens,-19.0,False,46.5,-1500,1100
+2006,13,Cincinnati Bengals,Baltimore Ravens,-3.0,True,41.5,-165,145
+2006,13,Chicago Bears,Minnesota Vikings,-9.0,True,34.5,-475,350
+2006,13,Pittsburgh Steelers,Tampa Bay Buccaneers,-8.0,True,40.5,-350,275
+2006,13,St. Louis Rams,Arizona Cardinals,-6.0,True,46.0,-270,210
+2006,13,Indianapolis Colts,Tennessee Titans,-7.5,False,46.5,-360,280
+2006,13,Miami Dolphins,Jacksonville Jaguars,-1.5,True,35.5,-125,105
+2006,13,New Orleans Saints,San Francisco 49ers,-7.0,True,45.0,-330,260
+2006,13,Atlanta Falcons,Washington Redskins,-1.0,True,38.5,-125,105
+2006,13,Kansas City Chiefs,Cleveland Browns,-4.0,False,35.5,-210,175
+2006,13,New England Patriots,Detroit Lions,-13.5,True,41.5,-1050,700
+2006,13,San Diego Chargers,Buffalo Bills,-5.5,False,40.0,-280,220
+2006,13,Green Bay Packers,New York Jets,0,True,39.0,-110,110
+2006,13,Dallas Cowboys,New York Giants,-3.5,False,43.5,-175,155
+2006,13,Oakland Raiders,Houston Texans,-3.0,True,35.5,-185,165
+2006,13,Denver Broncos,Seattle Seahawks,-4.5,True,40.5,-220,180
+2006,13,Carolina Panthers,Philadelphia Eagles,-3.0,False,37.5,-165,145
+2014,14,Dallas Cowboys,Chicago Bears,-3.5,False,50.0,-205,175
+2014,14,Miami Dolphins,Baltimore Ravens,-3.0,True,45.0,-165,145
+2014,14,Cincinnati Bengals,Pittsburgh Steelers,-3.0,True,47.5,-155,135
+2014,14,Indianapolis Colts,Cleveland Browns,-3.0,False,50.0,-165,145
+2014,14,Houston Texans,Jacksonville Jaguars,-6.5,False,42.0,-295,245
+2014,14,New York Giants,Tennessee Titans,-3.0,False,46.5,-150,130
+2014,14,New Orleans Saints,Carolina Panthers,-9.5,True,50.5,-450,350
+2014,14,Detroit Lions,Tampa Bay Buccaneers,-10.5,True,42.0,-600,450
+2014,14,St. Louis Rams,Washington Redskins,-3.0,False,44.5,-145,125
+2014,14,Minnesota Vikings,New York Jets,-4.0,True,40.0,-210,175
+2014,14,Denver Broncos,Buffalo Bills,-9.0,True,47.0,-470,360
+2014,14,Kansas City Chiefs,Arizona Cardinals,-2.5,False,41.0,-150,130
+2014,14,San Francisco 49ers,Oakland Raiders,-8.5,False,40.5,-430,340
+2014,14,Seattle Seahawks,,-1.5,False,48.0,-125,105
+2014,14,New England Patriots,San Diego Chargers,-4.0,False,54.0,-215,185
+2014,14,Green Bay Packers,Atlanta Falcons,-13.5,True,55.0,-850,575
+2013,14,Houston Texans,Jacksonville Jaguars,-3.0,False,43.5,-170,150
+2013,14,Kansas City Chiefs,Washington Redskins,-3.5,False,44.0,-185,165
+2013,14,Baltimore Ravens,Minnesota Vikings,-6.0,True,41.5,-265,225
+2013,14,New England Patriots,Cleveland Browns,-10.0,True,47.5,-525,400
+2013,14,New York Jets,Oakland Raiders,-3.0,True,39.0,-160,140
+2013,14,Cincinnati Bengals,Indianapolis Colts,-7.0,True,43.5,-340,280
+2013,14,New Orleans Saints,Carolina Panthers,-3.0,True,47.5,-175,155
+2013,14,Philadelphia Eagles,Detroit Lions,-2.5,True,51.0,-145,125
+2013,14,Pittsburgh Steelers,Miami Dolphins,-3.0,True,40.5,-170,150
+2013,14,Tampa Bay Buccaneers,Buffalo Bills,-3.0,True,43.0,-155,135
+2013,14,Denver Broncos,Tennessee Titans,-12.5,True,50.0,-800,575
+2013,14,Arizona Cardinals,St. Louis Rams,-4.5,True,41.0,-220,185
+2013,14,San Diego Chargers,New York Giants,-4.5,True,47.0,-205,175
+2013,14,San Francisco 49ers,Seattle Seahawks,-2.5,True,41.5,-135,115
+2013,14,Green Bay Packers,Atlanta Falcons,-3.5,True,47.0,-185,165
+2013,14,Chicago Bears,Dallas Cowboys,-1.5,True,49.0,-125,105
+2012,14,Denver Broncos,Oakland Raiders,-10.0,False,47.0,-600,450
+2012,14,Washington Redskins,Baltimore Ravens,-2.0,True,48.0,-130,110
+2012,14,Cleveland Browns,Kansas City Chiefs,-7.0,True,38.0,-330,270
+2012,14,Pittsburgh Steelers,San Diego Chargers,-7.5,True,38.0,-380,320
+2012,14,Indianapolis Colts,Tennessee Titans,-3.5,True,47.0,-200,175
+2012,14,New York Jets,Jacksonville Jaguars,-3.0,False,39.0,-175,155
+2012,14,Chicago Bears,Minnesota Vikings,-1.5,False,40.5,-125,105
+2012,14,Atlanta Falcons,Carolina Panthers,-3.5,True,47.0,-175,155
+2012,14,Tampa Bay Buccaneers,Philadelphia Eagles,-7.0,True,48.0,-340,280
+2012,14,Buffalo Bills,St. Louis Rams,-3.5,True,42.5,-185,165
+2012,14,Cincinnati Bengals,Dallas Cowboys,-3.0,True,46.0,-175,155
+2012,14,San Francisco 49ers,Miami Dolphins,-11.0,True,38.5,-575,425
+2012,14,New York Giants,New Orleans Saints,-4.5,True,52.5,-225,185
+2012,14,Seattle Seahawks,Arizona Cardinals,-10.5,True,36.0,-575,425
+2012,14,Green Bay Packers,Detroit Lions,-6.0,True,49.5,-285,245
+2012,14,New England Patriots,Houston Texans,-5.5,True,51.0,-260,220
+2011,14,Pittsburgh Steelers,Cleveland Browns,-14.0,True,40.0,-1100,750
+2011,14,Baltimore Ravens,Indianapolis Colts,-16.0,True,41.5,-1500,1000
+2011,14,Cincinnati Bengals,Houston Texans,-2.5,True,37.5,-140,120
+2011,14,Green Bay Packers,Oakland Raiders,-12.0,True,50.0,-750,550
+2011,14,New York Jets,Kansas City Chiefs,-11.0,True,35.5,-700,500
+2011,14,Detroit Lions,Minnesota Vikings,-10.0,True,47.0,-550,425
+2011,14,New Orleans Saints,Tennessee Titans,-3.5,False,48.0,-180,160
+2011,14,Miami Dolphins,Philadelphia Eagles,-3.0,True,44.5,-150,130
+2011,14,New England Patriots,Washington Redskins,-7.5,False,46.5,-355,395
+2011,14,Atlanta Falcons,Carolina Panthers,-3.0,True,47.5,-145,125
+2011,14,Tampa Bay Buccaneers,Jacksonville Jaguars,-3.0,False,42.0,-150,130
+2011,14,San Francisco 49ers,Arizona Cardinals,-3.5,False,39.5,-180,160
+2011,14,Denver Broncos,Chicago Bears,-3.0,True,35.5,-180,160
+2011,14,San Diego Chargers,Buffalo Bills,-7.0,True,49.5,-340,280
+2011,14,Dallas Cowboys,New York Giants,-4.5,True,49.5,-240,200
+2011,14,Seattle Seahawks,St. Louis Rams,-8.5,True,38.0,-405,335
+2010,14,Indianapolis Colts,Tennessee Titans,-3.5,False,44.0,-185,160
+2010,14,Jacksonville Jaguars,Oakland Raiders,-3.5,True,41.5,-195,170
+2010,14,Pittsburgh Steelers,Cincinnati Bengals,-8.5,True,39.5,-400,320
+2010,14,New England Patriots,Chicago Bears,-3.0,False,37.0,-150,130
+2010,14,Buffalo Bills,Cleveland Browns,0,True,39.0,-110,-110
+2010,14,Green Bay Packers,Detroit Lions,-7.0,False,46.0,-310,250
+2010,14,Atlanta Falcons,Carolina Panthers,-7.5,True,41.5,-350,290
+2010,14,Tampa Bay Buccaneers,Washington Redskins,-1.5,False,41.0,-125,105
+2010,14,New Orleans Saints,St. Louis Rams,-9.5,True,47.0,-450,350
+2010,14,San Francisco 49ers,Seattle Seahawks,-4.5,True,42.5,-220,180
+2010,14,New York Jets,Miami Dolphins,-5.0,True,37.5,-230,190
+2010,14,Denver Broncos,Arizona Cardinals,-4.0,False,44.5,-200,170
+2010,14,San Diego Chargers,Kansas City Chiefs,-10.0,True,45.5,-550,425
+2010,14,Philadelphia Eagles,Dallas Cowboys,-4.5,False,51.0,-220,185
+2010,14,Baltimore Ravens,Houston Texans,-3.0,False,46.5,-150,130
+2010,14,New York Giants,,-5.0,False,43.5,-240,200
+2009,14,Pittsburgh Steelers,Cleveland Browns,-9.5,False,34.0,-550,400
+2009,14,Indianapolis Colts,Denver Broncos,-6.5,True,43.5,-295,240
+2009,14,Minnesota Vikings,Cincinnati Bengals,-6.0,True,42.5,-260,215
+2009,14,New York Jets,Tampa Bay Buccaneers,-3.5,False,36.5,-190,165
+2009,14,Buffalo Bills,Kansas City Chiefs,-2.5,False,38.0,-150,140
+2009,14,Green Bay Packers,Chicago Bears,-4.0,False,41.5,-215,185
+2009,14,New Orleans Saints,Atlanta Falcons,-10.0,False,50.0,-525,400
+2009,14,Baltimore Ravens,Detroit Lions,-14.0,True,40.0,-900,600
+2009,14,Jacksonville Jaguars,Miami Dolphins,-2.0,True,43.0,-130,110
+2009,14,New England Patriots,Carolina Panthers,-12.5,True,43.5,-675,450
+2009,14,Houston Texans,Seattle Seahawks,-7.0,True,44.5,-330,260
+2009,14,Tennessee Titans,St. Louis Rams,-14.0,True,40.0,-800,600
+2009,14,Washington Redskins,Oakland Raiders,-2.0,False,37.5,-135,115
+2009,14,Dallas Cowboys,San Diego Chargers,-3.5,True,49.0,-180,155
+2009,14,Philadelphia Eagles,New York Giants,-1.0,False,43.0,-120,100
+2009,14,Arizona Cardinals,San Francisco 49ers,-4.0,False,45.0,-225,185
+2008,14,San Diego Chargers,Oakland Raiders,-9.5,True,41.0,-450,375
+2008,14,Indianapolis Colts,Cincinnati Bengals,-13.5,True,41.5,-700,550
+2008,14,Chicago Bears,Jacksonville Jaguars,-6.5,True,40.0,-290,245
+2008,14,Green Bay Packers,Houston Texans,-7.0,True,47.5,-300,250
+2008,14,Tennessee Titans,Cleveland Browns,-14.0,True,37.0,-750,550
+2008,14,Minnesota Vikings,Detroit Lions,-10.5,False,45.0,-550,450
+2008,14,Baltimore Ravens,Washington Redskins,-6.5,True,35.0,-300,250
+2008,14,New York Giants,Philadelphia Eagles,-6.5,True,40.5,-270,230
+2008,14,New Orleans Saints,Atlanta Falcons,-3.0,True,52.0,-165,145
+2008,14,New York Jets,San Francisco 49ers,-4.5,False,45.0,-215,185
+2008,14,Denver Broncos,Kansas City Chiefs,-9.0,True,49.0,-425,355
+2008,14,Arizona Cardinals,St. Louis Rams,-15.0,True,48.5,-825,625
+2008,14,Pittsburgh Steelers,Dallas Cowboys,-4.0,True,38.5,-210,175
+2008,14,New England Patriots,Seattle Seahawks,-7.0,False,42.5,-290,240
+2008,14,Carolina Panthers,Tampa Bay Buccaneers,-3.0,True,40.0,-180,160
+2007,14,Washington Redskins,Chicago Bears,-3.0,True,39.5,-165,145
+2007,14,Jacksonville Jaguars,Carolina Panthers,-11.0,True,39.0,-600,425
+2007,14,Dallas Cowboys,Detroit Lions,-10.5,False,51.0,-600,425
+2007,14,Buffalo Bills,Miami Dolphins,-7.0,True,34.5,-300,250
+2007,14,Philadelphia Eagles,New York Giants,-3.0,True,42.0,-160,140
+2007,14,Green Bay Packers,Oakland Raiders,-10.5,True,40.5,-575,425
+2007,14,New England Patriots,Pittsburgh Steelers,-11.0,True,49.0,-550,400
+2007,14,San Diego Chargers,Tennessee Titans,-1.5,False,40.0,-125,105
+2007,14,Cincinnati Bengals,St. Louis Rams,-10.0,True,45.5,-550,400
+2007,14,Tampa Bay Buccaneers,Houston Texans,-3.0,False,40.0,-150,130
+2007,14,Seattle Seahawks,Arizona Cardinals,-7.5,True,44.5,-340,280
+2007,14,Minnesota Vikings,San Francisco 49ers,-8.5,False,39.0,-370,300
+2007,14,Cleveland Browns,New York Jets,-3.5,False,47.5,-175,155
+2007,14,Denver Broncos,Kansas City Chiefs,-7.5,True,37.5,-350,270
+2007,14,Indianapolis Colts,Baltimore Ravens,-8.5,False,42.0,-390,310
+2007,14,New Orleans Saints,Atlanta Falcons,-4.0,False,44.0,-210,175
+2006,14,Pittsburgh Steelers,Cleveland Browns,-7.0,True,34.0,-340,280
+2006,14,Kansas City Chiefs,Baltimore Ravens,-3.0,True,37.0,-145,125
+2006,14,Atlanta Falcons,Tampa Bay Buccaneers,-3.5,True,37.5,-200,175
+2006,14,Detroit Lions,Minnesota Vikings,-1.5,True,40.0,-125,105
+2006,14,Houston Texans,Tennessee Titans,-1.0,True,42.5,-125,105
+2006,14,New York Giants,Carolina Panthers,-3.0,False,39.0,-155,135
+2006,14,Dallas Cowboys,New Orleans Saints,-7.5,True,47.5,-335,265
+2006,14,New York Jets,Buffalo Bills,-4.5,True,37.5,-235,195
+2006,14,Indianapolis Colts,Jacksonville Jaguars,-1.0,False,44.0,-115,-105
+2006,14,Philadelphia Eagles,Washington Redskins,-2.0,False,40.5,-145,125
+2006,14,Cincinnati Bengals,Oakland Raiders,-11.0,True,40.0,-650,475
+2006,14,New England Patriots,Miami Dolphins,-3.5,False,37.0,-185,165
+2006,14,San Francisco 49ers,Green Bay Packers,-4.0,True,44.0,-200,175
+2006,14,Seattle Seahawks,Arizona Cardinals,-3.0,False,44.5,-165,145
+2006,14,San Diego Chargers,Denver Broncos,-7.5,True,41.0,-360,290
+2006,14,Chicago Bears,St. Louis Rams,-6.0,False,41.5,-275,225
+2013,15,Denver Broncos,San Diego Chargers,-10.0,True,57.5,-575,425
+2013,15,Atlanta Falcons,Washington Redskins,-5.5,True,49.5,-255,215
+2013,15,San Francisco 49ers,Tampa Bay Buccaneers,-5.0,False,41.0,-250,210
+2013,15,Arizona Cardinals,Tennessee Titans,-3.0,False,43.0,-150,130
+2013,15,New Orleans Saints,St. Louis Rams,-7.0,False,48.0,-300,250
+2013,15,Seattle Seahawks,New York Giants,-9.0,False,43.0,-440,350
+2013,15,Chicago Bears,Cleveland Browns,-1.0,False,44.0,-115,-105
+2013,15,Indianapolis Colts,Houston Texans,-6.0,True,47.0,-260,220
+2013,15,Buffalo Bills,Jacksonville Jaguars,-4.0,False,43.5,-205,175
+2013,15,Miami Dolphins,New England Patriots,-2.5,True,47.0,-140,120
+2013,15,Philadelphia Eagles,Minnesota Vikings,-6.5,False,53.0,-290,240
+2013,15,Carolina Panthers,New York Jets,-10.0,True,40.5,-525,400
+2013,15,Kansas City Chiefs,Oakland Raiders,-6.5,False,44.5,-265,225
+2013,15,Dallas Cowboys,Green Bay Packers,-5.5,True,50.0,-245,205
+2013,15,Cincinnati Bengals,Pittsburgh Steelers,-2.0,False,44.5,-130,110
+2013,15,Detroit Lions,Baltimore Ravens,-5.0,True,49.5,-230,190
+2012,15,Cincinnati Bengals,Philadelphia Eagles,-5.0,False,45.0,-235,195
+2012,15,Green Bay Packers,Chicago Bears,-3.0,False,43.5,-150,130
+2012,15,Atlanta Falcons,New York Giants,-1.0,True,50.0,-120,100
+2012,15,New Orleans Saints,Tampa Bay Buccaneers,-3.5,True,55.0,-200,170
+2012,15,St. Louis Rams,Minnesota Vikings,-2.5,True,39.5,-145,125
+2012,15,Cleveland Browns,Washington Redskins,-4.0,True,40.5,-230,190
+2012,15,Miami Dolphins,Jacksonville Jaguars,-7.5,True,38.5,-360,300
+2012,15,Denver Broncos,Baltimore Ravens,-3.0,False,48.0,-150,130
+2012,15,Houston Texans,Indianapolis Colts,-10.5,True,48.0,-600,450
+2012,15,San Diego Chargers,Carolina Panthers,-3.0,True,45.5,-160,140
+2012,15,Seattle Seahawks,Buffalo Bills,-4.5,False,44.0,-230,190
+2012,15,Detroit Lions,Arizona Cardinals,-5.5,False,43.5,-270,230
+2012,15,Pittsburgh Steelers,Dallas Cowboys,-2.0,False,46.0,-140,120
+2012,15,Oakland Raiders,Kansas City Chiefs,-4.0,True,43.5,-225,190
+2012,15,New England Patriots,San Francisco 49ers,-4.0,True,47.5,-210,180
+2012,15,New York Jets,Tennessee Titans,-1.0,False,40.5,-120,100
+2011,15,Atlanta Falcons,Jacksonville Jaguars,-13.5,True,41.5,-975,675
+2011,15,Dallas Cowboys,Tampa Bay Buccaneers,-7.5,False,47.0,-370,310
+2011,15,New York Giants,Washington Redskins,-6.0,True,45.5,-265,225
+2011,15,Green Bay Packers,Kansas City Chiefs,-11.5,False,46.0,-725,525
+2011,15,New Orleans Saints,Minnesota Vikings,-7.0,False,53.5,-350,290
+2011,15,Chicago Bears,Seattle Seahawks,-3.5,True,35.0,-195,170
+2011,15,Buffalo Bills,Miami Dolphins,0,True,42.5,-110,-110
+2011,15,Houston Texans,Carolina Panthers,-5.0,True,45.0,-240,200
+2011,15,Tennessee Titans,Indianapolis Colts,-6.5,False,41.5,-300,250
+2011,15,Cincinnati Bengals,St. Louis Rams,-7.0,False,39.0,-330,270
+2011,15,Detroit Lions,Oakland Raiders,-3.0,False,47.5,-145,125
+2011,15,New England Patriots,Denver Broncos,-7.0,False,47.5,-345,285
+2011,15,Philadelphia Eagles,New York Jets,-3.0,True,44.0,-160,140
+2011,15,Arizona Cardinals,Cleveland Browns,-6.0,True,37.0,-270,230
+2011,15,Baltimore Ravens,San Diego Chargers,-1.0,False,45.0,-120,100
+2011,15,San Francisco 49ers,Pittsburgh Steelers,-3.0,True,37.0,-165,145
+2010,15,San Diego Chargers,San Francisco 49ers,-10.0,True,44.5,-600,450
+2010,15,St. Louis Rams,Kansas City Chiefs,-3.0,True,42.5,-150,130
+2010,15,Tennessee Titans,Houston Texans,-1.5,True,47.0,-130,110
+2010,15,Indianapolis Colts,Jacksonville Jaguars,-4.5,True,48.0,-220,185
+2010,15,Carolina Panthers,Arizona Cardinals,-2.5,True,37.5,-140,120
+2010,15,Cincinnati Bengals,Cleveland Browns,0,True,41.5,-110,-110
+2010,15,Miami Dolphins,Buffalo Bills,-5.5,True,40.0,-250,210
+2010,15,New York Giants,Philadelphia Eagles,-3.0,True,47.0,-155,135
+2010,15,Dallas Cowboys,Washington Redskins,-9.5,True,44.0,-450,360
+2010,15,Tampa Bay Buccaneers,Detroit Lions,-4.0,True,43.0,-210,175
+2010,15,Baltimore Ravens,New Orleans Saints,-2.0,True,45.0,-135,115
+2010,15,Atlanta Falcons,Seattle Seahawks,-5.5,True,46.5,-250,210
+2010,15,Pittsburgh Steelers,New York Jets,-3.5,True,36.0,-190,165
+2010,15,Oakland Raiders,Denver Broncos,-8.0,True,41.5,-380,315
+2010,15,New England Patriots,Green Bay Packers,-14.5,True,43.5,-1000,700
+2010,15,Chicago Bears,Minnesota Vikings,-5.5,False,34.5,-245,205
+2009,15,Indianapolis Colts,Jacksonville Jaguars,-3.0,False,43.0,-175,155
+2009,15,New Orleans Saints,Dallas Cowboys,-7.5,True,53.5,-350,280
+2009,15,Pittsburgh Steelers,Green Bay Packers,-3.0,True,42.0,-145,125
+2009,15,Tennessee Titans,Miami Dolphins,-5.0,True,43.0,-230,190
+2009,15,New England Patriots,Buffalo Bills,-7.0,False,41.0,-325,255
+2009,15,Arizona Cardinals,Detroit Lions,-14.0,False,47.0,-1000,700
+2009,15,Philadelphia Eagles,San Francisco 49ers,-7.5,True,41.0,-350,280
+2009,15,New York Jets,Atlanta Falcons,-5.5,True,36.0,-250,210
+2009,15,Baltimore Ravens,Chicago Bears,-11.0,True,39.5,-600,425
+2009,15,Kansas City Chiefs,Cleveland Browns,-2.5,True,38.5,-145,125
+2009,15,Houston Texans,St. Louis Rams,-14.0,False,43.5,-1000,700
+2009,15,San Diego Chargers,Cincinnati Bengals,-7.0,True,44.0,-310,250
+2009,15,Denver Broncos,Oakland Raiders,-14.0,True,37.0,-1000,700
+2009,15,Seattle Seahawks,Tampa Bay Buccaneers,-6.5,True,39.0,-290,235
+2009,15,Minnesota Vikings,Carolina Panthers,-8.5,False,42.5,-400,325
+2009,15,New York Giants,Washington Redskins,-3.0,False,44.0,-140,120
+2008,15,Chicago Bears,New Orleans Saints,-3.0,True,46.0,-150,130
+2008,15,Green Bay Packers,Jacksonville Jaguars,-3.0,False,46.0,-150,130
+2008,15,Indianapolis Colts,Detroit Lions,-17.0,True,45.0,-1700,1200
+2008,15,Washington Redskins,Cincinnati Bengals,-6.5,False,36.5,-290,240
+2008,15,Atlanta Falcons,Tampa Bay Buccaneers,-5.5,True,43.5,-250,210
+2008,15,Miami Dolphins,San Francisco 49ers,-5.5,True,41.0,-250,210
+2008,15,Seattle Seahawks,St. Louis Rams,-2.0,False,43.0,-130,110
+2008,15,New York Jets,Buffalo Bills,-8.0,True,41.5,-360,300
+2008,15,Tennessee Titans,Houston Texans,-3.0,False,45.0,-160,140
+2008,15,Baltimore Ravens,Pittsburgh Steelers,-3.0,True,34.0,-155,135
+2008,15,Carolina Panthers,Denver Broncos,-8.0,True,48.0,-350,280
+2008,15,San Diego Chargers,Kansas City Chiefs,-5.5,False,41.0,-250,210
+2008,15,Arizona Cardinals,Minnesota Vikings,-4.5,True,47.0,-210,180
+2008,15,New England Patriots,Oakland Raiders,-7.0,False,39.0,-295,245
+2008,15,Dallas Cowboys,New York Giants,-3.0,True,46.5,-155,135
+2008,15,Philadelphia Eagles,Cleveland Browns,-15.5,True,40.0,-1200,800
+2007,15,Denver Broncos,Houston Texans,-2.5,False,47.5,-145,125
+2007,15,Cincinnati Bengals,San Francisco 49ers,-9.0,False,42.5,-410,325
+2007,15,New Orleans Saints,Arizona Cardinals,-4.0,True,49.5,-210,180
+2007,15,Tampa Bay Buccaneers,Atlanta Falcons,-13.0,True,37.5,-750,550
+2007,15,Baltimore Ravens,Miami Dolphins,-3.0,False,37.0,-175,155
+2007,15,Cleveland Browns,Buffalo Bills,-4.5,True,36.0,-225,185
+2007,15,Green Bay Packers,St. Louis Rams,-7.0,False,47.0,-360,290
+2007,15,Pittsburgh Steelers,Jacksonville Jaguars,-3.0,True,34.5,-170,150
+2007,15,New England Patriots,New York Jets,-20.0,True,41.5,-1200,900
+2007,15,Seattle Seahawks,Carolina Panthers,-7.5,False,37.0,-360,280
+2007,15,Tennessee Titans,Kansas City Chiefs,-3.5,False,34.5,-190,170
+2007,15,Indianapolis Colts,Oakland Raiders,-10.0,False,45.0,-530,385
+2007,15,San Diego Chargers,Detroit Lions,-9.5,True,46.0,-475,375
+2007,15,Dallas Cowboys,Philadelphia Eagles,-10.0,True,49.0,-575,400
+2007,15,New York Giants,Washington Redskins,-6.0,True,36.0,-270,220
+2007,15,Minnesota Vikings,Chicago Bears,-10.5,True,43.5,-575,425
+2006,15,Seattle Seahawks,San Francisco 49ers,-10.0,True,37.5,-500,375
+2006,15,Dallas Cowboys,Atlanta Falcons,-4.0,False,45.5,-210,180
+2006,15,Minnesota Vikings,New York Jets,-3.5,True,41.0,-195,170
+2006,15,Baltimore Ravens,Cleveland Browns,-12.5,True,35.0,-825,575
+2006,15,New England Patriots,Houston Texans,-12.5,True,38.0,-800,550
+2006,15,Buffalo Bills,Miami Dolphins,-1.0,True,34.0,-115,-105
+2006,15,Pittsburgh Steelers,Carolina Panthers,-3.0,False,39.0,-160,140
+2006,15,New Orleans Saints,Washington Redskins,-10.0,True,47.0,-500,375
+2006,15,Jacksonville Jaguars,Tennessee Titans,-3.5,False,41.0,-185,165
+2006,15,Chicago Bears,Tampa Bay Buccaneers,-13.5,True,35.0,-975,675
+2006,15,New York Giants,Philadelphia Eagles,-5.5,True,45.5,-240,195
+2006,15,Green Bay Packers,Detroit Lions,-6.0,True,45.0,-260,210
+2006,15,Denver Broncos,Arizona Cardinals,-3.0,False,43.5,-150,130
+2006,15,San Diego Chargers,Kansas City Chiefs,-9.0,True,47.5,-400,330
+2006,15,Oakland Raiders,St. Louis Rams,-3.0,True,39.0,-150,130
+2006,15,Indianapolis Colts,Cincinnati Bengals,-3.5,True,54.5,-175,155
+2013,16,Buffalo Bills,Miami Dolphins,-1.0,True,42.0,-120,100
+2013,16,Carolina Panthers,New Orleans Saints,-3.0,True,44.5,-180,160
+2013,16,Dallas Cowboys,Washington Redskins,-3.0,False,52.0,-165,145
+2013,16,St. Louis Rams,Tampa Bay Buccaneers,-3.5,True,43.0,-180,160
+2013,16,Philadelphia Eagles,Chicago Bears,-3.0,True,54.0,-150,130
+2013,16,New York Jets,Cleveland Browns,-2.0,True,41.5,-130,110
+2013,16,Kansas City Chiefs,Indianapolis Colts,-7.5,True,47.0,-340,280
+2013,16,Cincinnati Bengals,Minnesota Vikings,-7.5,True,48.0,-350,290
+2013,16,Denver Broncos,Houston Texans,-10.0,False,54.0,-575,425
+2013,16,Tennessee Titans,Jacksonville Jaguars,-4.5,False,44.0,-225,185
+2013,16,Seattle Seahawks,Arizona Cardinals,-9.0,True,43.0,-475,375
+2013,16,Detroit Lions,New York Giants,-9.0,True,47.5,-450,370
+2013,16,San Diego Chargers,Oakland Raiders,-10.0,True,50.5,-525,400
+2013,16,Pittsburgh Steelers,Green Bay Packers,-1.0,False,44.0,-120,100
+2013,16,New England Patriots,Baltimore Ravens,-1.0,False,45.5,-120,100
+2013,16,San Francisco 49ers,Atlanta Falcons,-14.5,True,46.5,-1000,650
+2012,16,Atlanta Falcons,Detroit Lions,-3.5,True,50.0,-195,170
+2012,16,Green Bay Packers,Tennessee Titans,-10.5,True,44.5,-675,475
+2012,16,Carolina Panthers,Oakland Raiders,-9.0,True,47.0,-450,370
+2012,16,Miami Dolphins,Buffalo Bills,-4.5,True,43.0,-235,190
+2012,16,Pittsburgh Steelers,Cincinnati Bengals,-3.0,True,40.5,-175,155
+2012,16,New England Patriots,Jacksonville Jaguars,-14.0,False,51.0,-1050,725
+2012,16,Indianapolis Colts,Kansas City Chiefs,-5.0,False,41.5,-235,195
+2012,16,Dallas Cowboys,New Orleans Saints,-3.0,True,54.5,-145,125
+2012,16,Washington Redskins,Philadelphia Eagles,-4.5,False,46.0,-220,180
+2012,16,Tampa Bay Buccaneers,St. Louis Rams,-3.0,True,43.5,-160,140
+2012,16,New York Giants,Baltimore Ravens,-2.5,False,47.5,-140,120
+2012,16,Houston Texans,Minnesota Vikings,-7.5,True,43.0,-370,310
+2012,16,Denver Broncos,Cleveland Browns,-11.0,True,44.0,-700,500
+2012,16,Chicago Bears,Arizona Cardinals,-7.0,False,36.0,-310,250
+2012,16,Seattle Seahawks,San Francisco 49ers,-2.5,True,40.5,-145,125
+2012,16,New York Jets,San Diego Chargers,-3.0,True,37.0,-160,140
+2011,16,Houston Texans,Indianapolis Colts,-7.0,False,40.5,-315,265
+2011,16,Kansas City Chiefs,Oakland Raiders,-3.0,True,43.0,-145,125
+2011,16,Denver Broncos,Buffalo Bills,-3.0,False,43.5,-150,130
+2011,16,Tennessee Titans,Jacksonville Jaguars,-8.0,True,38.5,-390,320
+2011,16,Cincinnati Bengals,Arizona Cardinals,-4.0,True,41.0,-215,185
+2011,16,New England Patriots,Miami Dolphins,-7.0,True,49.0,-350,290
+2011,16,Baltimore Ravens,Cleveland Browns,-11.0,True,38.5,-675,475
+2011,16,New York Jets,New York Giants,-2.5,True,46.0,-140,120
+2011,16,Washington Redskins,Minnesota Vikings,-6.0,True,43.0,-260,220
+2011,16,Carolina Panthers,Tampa Bay Buccaneers,-8.0,True,48.5,-400,330
+2011,16,Pittsburgh Steelers,St. Louis Rams,-10.0,True,33.5,-500,400
+2011,16,Detroit Lions,San Diego Chargers,0,True,52.5,-110,-110
+2011,16,San Francisco 49ers,Seattle Seahawks,-2.5,False,37.0,-140,120
+2011,16,Philadelphia Eagles,Dallas Cowboys,-2.5,False,49.5,-140,120
+2011,16,Green Bay Packers,Chicago Bears,-13.5,True,41.0,-875,600
+2011,16,New Orleans Saints,Atlanta Falcons,-7.0,True,53.0,-340,280
+2010,16,Pittsburgh Steelers,Carolina Panthers,-14.0,True,37.5,-1250,800
+2010,16,Dallas Cowboys,Arizona Cardinals,-7.0,False,45.0,-330,260
+2010,16,Miami Dolphins,Detroit Lions,-3.5,True,41.5,-190,165
+2010,16,Jacksonville Jaguars,Washington Redskins,-7.0,True,45.5,-310,260
+2010,16,St. Louis Rams,San Francisco 49ers,-2.5,True,40.0,-140,120
+2010,16,Tampa Bay Buccaneers,Seattle Seahawks,-5.5,True,43.0,-250,210
+2010,16,New England Patriots,Buffalo Bills,-7.0,False,46.0,-350,290
+2010,16,Chicago Bears,New York Jets,-2.5,True,35.5,-145,125
+2010,16,Baltimore Ravens,Cleveland Browns,-3.5,False,40.0,-195,170
+2010,16,Kansas City Chiefs,Tennessee Titans,-4.0,True,42.5,-205,175
+2010,16,Indianapolis Colts,Oakland Raiders,-2.0,False,46.0,-130,110
+2010,16,Houston Texans,Denver Broncos,-2.0,False,49.5,-130,110
+2010,16,Green Bay Packers,New York Giants,-3.0,True,43.5,-165,145
+2010,16,San Diego Chargers,Cincinnati Bengals,-8.0,False,43.5,-370,310
+2010,16,Atlanta Falcons,New Orleans Saints,-2.0,True,50.0,-140,120
+2010,16,Philadelphia Eagles,Minnesota Vikings,-14.0,True,44.0,-1100,800
+2009,16,Tennessee Titans,San Diego Chargers,-1.5,True,47.5,-125,105
+2009,16,Green Bay Packers,Seattle Seahawks,-13.5,True,43.5,-850,600
+2009,16,Cleveland Browns,Oakland Raiders,-3.0,True,37.0,-170,150
+2009,16,Cincinnati Bengals,Kansas City Chiefs,-13.5,True,39.5,-675,475
+2009,16,Atlanta Falcons,Buffalo Bills,-8.0,True,40.0,-370,305
+2009,16,Miami Dolphins,Houston Texans,-1.5,True,46.5,-125,105
+2009,16,New York Giants,Carolina Panthers,-8.5,True,42.5,-370,310
+2009,16,New Orleans Saints,Tampa Bay Buccaneers,-14.0,True,48.5,-850,600
+2009,16,New England Patriots,Jacksonville Jaguars,-9.5,True,44.0,-450,325
+2009,16,Pittsburgh Steelers,Baltimore Ravens,-3.0,True,43.0,-145,125
+2009,16,Philadelphia Eagles,Denver Broncos,-7.0,True,43.5,-300,250
+2009,16,Arizona Cardinals,St. Louis Rams,-16.5,True,43.5,-1300,850
+2009,16,San Francisco 49ers,Detroit Lions,-14.0,True,41.0,-900,650
+2009,16,Indianapolis Colts,New York Jets,-3.0,True,40.5,-185,165
+2009,16,Dallas Cowboys,Washington Redskins,-7.0,False,42.0,-320,260
+2009,16,Minnesota Vikings,Chicago Bears,-8.5,False,41.5,-400,330
+2008,16,Indianapolis Colts,Jacksonville Jaguars,-6.0,False,43.5,-260,220
+2008,16,Dallas Cowboys,Baltimore Ravens,-5.5,True,39.0,-245,205
+2008,16,Pittsburgh Steelers,Tennessee Titans,-3.0,False,34.0,-150,130
+2008,16,Miami Dolphins,Kansas City Chiefs,-3.0,False,37.0,-190,160
+2008,16,New England Patriots,Arizona Cardinals,-8.0,True,41.5,-310,260
+2008,16,Cleveland Browns,Cincinnati Bengals,-2.5,True,31.0,-140,120
+2008,16,Philadelphia Eagles,Washington Redskins,-5.5,False,37.5,-230,190
+2008,16,San Francisco 49ers,St. Louis Rams,-3.5,False,42.5,-190,160
+2008,16,Minnesota Vikings,Atlanta Falcons,-3.0,True,43.5,-170,150
+2008,16,New Orleans Saints,Detroit Lions,-7.0,False,50.5,-310,260
+2008,16,New York Giants,Carolina Panthers,-4.0,True,38.0,-215,185
+2008,16,New York Jets,Seattle Seahawks,-3.5,False,41.5,-190,160
+2008,16,Houston Texans,Oakland Raiders,-7.0,False,43.5,-325,275
+2008,16,Denver Broncos,Buffalo Bills,-6.5,True,46.5,-275,235
+2008,16,Tampa Bay Buccaneers,San Diego Chargers,-4.0,True,42.5,-175,155
+2008,16,Chicago Bears,Green Bay Packers,-4.0,True,41.0,-205,175
+2007,16,Pittsburgh Steelers,St. Louis Rams,-8.0,False,43.5,-380,310
+2007,16,Dallas Cowboys,Carolina Panthers,-10.5,False,42.5,-600,425
+2007,16,Cleveland Browns,Cincinnati Bengals,-2.5,False,43.5,-140,120
+2007,16,Green Bay Packers,Chicago Bears,-7.5,False,32.0,-390,320
+2007,16,Indianapolis Colts,Houston Texans,-7.0,True,45.0,-300,240
+2007,16,Detroit Lions,Kansas City Chiefs,-6.0,True,43.5,-280,230
+2007,16,New England Patriots,Miami Dolphins,-22.0,True,45.0,-2400,1600
+2007,16,New York Giants,Buffalo Bills,-2.5,False,32.0,-135,115
+2007,16,Jacksonville Jaguars,Oakland Raiders,-14.0,True,40.0,-1100,800
+2007,16,New Orleans Saints,Philadelphia Eagles,-3.0,True,47.5,-180,160
+2007,16,Minnesota Vikings,Washington Redskins,-6.0,True,40.5,-270,215
+2007,16,Arizona Cardinals,Atlanta Falcons,-11.0,True,44.0,-600,425
+2007,16,Seattle Seahawks,Baltimore Ravens,-12.0,True,39.0,-725,550
+2007,16,Tennessee Titans,New York Jets,-8.0,True,37.0,-390,310
+2007,16,Tampa Bay Buccaneers,San Francisco 49ers,-6.5,False,37.0,-290,230
+2007,16,San Diego Chargers,Denver Broncos,-9.5,True,47.5,-450,350
+2006,16,Green Bay Packers,Minnesota Vikings,-4.0,True,38.0,-190,170
+2006,16,Kansas City Chiefs,Oakland Raiders,-7.0,False,36.5,-330,270
+2006,16,Buffalo Bills,Tennessee Titans,-5.0,True,37.5,-220,180
+2006,16,New York Giants,New Orleans Saints,-3.0,True,47.5,-150,130
+2006,16,Atlanta Falcons,Carolina Panthers,-6.5,True,40.5,-270,210
+2006,16,St. Louis Rams,Washington Redskins,-1.5,True,43.0,-125,105
+2006,16,Indianapolis Colts,Houston Texans,-9.0,False,47.0,-425,325
+2006,16,Pittsburgh Steelers,Baltimore Ravens,-4.0,True,36.5,-200,175
+2006,16,Cleveland Browns,Tampa Bay Buccaneers,-3.0,True,37.5,-175,155
+2006,16,Chicago Bears,Detroit Lions,-6.0,False,42.0,-260,220
+2006,16,Jacksonville Jaguars,New England Patriots,-3.0,True,37.0,-165,145
+2006,16,San Francisco 49ers,Arizona Cardinals,-3.5,True,45.0,-185,165
+2006,16,Denver Broncos,Cincinnati Bengals,-3.0,True,44.5,-170,150
+2006,16,San Diego Chargers,Seattle Seahawks,-4.0,False,45.5,-200,175
+2006,16,Dallas Cowboys,Philadelphia Eagles,-7.0,True,47.5,-320,255
+2006,16,Miami Dolphins,New York Jets,-2.0,True,36.5,-140,120
+2013,17,Carolina Panthers,Atlanta Falcons,-6.0,False,46.0,-260,220
+2013,17,Green Bay Packers,Chicago Bears,-3.0,False,51.5,-155,135
+2013,17,Tennessee Titans,Houston Texans,-7.0,True,44.5,-295,245
+2013,17,Pittsburgh Steelers,Cleveland Browns,-9.0,True,44.5,-400,330
+2013,17,New York Giants,Washington Redskins,-3.5,True,44.5,-180,160
+2013,17,Cincinnati Bengals,Baltimore Ravens,-6.5,True,43.0,-300,250
+2013,17,Indianapolis Colts,Jacksonville Jaguars,-11.0,True,45.0,-650,475
+2013,17,Philadelphia Eagles,Dallas Cowboys,-7.0,False,54.5,-320,260
+2013,17,Miami Dolphins,New York Jets,-7.0,True,41.0,-330,270
+2013,17,Detroit Lions,Minnesota Vikings,-2.0,False,50.0,-130,110
+2013,17,New England Patriots,Buffalo Bills,-7.5,True,46.5,-350,280
+2013,17,New Orleans Saints,Tampa Bay Buccaneers,-10.5,True,46.5,-650,475
+2013,17,Denver Broncos,Oakland Raiders,-10.0,False,54.0,-600,450
+2013,17,Arizona Cardinals,San Francisco 49ers,-3.0,True,41.0,-155,135
+2013,17,San Diego Chargers,Kansas City Chiefs,-14.5,True,46.0,-1350,800
+2013,17,Seattle Seahawks,St. Louis Rams,-12.0,True,41.0,-900,600
+2012,17,Buffalo Bills,New York Jets,-3.5,True,40.5,-180,160
+2012,17,New England Patriots,Miami Dolphins,-11.5,True,48.0,-750,550
+2012,17,Cincinnati Bengals,Baltimore Ravens,-5.5,True,43.0,-250,210
+2012,17,Pittsburgh Steelers,Cleveland Browns,-10.0,True,36.5,-550,400
+2012,17,Houston Texans,Indianapolis Colts,-6.5,False,47.0,-290,245
+2012,17,Tennessee Titans,Jacksonville Jaguars,-6.0,True,42.0,-270,230
+2012,17,New York Giants,Philadelphia Eagles,-6.5,True,44.5,-300,250
+2012,17,Washington Redskins,Dallas Cowboys,-3.0,True,49.0,-170,150
+2012,17,Chicago Bears,Detroit Lions,-3.0,False,46.0,-165,145
+2012,17,Green Bay Packers,Minnesota Vikings,-3.0,False,46.0,-170,150
+2012,17,Atlanta Falcons,Tampa Bay Buccaneers,-3.0,True,45.5,-150,130
+2012,17,New Orleans Saints,Carolina Panthers,-4.5,True,54.0,-210,180
+2012,17,Denver Broncos,Kansas City Chiefs,-17.0,True,41.0,-1700,1100
+2012,17,San Diego Chargers,Oakland Raiders,-8.5,True,41.5,-420,350
+2012,17,San Francisco 49ers,Arizona Cardinals,-16.5,True,38.5,-1600,1000
+2012,17,Seattle Seahawks,St. Louis Rams,-11.5,True,42.0,-600,450
+2012,17,Philadelphia Eagles,Washington Redskins,-7.5,True,44.5,-340,280
+2012,17,Atlanta Falcons,Tampa Bay Buccaneers,-10.0,True,45.5,-450,350
+2012,17,San Francisco 49ers,St. Louis Rams,-12.5,False,34.5,-775,550
+2012,17,Minnesota Vikings,Chicago Bears,-2.5,True,42.0,-145,125
+2012,17,Detroit Lions,Green Bay Packers,-6.5,False,41.5,-280,240
+2012,17,New York Giants,Dallas Cowboys,-3.0,True,48.0,-165,145
+2012,17,New Orleans Saints,Carolina Panthers,-7.0,True,55.0,-300,250
+2012,17,Tennessee Titans,Houston Texans,-2.5,False,38.5,-135,115
+2012,17,Baltimore Ravens,Cincinnati Bengals,-3.0,False,37.5,-145,125
+2012,17,Pittsburgh Steelers,Cleveland Browns,-7.0,False,33.0,-330,270
+2012,17,Jacksonville Jaguars,Indianapolis Colts,-3.0,True,36.5,-165,145
+2012,17,Miami Dolphins,New York Jets,-2.0,True,39.0,-130,110
+2012,17,New England Patriots,Buffalo Bills,-10.5,True,50.0,-600,425
+2012,17,Oakland Raiders,San Diego Chargers,-2.5,True,50.0,-140,120
+2012,17,Denver Broncos,Kansas City Chiefs,-2.5,True,37.5,-130,110
+2012,17,Arizona Cardinals,Seattle Seahawks,-2.5,True,40.5,-140,120
+2011,17,Kansas City Chiefs,Oakland Raiders,-4.5,True,43.0,-230,190
+2011,17,New England Patriots,Miami Dolphins,-4.5,True,44.0,-215,180
+2011,17,Indianapolis Colts,Tennessee Titans,-8.5,True,48.0,-475,375
+2011,17,Houston Texans,Jacksonville Jaguars,-4.5,True,47.5,-225,185
+2011,17,Pittsburgh Steelers,Cleveland Browns,-6.5,False,38.0,-270,230
+2011,17,Baltimore Ravens,Cincinnati Bengals,-9.5,True,43.0,-500,400
+2011,17,Detroit Lions,Minnesota Vikings,-3.5,True,44.0,-200,170
+2011,17,New York Giants,Washington Redskins,-4.5,False,44.5,-215,180
+2011,17,Green Bay Packers,Chicago Bears,-11.5,True,43.5,-800,600
+2011,17,Dallas Cowboys,Philadelphia Eagles,-2.0,False,43.5,-130,110
+2011,17,New York Jets,Buffalo Bills,-1.0,True,38.0,-120,100
+2011,17,Atlanta Falcons,Carolina Panthers,-14.5,True,41.0,-1100,750
+2011,17,New Orleans Saints,Tampa Bay Buccaneers,-7.0,True,46.5,-310,260
+2011,17,St. Louis Rams,Seattle Seahawks,-3.0,False,42.5,-165,145
+2011,17,San Francisco 49ers,Arizona Cardinals,-6.0,True,39.0,-250,210
+2011,17,San Diego Chargers,Denver Broncos,-5.0,False,47.5,-230,190
+2010,17,Buffalo Bills,Indianapolis Colts,-8.0,True,32.0,-380,310
+2010,17,Carolina Panthers,New Orleans Saints,-10.0,True,41.0,-420,350
+2010,17,Cleveland Browns,Jacksonville Jaguars,-2.0,True,35.0,-135,115
+2010,17,Dallas Cowboys,Philadelphia Eagles,-3.0,True,47.5,-155,135
+2010,17,Chicago Bears,Detroit Lions,-4.5,False,44.5,-230,190
+2010,17,Houston Texans,New England Patriots,-8.0,True,46.5,-320,260
+2010,17,Pittsburgh Steelers,Miami Dolphins,-3.0,False,45.5,-160,140
+2010,17,Minnesota Vikings,New York Giants,-8.0,True,48.0,-360,290
+2010,17,New York Jets,Cincinnati Bengals,-10.0,True,33.5,-550,425
+2010,17,San Francisco 49ers,St. Louis Rams,-7.0,False,39.5,-300,250
+2010,17,Atlanta Falcons,Tampa Bay Buccaneers,-3.0,True,42.0,-155,135
+2010,17,Arizona Cardinals,Green Bay Packers,-3.0,True,42.0,-155,135
+2010,17,Denver Broncos,Kansas City Chiefs,-9.0,True,38.0,-425,330
+2010,17,Baltimore Ravens,Oakland Raiders,-10.0,False,39.0,-550,425
+2010,17,San Diego Chargers,Washington Redskins,-3.0,True,39.0,-170,150
+2010,17,Tennessee Titans,Seattle Seahawks,-6.0,False,45.0,-270,230
+2008,17,Tampa Bay Buccaneers,Oakland Raiders,-11.0,True,39.5,-600,450
+2008,17,Green Bay Packers,Detroit Lions,-11.0,True,41.5,-650,450
+2008,17,Philadelphia Eagles,Dallas Cowboys,-2.0,True,41.0,-140,120
+2008,17,Minnesota Vikings,New York Giants,-7.0,True,41.0,-310,250
+2008,17,Houston Texans,Chicago Bears,-3.0,True,46.5,-155,135
+2008,17,Carolina Panthers,New Orleans Saints,-2.0,False,51.5,-130,110
+2008,17,Atlanta Falcons,St. Louis Rams,-14.0,True,44.5,-1000,700
+2008,17,Cincinnati Bengals,Kansas City Chiefs,-1.5,True,40.0,-125,105
+2008,17,Baltimore Ravens,Jacksonville Jaguars,-11.0,True,37.5,-625,450
+2008,17,Tennessee Titans,Indianapolis Colts,-3.0,False,38.5,-145,125
+2008,17,Pittsburgh Steelers,Cleveland Browns,-11.5,True,33.5,-650,500
+2008,17,New York Jets,Miami Dolphins,-2.5,True,43.0,-145,125
+2008,17,New England Patriots,Buffalo Bills,-5.5,False,34.5,-240,200
+2008,17,Arizona Cardinals,Seattle Seahawks,-7.0,True,46.5,-310,260
+2008,17,San Francisco 49ers,Washington Redskins,-2.5,True,37.0,-145,125
+2008,17,San Diego Chargers,Denver Broncos,-7.0,True,50.5,-330,270
+2007,17,New England Patriots,New York Giants,-13.5,False,47.0,-950,650
+2007,17,Philadelphia Eagles,Buffalo Bills,-9.0,True,39.5,-400,325
+2007,17,Carolina Panthers,Tampa Bay Buccaneers,-3.0,False,35.5,-150,130
+2007,17,Cincinnati Bengals,Miami Dolphins,-2.5,False,45.5,-140,120
+2007,17,Washington Redskins,Dallas Cowboys,-9.0,True,38.5,-440,350
+2007,17,Green Bay Packers,Detroit Lions,-3.5,True,39.0,-195,170
+2007,17,Houston Texans,Jacksonville Jaguars,-7.0,True,42.0,-320,250
+2007,17,Chicago Bears,New Orleans Saints,-1.0,True,41.5,-120,100
+2007,17,Pittsburgh Steelers,Baltimore Ravens,-3.5,False,34.5,-190,170
+2007,17,Seattle Seahawks,Atlanta Falcons,-2.0,False,38.5,-135,115
+2007,17,Cleveland Browns,San Francisco 49ers,-11.5,True,41.0,-650,475
+2007,17,Tennessee Titans,Indianapolis Colts,-4.5,False,40.5,-210,190
+2007,17,Minnesota Vikings,Denver Broncos,-3.0,False,41.0,-145,125
+2007,17,San Diego Chargers,Oakland Raiders,-9.5,False,41.0,-450,350
+2007,17,Arizona Cardinals,St. Louis Rams,-6.0,True,48.5,-260,210
+2007,17,New York Jets,Kansas City Chiefs,-5.0,True,35.0,-240,190
+2006,17,New York Giants,Washington Redskins,-2.0,False,42.5,-130,110
+2006,17,Baltimore Ravens,Buffalo Bills,-9.5,True,36.5,-500,375
+2006,17,Chicago Bears,Green Bay Packers,-3.5,True,38.5,-185,165
+2006,17,Cincinnati Bengals,Pittsburgh Steelers,-6.0,True,44.0,-260,215
+2006,17,Dallas Cowboys,Detroit Lions,-13.5,True,45.0,-1000,725
+2006,17,Houston Texans,Cleveland Browns,-6.0,True,37.5,-270,210
+2006,17,Indianapolis Colts,Miami Dolphins,-9.0,True,43.5,-430,330
+2006,17,Kansas City Chiefs,Jacksonville Jaguars,-2.5,True,36.5,-140,120
+2006,17,St. Louis Rams,Minnesota Vikings,-1.5,False,43.5,-120,100
+2006,17,Carolina Panthers,New Orleans Saints,-2.5,False,38.0,-150,130
+2006,17,New York Jets,Oakland Raiders,-10.5,True,34.0,-600,450
+2006,17,Philadelphia Eagles,Atlanta Falcons,-6.5,True,42.5,-330,250
+2006,17,Tampa Bay Buccaneers,Seattle Seahawks,-3.0,True,37.0,-150,130
+2006,17,Tennessee Titans,New England Patriots,-3.5,True,41.0,-180,160
+2006,17,Denver Broncos,San Francisco 49ers,-11.0,True,40.0,-650,475
+2006,17,San Diego Chargers,Arizona Cardinals,-13.5,True,44.5,-950,675
